@@ -1,0 +1,7 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Đừng làm phiền tôi.
+translation: Leave me alone.
+vocab:
+- vie/đừng
+- vie/làm-phiền
+- vie/tôi

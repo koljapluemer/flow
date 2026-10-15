@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Können Sie mir helfen?
+translation: Can you help me?
+vocab:
+- deu/sie

@@ -28,7 +28,7 @@ const EXAMPLE_COUNT_LOW = 2
 const EXAMPLE_COUNT_HIGH = 3
 
 function toExample(sentence: SentenceRow): Example {
-  return { text: sentence.id, translation: sentence.translation }
+  return { text: sentence.text, translation: sentence.translation }
 }
 
 export function resolveVocabCandidate(
@@ -41,11 +41,12 @@ export function resolveVocabCandidate(
     .filter((sentence) => sentence.id !== initialSentence && sentence.vocabIds.includes(item.id))
     .map(toExample)
   const initial = sentences.get(initialSentence)
+  const entry = vocab.get(item.id)
 
   const candidate: VocabCandidate = {
     kind: 'vocab',
-    word: item.id,
-    translation: vocab.get(item.id)?.translation ?? '',
+    word: entry?.word ?? '',
+    translation: entry?.translation ?? '',
     frontExamples: [],
     frontShowTranslations: level < 3,
     backExamples: []
@@ -71,9 +72,12 @@ export function resolveSentenceCandidate(
   const sentence = sentences.get(item.id)
   return {
     kind: 'sentence',
-    text: item.id,
+    text: sentence?.text ?? '',
     translation: sentence?.translation ?? '',
-    vocab: (sentence?.vocabIds ?? []).map((id) => ({ word: id, translation: vocab.get(id)?.translation ?? '' })),
+    vocab: (sentence?.vocabIds ?? []).map((id) => ({
+      word: vocab.get(id)?.word ?? '',
+      translation: vocab.get(id)?.translation ?? ''
+    })),
     showVocabOnFront: !item.card.lastAnswerCorrect
   }
 }

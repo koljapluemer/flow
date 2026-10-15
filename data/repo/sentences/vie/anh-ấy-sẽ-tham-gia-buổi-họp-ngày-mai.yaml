@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Anh ấy sẽ tham gia buổi họp ngày mai.
+translation: He will attend the meeting tomorrow.
+vocab:
+- vie/sẽ

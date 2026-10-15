@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Chúng tôi sẽ quay lại đây vào tuần tới.
+translation: We will come back here next week.
+vocab:
+- vie/quay-lại

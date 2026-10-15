@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Wir kennen uns schon lange.
+translation: We have known each other for a long time.
+vocab:
+- deu/kennen

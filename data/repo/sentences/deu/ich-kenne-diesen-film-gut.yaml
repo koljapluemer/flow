@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Ich kenne diesen Film gut.
+translation: I know this movie well.
+vocab:
+- deu/kennen

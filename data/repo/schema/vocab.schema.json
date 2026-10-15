@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Vocab",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["lemma", "translation"],
+  "properties": {
+    "lemma": { "type": "string", "minLength": 1 },
+    "translation": { "type": "string", "minLength": 1 }
+  }
+}

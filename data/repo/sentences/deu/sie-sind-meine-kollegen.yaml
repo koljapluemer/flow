@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Sie sind meine Kollegen.
+translation: They are my colleagues.
+vocab:
+- deu/sie

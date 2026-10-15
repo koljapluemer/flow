@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Xin lỗi, tôi không muốn làm phiền bạn.
+translation: Sorry, I don't want to bother you.
+vocab:
+- vie/làm-phiền

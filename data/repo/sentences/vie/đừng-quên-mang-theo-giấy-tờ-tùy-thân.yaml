@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Đừng quên mang theo giấy tờ tùy thân.
+translation: Don't forget to bring your ID.
+vocab:
+- vie/đừng

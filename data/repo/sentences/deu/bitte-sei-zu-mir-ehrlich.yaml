@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Bitte sei zu mir ehrlich.
+translation: Please be honest with me.
+vocab:
+- deu/zu

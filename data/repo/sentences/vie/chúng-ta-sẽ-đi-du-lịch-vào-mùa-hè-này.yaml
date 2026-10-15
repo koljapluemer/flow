@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Chúng ta sẽ đi du lịch vào mùa hè này.
+translation: We will travel this summer.
+vocab:
+- vie/sẽ

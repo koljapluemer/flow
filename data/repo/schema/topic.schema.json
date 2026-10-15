@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Topic",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["title", "sentences"],
+  "properties": {
+    "title": { "type": "string", "minLength": 1 },
+    "sentences": {
+      "description": "Sentence refs (<lang>/<slug>), in any languages",
+      "type": "array",
+      "uniqueItems": true,
+      "items": { "type": "string", "pattern": "^[a-z]{3}/[^/]+$" }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Tôi thích đọc sách vào buổi tối.
+translation: I like reading books in the evening.
+vocab:
+- vie/tôi

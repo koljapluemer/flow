@@ -1,0 +1,9 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Nett, Sie kennen zu lernen
+translation: Nice to meet you
+vocab:
+- deu/nett
+- deu/kennen
+- deu/zu
+- deu/lernen
+- deu/sie

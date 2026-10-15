@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Das Wetter ist heute schön.
+translation: The weather is nice today.
+vocab:
+- deu/schön

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Ich gehe zu der Schule morgen.
+translation: I am going to the school tomorrow.
+vocab:
+- deu/zu

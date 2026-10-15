@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Bitte nehmen Sie Platz.
+translation: Please take a seat.
+vocab:
+- deu/bitte

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../schema/topic.schema.json
+title: Basic German
+sentences:
+- deu/nett-sie-kennen-zu-lernen
+- deu/bitte-schön
+- deu/das-ist-wirklich-ein-netter-hund
+- deu/sie-haben-einen-netten-garten
+- deu/ich-kenne-diesen-film-gut
+- deu/wir-kennen-uns-schon-lange
+- deu/ich-gehe-zu-der-schule-morgen
+- deu/bitte-sei-zu-mir-ehrlich
+- deu/ich-lerne-deutsch-jeden-tag
+- deu/sie-lernen-viel-in-der-universität
+- deu/sie-sind-meine-kollegen
+- deu/können-sie-mir-helfen
+- deu/könnten-sie-das-bitte-wiederholen
+- deu/bitte-nehmen-sie-platz
+- deu/das-wetter-ist-heute-schön
+- deu/sie-hat-ein-schönes-lächeln

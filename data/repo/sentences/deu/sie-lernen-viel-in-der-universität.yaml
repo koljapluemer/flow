@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Sie lernen viel in der Universität.
+translation: They learn a lot at the university.
+vocab:
+- deu/lernen

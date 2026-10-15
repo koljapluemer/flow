@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Könnten Sie das bitte wiederholen?
+translation: Could you please repeat that?
+vocab:
+- deu/bitte

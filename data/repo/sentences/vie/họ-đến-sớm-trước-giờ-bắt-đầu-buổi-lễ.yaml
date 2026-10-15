@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Họ đến sớm trước giờ bắt đầu buổi lễ.
+translation: They arrived early before the ceremony started.
+vocab:
+- vie/sớm

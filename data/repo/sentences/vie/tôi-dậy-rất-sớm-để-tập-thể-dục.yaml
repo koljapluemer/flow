@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Tôi dậy rất sớm để tập thể dục.
+translation: I wake up very early to exercise.
+vocab:
+- vie/sớm

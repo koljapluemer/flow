@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Đừng lo lắng, mọi chuyện sẽ ổn thôi.
+translation: Don't worry, everything will be fine.
+vocab:
+- vie/đừng

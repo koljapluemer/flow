@@ -1,25 +1,36 @@
 # german-flow
 
-Spaced-repetition practice for German sentences and vocab. Content is generated via OpenAI and stored per user in Dexie. Details on the practice flow: `doc/practice.md`.
+Spaced-repetition practice for sentences and vocab, grouped into topics. Content is static, built by the CMS (`cms/`) and served from `public/data/`. Progress is stored per user in Dexie. Details on the practice flow: `doc/practice.md`.
 
 ## Local development
 
 ```sh
-cp .env.example .env   # set OPENAI_API_KEY
 npm install
 npm run dev
 ```
 
-`npm run dev` also serves `/api/generate` locally (`netlify/devApi.ts`). No Netlify CLI needed.
+## Content
 
-## OpenAI key
+Content moves through three stages:
 
-The key never reaches the browser. The client posts prompts to `/api/generate`, a Netlify Function (`netlify/functions/generate.ts`) that fixes model and output size and forwards to OpenAI.
+1. `data/in/` — gitignored raw input in ad-hoc formats, e.g. `data/in/sentences/<lang>.txt` (`"English": "Target"` per line).
+2. `data/repo/` — source of truth, YAML, edit by hand. Topic-first:
+   - `topics.yaml`, `sentences.yaml`, `vocab.yaml`: flat lists of refs.
+   - `topics/<id>.yaml`: title + sentence refs, in any languages.
+   - `sentences/<lang>/<slug>.yaml`, `vocab/<lang>/<slug>.yaml`: one file per item; its ref is `<lang>/<slug>`.
+   - `schema/`: JSON Schemas for each item type (editors pick them up via the header comment).
+3. `public/data/` — compact JSON rendered from `data/repo/`. Never edit by hand.
 
-Never prefix the key with `VITE_`, or it ends up in the client bundle.
+The CMS needs [uv](https://docs.astral.sh/uv/) and `OPENAI_API_KEY` in `.env` (`cp .env.example .env`).
 
-The endpoint is public. Abuse is limited by the per-IP rate limit in the function config (10 requests/min, deployed only) and the spend limit on the OpenAI key.
+```sh
+cd cms
+uv run misc_scripts/000_generate-sentence-vocab.py deu   # data/in → data/repo (OpenAI: vocab split, example sentences)
+uv run render.py                                         # validate data/repo → public/data
+```
+
+`000_generate-sentence-vocab.py` skips sentences already in the repo and adds generated example sentences until every vocab item has at least 3 sentences. `render.py` fails with a list of problems if the repo is invalid (schema errors, unlisted or missing files, unknown refs, too few examples).
 
 ## Deployment (Netlify)
 
-Set `OPENAI_API_KEY` under Site settings → Environment variables: marked as secret, scope Functions. Netlify picks up `netlify/functions/` automatically.
+Commit `public/data/` after rendering; Netlify only runs `npm run build`.

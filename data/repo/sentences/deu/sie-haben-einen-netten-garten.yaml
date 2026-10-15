@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Sie haben einen netten Garten.
+translation: They have a nice garden.
+vocab:
+- deu/nett

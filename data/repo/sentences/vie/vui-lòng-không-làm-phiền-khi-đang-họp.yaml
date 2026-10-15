@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Vui lòng không làm phiền khi đang họp.
+translation: Please do not disturb during the meeting.
+vocab:
+- vie/làm-phiền

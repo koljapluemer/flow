@@ -17,6 +17,7 @@ function isSentenceDue(card: SentenceCardRow, vocabCards: (VocabCardRow | undefi
   return !card.lastAnswerCorrect || vocabCards.every((vocabCard) => isVocabMastered(vocabCard, now))
 }
 
+// Only cards of the given (selected) sentences and their vocab are considered.
 export function buildDuePool(
   sentences: Map<string, SentenceRow>,
   vocabCards: Map<string, VocabCardRow>,
@@ -24,14 +25,16 @@ export function buildDuePool(
   now: Date
 ): DueItem[] {
   const pool: DueItem[] = []
+  const activeVocabIds = new Set([...sentences.values()].flatMap((sentence) => sentence.vocabIds))
 
   for (const card of vocabCards.values()) {
-    if (isVocabDue(card, now)) pool.push({ kind: 'vocab', id: card.id, card })
+    if (activeVocabIds.has(card.id) && isVocabDue(card, now)) pool.push({ kind: 'vocab', id: card.id, card })
   }
 
   for (const card of sentenceCards.values()) {
-    const vocabIds = sentences.get(card.id)?.vocabIds ?? []
-    const containedCards = vocabIds.map((id) => vocabCards.get(id))
+    const sentence = sentences.get(card.id)
+    if (!sentence) continue
+    const containedCards = sentence.vocabIds.map((id) => vocabCards.get(id))
     if (isSentenceDue(card, containedCards, now)) pool.push({ kind: 'sentence', id: card.id, card })
   }
 

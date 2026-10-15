@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Cô ấy đã quay lại thành phố sau nhiều năm.
+translation: She returned to the city after many years.
+vocab:
+- vie/quay-lại

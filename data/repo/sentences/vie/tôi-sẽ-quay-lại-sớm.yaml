@@ -1,0 +1,8 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Tôi sẽ quay lại sớm
+translation: Be back soon
+vocab:
+- vie/tôi
+- vie/sẽ
+- vie/quay-lại
+- vie/sớm

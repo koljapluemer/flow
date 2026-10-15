@@ -1,0 +1,6 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Bitte schön!
+translation: You're Welcome
+vocab:
+- deu/bitte
+- deu/schön

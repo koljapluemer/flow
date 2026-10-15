@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Ich lerne Deutsch jeden Tag.
+translation: I learn German every day.
+vocab:
+- deu/lernen

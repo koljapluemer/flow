@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Sie hat ein schönes Lächeln.
+translation: She has a beautiful smile.
+vocab:
+- deu/schön
