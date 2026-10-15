@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حاسه إني تعبانة ومش قادره أطلع.
+translation: I feel tired and can't go out.
+vocab:
+- arz/حاسه

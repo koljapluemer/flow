@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا معلومش إذا كان هيجي النهاردة ولا لأ.
+translation: I don't know if he will come today or not.
+vocab:
+- arz/معلومش

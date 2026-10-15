@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هو ما رضي بالفشل وحاول تاني وثالث.
+translation: He did not accept failure and tried again and again.
+vocab:
+- arz/فشل

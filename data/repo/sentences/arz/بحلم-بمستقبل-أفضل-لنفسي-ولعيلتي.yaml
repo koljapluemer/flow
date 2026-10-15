@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بحلم بمستقبل أفضل لنفسي ولعيلتي.
+translation: I dream of a better future for myself and my family.
+vocab:
+- arz/مستقبل

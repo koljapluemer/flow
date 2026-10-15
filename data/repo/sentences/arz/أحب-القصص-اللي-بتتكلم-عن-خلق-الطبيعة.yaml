@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أحب القصص اللي بتتكلم عن خلق الطبيعة.
+translation: I like stories that talk about the creation of nature.
+vocab:
+- arz/خلق

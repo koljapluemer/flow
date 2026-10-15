@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كانت الرحلة ممتعة جدا مع العيلة.
+translation: The trip was very enjoyable with the family.
+vocab:
+- arz/كانت

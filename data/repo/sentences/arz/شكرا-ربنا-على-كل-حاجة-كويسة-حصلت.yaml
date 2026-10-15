@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: شكراً ربنا على كل حاجة كويسة حصلت.
+translation: Thanks to God for all the good things that happened.
+vocab:
+- arz/ربنا

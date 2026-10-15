@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: شك في النتيجة خلاني أراجع الدرس تاني.
+translation: Doubt about the result made me review the lesson again.
+vocab:
+- arz/شك

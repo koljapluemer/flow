@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ربنا يحفظ عيلتك من كل شر.
+translation: May God protect your family from all evil.
+vocab:
+- arz/ربنا

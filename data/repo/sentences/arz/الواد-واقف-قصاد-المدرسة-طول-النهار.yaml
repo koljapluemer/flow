@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الواد واقف قصاد المدرسة طول النهار.
+translation: The boy is standing in front of the school all day.
+vocab:
+- arz/قصاد

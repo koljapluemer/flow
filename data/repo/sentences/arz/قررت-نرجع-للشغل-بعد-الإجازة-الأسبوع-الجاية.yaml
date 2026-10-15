@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: قررت نرجع للشغل بعد الإجازة الأسبوع الجاية.
+translation: I decided we return to work after the holiday next week.
+vocab:
+- arz/نرجع

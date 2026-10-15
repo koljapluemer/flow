@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الموظف الجديد يشتغل بجد في المشروع الجديد.
+translation: The new employee works hard on the new project.
+vocab:
+- arz/يشتغل

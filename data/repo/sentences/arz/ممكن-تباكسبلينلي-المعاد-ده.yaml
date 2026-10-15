@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ممكن تباكسبلينلي المعاد ده؟
+translation: Can you explain this appointment to me?
+vocab:
+- arz/باكسبلين

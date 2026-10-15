@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اسف على التأخير، كان في زحمة في الطريق.
+translation: Sorry for the delay, there was traffic on the road.
+vocab:
+- arz/اسف

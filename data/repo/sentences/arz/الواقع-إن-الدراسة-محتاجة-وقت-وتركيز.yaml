@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الواقع إن الدراسة محتاجة وقت وتركيز.
+translation: The reality is that studying requires time and focus.
+vocab:
+- arz/واقع

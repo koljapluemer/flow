@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الكسل بيخليك تضيّع فرص كتير.
+translation: Laziness causes you to miss many opportunities.
+vocab:
+- arz/كسل

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الحديقة دي فيها أشجار مثمرة كثيرة.
+translation: This garden has many fruit trees.
+vocab:
+- arz/فيها

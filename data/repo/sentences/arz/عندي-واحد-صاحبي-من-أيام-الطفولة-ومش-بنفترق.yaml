@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: عندي واحد صاحبي من أيام الطفولة ومش بنفترق.
+translation: I have one friend from childhood and we never separate.
+vocab:
+- arz/واحد

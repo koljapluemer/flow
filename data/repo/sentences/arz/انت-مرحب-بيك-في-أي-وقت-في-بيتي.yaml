@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: انت مرحب بيك في أي وقت في بيتي.
+translation: You are welcome anytime in my house.
+vocab:
+- arz/انت

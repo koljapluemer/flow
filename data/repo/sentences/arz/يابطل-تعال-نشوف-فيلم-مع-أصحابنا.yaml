@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: يابطل، تعال نشوف فيلم مع أصحابنا.
+translation: Hey hero, let's watch a movie with our friends.
+vocab:
+- arz/يابطل

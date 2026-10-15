@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: محتاج تعمل مجهود أكتر عشان تنجح.
+translation: You need to put in more effort to succeed.
+vocab:
+- arz/يعمل

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أحب ألبس الملابس السودا في المناسبات الرسمية.
+translation: I like to wear black clothes on formal occasions.
+vocab:
+- arz/سودا

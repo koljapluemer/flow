@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الفكرة دي مش جايه دماغي دلوقتي.
+translation: This idea isn't coming to my mind right now.
+vocab:
+- arz/دماغ

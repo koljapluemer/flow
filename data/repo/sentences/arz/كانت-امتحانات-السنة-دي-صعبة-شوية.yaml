@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كانت امتحانات السنة دي صعبة شوية.
+translation: This year's exams were a bit difficult.
+vocab:
+- arz/كانت

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الاعتذار بيصلح العلاقات بين الناس.
+translation: Apology fixes relationships between people.
+vocab:
+- arz/اعتذار

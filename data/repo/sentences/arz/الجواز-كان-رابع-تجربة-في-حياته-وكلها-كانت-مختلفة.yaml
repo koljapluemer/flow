@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الجواز كان رابع تجربة في حياته وكلها كانت مختلفة.
+translation: Marriage was the fourth experience in his life and all were different.
+vocab:
+- arz/رابع

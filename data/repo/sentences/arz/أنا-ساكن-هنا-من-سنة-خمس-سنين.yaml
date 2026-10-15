@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا ساكن هنا من سنة خمس سنين.
+translation: I have been living here for five years.
+vocab:
+- arz/سنة

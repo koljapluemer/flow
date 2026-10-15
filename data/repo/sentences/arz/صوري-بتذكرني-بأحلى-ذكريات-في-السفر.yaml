@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: صوري بتذكرني بأحلى ذكريات في السفر.
+translation: My photos remind me of the best memories during travel.
+vocab:
+- arz/ذكريات

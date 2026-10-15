@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الإنسان لازم يحترم غيره في كل وقت.
+translation: A person must always respect others.
+vocab:
+- arz/انسان

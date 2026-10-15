@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الخبر الحلو خلاني أفرح كتير.
+translation: The good news made me very happy.
+vocab:
+- arz/خلى

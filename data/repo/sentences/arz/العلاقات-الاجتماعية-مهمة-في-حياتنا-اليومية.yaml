@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: العلاقات الاجتماعية مهمة في حياتنا اليومية.
+translation: Social relationships are important in our daily life.
+vocab:
+- arz/العلاقات

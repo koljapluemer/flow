@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: قول الحقيقة مهما كانت صعبة.
+translation: Tell the truth no matter how hard it is.
+vocab:
+- arz/قول

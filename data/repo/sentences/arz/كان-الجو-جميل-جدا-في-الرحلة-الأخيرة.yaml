@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كان الجو جميل جداً في الرحلة الأخيرة.
+translation: The weather was very nice on the last trip.
+vocab:
+- arz/كان

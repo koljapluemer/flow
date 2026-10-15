@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: طلبت السلام على الجيران لما قابلتهم.
+translation: I asked to greet the neighbors when I met them.
+vocab:
+- arz/سلام

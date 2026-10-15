@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لازم نفكر كويس قبل ما ناخد قرار في الستويشن دي.
+translation: We have to think carefully before making a decision in this situation.
+vocab:
+- arz/ستويشن

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: سافرت مصر الصيف اللي فات مع العائلة.
+translation: I traveled to Egypt last summer with the family.
+vocab:
+- arz/سافر

@@ -11,8 +11,8 @@ ROOT = Path(__file__).resolve().parents[2]
 REPO = ROOT / "data" / "repo"
 SCHEMA_DIR = REPO / "schema"
 
-POOLS = ("topics", "sentences", "vocab")
-SCHEMA_NAMES = {"topics": "topic", "sentences": "sentence", "vocab": "vocab"}
+POOLS = ("topics", "sentences", "vocab", "videos")
+SCHEMA_NAMES = {"topics": "topic", "sentences": "sentence", "vocab": "vocab", "videos": "video"}
 MAX_SLUG_LENGTH = 60
 
 

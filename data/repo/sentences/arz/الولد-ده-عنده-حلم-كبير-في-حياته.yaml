@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الولد ده عنده حلم كبير في حياته.
+translation: That boy has a big dream in his life.
+vocab:
+- arz/كبير

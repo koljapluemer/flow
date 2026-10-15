@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الذكريات القديمة بتفرحني لما أتذكرها.
+translation: Old memories make me happy when I remember them.
+vocab:
+- arz/ذكريات

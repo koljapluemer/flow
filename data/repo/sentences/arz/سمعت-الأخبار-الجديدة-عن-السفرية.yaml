@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: سمعت الأخبار الجديدة عن السفرية.
+translation: I heard the new news about the trip.
+vocab:
+- arz/سمع

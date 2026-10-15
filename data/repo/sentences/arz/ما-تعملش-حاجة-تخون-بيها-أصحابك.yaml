@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ما تعملش حاجة تخون بيها أصحابك.
+translation: Don't do anything that betrays your friends.
+vocab:
+- arz/اخون

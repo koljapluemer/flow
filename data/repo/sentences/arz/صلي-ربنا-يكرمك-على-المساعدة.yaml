@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: صلي ربنا يكرمك على المساعدة.
+translation: Pray to God to bless you for the help.
+vocab:
+- arz/صلي

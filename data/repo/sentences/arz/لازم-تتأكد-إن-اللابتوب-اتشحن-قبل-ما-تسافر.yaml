@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لازم تتأكد إن اللابتوب اتشحن قبل ما تسافر.
+translation: You should make sure the laptop is charged before you travel.
+vocab:
+- arz/يتشحن

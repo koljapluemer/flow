@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الدنيا الممطرة خلت الشوارع زحمة.
+translation: The rainy weather made the streets crowded.
+vocab:
+- arz/خلى

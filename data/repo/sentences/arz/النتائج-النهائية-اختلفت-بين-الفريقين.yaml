@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: النتائج النهائية اختلفت بين الفريقين.
+translation: The final results differed between the two teams.
+vocab:
+- arz/اختلف

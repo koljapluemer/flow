@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ينفع نخلص المشروع قبل نهاية الأسبوع؟
+translation: Is it possible to finish the project before the end of the week?
+vocab:
+- arz/ينفع

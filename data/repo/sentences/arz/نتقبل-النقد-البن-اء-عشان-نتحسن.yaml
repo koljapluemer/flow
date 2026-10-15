@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: نتقبل النقد البنّاء عشان نتحسن.
+translation: We accept constructive criticism to improve.
+vocab:
+- arz/نتقبل

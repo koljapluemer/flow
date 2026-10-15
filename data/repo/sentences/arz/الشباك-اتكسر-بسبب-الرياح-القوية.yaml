@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الشباك اتكسر بسبب الرياح القوية.
+translation: The window broke because of the strong winds.
+vocab:
+- arz/شباك

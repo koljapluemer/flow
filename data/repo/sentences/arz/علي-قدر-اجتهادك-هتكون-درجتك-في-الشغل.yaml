@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: علي قدر اجتهادك هتكون درجتك في الشغل.
+translation: Your grade at work will be according to your effort.
+vocab:
+- arz/درجة

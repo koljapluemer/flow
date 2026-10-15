@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كل واحد ليه طريقته في الدراسة والفهم.
+translation: Everyone has their own way of studying and understanding.
+vocab:
+- arz/طريقه

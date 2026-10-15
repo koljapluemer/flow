@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الحياه مستمرة، فلازم نتعلم ازاي اموف اون مع المشاكل.
+translation: Life goes on, so we must learn how to move on with problems.
+vocab:
+- arz/اموف-اون

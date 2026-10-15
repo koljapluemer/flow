@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: شفت فيديو جديد على يوتيوب عن الطبخ.
+translation: I watched a new video on YouTube about cooking.
+vocab:
+- arz/فيديو

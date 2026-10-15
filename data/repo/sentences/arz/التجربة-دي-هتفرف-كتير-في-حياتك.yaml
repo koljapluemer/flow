@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: التجربة دي هتفرف كتير في حياتك.
+translation: This experience will make a big difference in your life.
+vocab:
+- arz/يفرق

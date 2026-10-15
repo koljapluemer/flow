@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هنقضي الويك اند في الريف للاستجمام.
+translation: We will spend the weekend in the countryside for relaxation.
+vocab:
+- arz/ويك-اند

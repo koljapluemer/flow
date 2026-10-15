@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: تكلمت مع المدرس عن المشكلة وأوضحها لي.
+translation: I spoke with the teacher about the problem and he explained it to me.
+vocab:
+- arz/تكلم

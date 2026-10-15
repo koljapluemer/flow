@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كان نصيبها الفوز في المسابقة.
+translation: Her share was winning the competition.
+vocab:
+- arz/نصيب

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بعتلك إيم في الشغل علشان نتفق على المواعيد.
+translation: I sent you an email at work to agree on the timings.
+vocab:
+- arz/ايم

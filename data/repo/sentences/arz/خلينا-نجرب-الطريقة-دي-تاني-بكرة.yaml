@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: خلينا نجرب الطريقة دي تاني بكرة.
+translation: Let's try this method again tomorrow.
+vocab:
+- arz/تاني

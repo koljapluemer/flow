@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بحب الناس اللي عندها صدق في كلامها.
+translation: I love people who have honesty in their speech.
+vocab:
+- arz/صدق

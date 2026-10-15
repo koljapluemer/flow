@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لازم تحاول تلاقي حل للمشكلة بدل ما تستسلم.
+translation: You must try to find a solution to the problem instead of giving up.
+vocab:
+- arz/يحاول

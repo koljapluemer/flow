@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الفرصة قدامك عشان تبدأ مشروع ناجح.
+translation: The opportunity is in front of you to start a successful project.
+vocab:
+- arz/فرصه

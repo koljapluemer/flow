@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الحياة مش دايماً سهلة، لازم نصبر.
+translation: Life is not always easy, we have to be patient.
+vocab:
+- arz/حياة

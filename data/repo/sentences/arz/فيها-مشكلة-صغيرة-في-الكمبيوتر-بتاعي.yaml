@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: فيها مشكلة صغيرة في الكمبيوتر بتاعي.
+translation: There is a small problem in my computer.
+vocab:
+- arz/فيها

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا عايز أقدم اعتذار لو أخطيت في حقك.
+translation: I want to apologize if I wronged you.
+vocab:
+- arz/اعتذار

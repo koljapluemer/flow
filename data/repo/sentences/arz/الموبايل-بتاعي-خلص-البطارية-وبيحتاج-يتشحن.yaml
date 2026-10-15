@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الموبايل بتاعي خلص البطارية وبيحتاج يتشحن.
+translation: My phone's battery is dead and it needs to be charged.
+vocab:
+- arz/يتشحن

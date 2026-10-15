@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: البيت قدام المدرسة علطول.
+translation: The house is right in front of the school.
+vocab:
+- arz/قدام

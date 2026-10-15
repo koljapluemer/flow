@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كل علاقة بتحتاج صبر وتفاهم.
+translation: Every relationship needs patience and understanding.
+vocab:
+- arz/علاقه

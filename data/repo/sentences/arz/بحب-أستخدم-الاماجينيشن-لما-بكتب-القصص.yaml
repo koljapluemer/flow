@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بحب أستخدم الاماجينيشن لما بكتب القصص.
+translation: I like to use imagination when I write stories.
+vocab:
+- arz/الاماجينيشن

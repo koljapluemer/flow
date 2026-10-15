@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا ناوي أسافر الشغل الأسبوع الجاي.
+translation: I plan to travel for work next week.
+vocab:
+- arz/سافر

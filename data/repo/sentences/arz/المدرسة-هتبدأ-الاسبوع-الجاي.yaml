@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: المدرسة هتبدأ الاسبوع الجاي.
+translation: School will start next week.
+vocab:
+- arz/ابدأ

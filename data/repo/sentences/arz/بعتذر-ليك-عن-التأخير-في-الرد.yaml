@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بعتذر ليك عن التأخير في الرد.
+translation: I apologize to you for the delay in replying.
+vocab:
+- arz/بعتذر

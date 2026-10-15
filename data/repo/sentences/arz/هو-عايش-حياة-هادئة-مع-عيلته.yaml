@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هو عايش حياة هادئة مع عيلته.
+translation: He lives a peaceful life with his family.
+vocab:
+- arz/عايش

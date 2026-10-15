@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لازم تنظف السكرين عشان تقدر تشوف كويس.
+translation: You have to clean the screen to see clearly.
+vocab:
+- arz/سكرين

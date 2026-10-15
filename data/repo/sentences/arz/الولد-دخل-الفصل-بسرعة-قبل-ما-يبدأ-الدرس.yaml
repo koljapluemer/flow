@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الولد دخل الفصل بسرعة قبل ما يبدأ الدرس.
+translation: The boy entered the classroom quickly before the lesson started.
+vocab:
+- arz/يدخل

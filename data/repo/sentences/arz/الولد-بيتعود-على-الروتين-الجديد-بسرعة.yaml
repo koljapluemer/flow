@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الولد بيتعود على الروتين الجديد بسرعة.
+translation: The boy gets used to the new routine quickly.
+vocab:
+- arz/يتعود

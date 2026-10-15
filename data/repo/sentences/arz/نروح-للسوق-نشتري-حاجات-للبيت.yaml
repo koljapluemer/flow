@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: نروح للسوق نشتري حاجات للبيت.
+translation: We go to the market to buy things for the house.
+vocab:
+- arz/نروح

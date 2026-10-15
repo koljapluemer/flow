@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الأعضاء في الفريق بيتعاونوا مع بعض لتحقيق الهدف.
+translation: The team members cooperate with each other to achieve the goal.
+vocab:
+- arz/بعض

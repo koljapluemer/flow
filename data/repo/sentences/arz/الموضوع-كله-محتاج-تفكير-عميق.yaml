@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الموضوع كله محتاج تفكير عميق.
+translation: The whole topic requires deep thinking.
+vocab:
+- arz/الموضوع

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: المدرس باكسبلين الدرس بطريقة سهلة.
+translation: The teacher explained the lesson in an easy way.
+vocab:
+- arz/باكسبلين

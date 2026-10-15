@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: فعلاً، الجو النهاردة تحسن عن البارح.
+translation: Indeed, the weather today improved compared to yesterday.
+vocab:
+- arz/فعلا

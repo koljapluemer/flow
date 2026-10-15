@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بعتلي جزء من الفلوس اللي طالباها.
+translation: He sent me part of the money he asked for.
+vocab:
+- arz/جزء

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: طلبت أكل من المطعم اللي جنبي.
+translation: I ordered food from the nearby restaurant.
+vocab:
+- arz/طلب

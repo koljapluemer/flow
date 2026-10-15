@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كل واحد وله نصيب في الحياة.
+translation: Everyone has their share in life.
+vocab:
+- arz/نصيب

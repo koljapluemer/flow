@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: يابطل، مستواك في اللعب تحسن جدًا.
+translation: Hey champ, your level in playing improved a lot.
+vocab:
+- arz/يابطل

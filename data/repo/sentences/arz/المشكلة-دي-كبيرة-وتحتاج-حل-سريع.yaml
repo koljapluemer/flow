@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: المشكلة دي كبيرة وتحتاج حل سريع.
+translation: This problem is big and needs a quick solution.
+vocab:
+- arz/كبير

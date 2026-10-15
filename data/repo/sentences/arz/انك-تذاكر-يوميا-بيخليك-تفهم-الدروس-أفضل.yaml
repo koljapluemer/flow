@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: انك تذاكر يومياً بيخليك تفهم الدروس أفضل.
+translation: Studying daily helps you understand lessons better.
+vocab:
+- arz/ان

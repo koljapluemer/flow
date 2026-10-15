@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هي بتحب تحضر الأفلام العربية القديمة.
+translation: She loves watching old Arabic movies.
+vocab:
+- arz/يحب

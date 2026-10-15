@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: خلق فرصة جديدة للتعلم والتطور.
+translation: He created a new opportunity for learning and development.
+vocab:
+- arz/خلق

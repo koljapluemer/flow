@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بلقاء ده مهم لحل المشاكل بيننا.
+translation: This meeting is important to solve issues between us.
+vocab:
+- arz/مهم

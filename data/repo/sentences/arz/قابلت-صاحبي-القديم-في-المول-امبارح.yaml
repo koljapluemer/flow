@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: قابلت صاحبي القديم في المول امبارح.
+translation: I met my old friend at the mall yesterday.
+vocab:
+- arz/قابل

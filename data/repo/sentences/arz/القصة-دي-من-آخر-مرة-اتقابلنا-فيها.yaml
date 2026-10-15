@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: القصة دي من آخر مرة اتقابلنا فيها.
+translation: This story is from the last time we met.
+vocab:
+- arz/آخر

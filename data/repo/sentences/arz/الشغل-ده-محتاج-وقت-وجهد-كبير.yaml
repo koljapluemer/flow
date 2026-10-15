@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الشغل ده محتاج وقت وجهد كبير.
+translation: This work requires a lot of time and effort.
+vocab:
+- arz/عمل

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الحياة بتعلمنا كتير من التجارب.
+translation: Life teaches us a lot through experiences.
+vocab:
+- arz/حياة

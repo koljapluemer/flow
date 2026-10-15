@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: مقدرش أخون ثقة الناس فيا.
+translation: I can't betray people's trust in me.
+vocab:
+- arz/اخون

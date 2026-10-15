@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الساعة دي قد كفاية تفرح في الحياة.
+translation: This hour is enough to enjoy life.
+vocab:
+- arz/قد

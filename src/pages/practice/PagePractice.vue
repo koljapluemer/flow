@@ -2,7 +2,7 @@
 import PracticeCard from './card/PracticeCard.vue'
 import { usePracticeQueue } from './queue/usePracticeQueue'
 
-const { loading, emptyReason, candidate, rate } = usePracticeQueue()
+const { loading, emptyReason, current, done } = usePracticeQueue()
 </script>
 
 <template>
@@ -12,9 +12,9 @@ const { loading, emptyReason, candidate, rate } = usePracticeQueue()
       class="loading loading-spinner loading-lg"
     />
     <PracticeCard
-      v-else-if="candidate"
-      :candidate="candidate"
-      @rate="rate"
+      v-else-if="current"
+      :current="current"
+      @done="done"
     />
     <template v-else-if="emptyReason === 'noTopics'">
       <p class="text-base-content/70">

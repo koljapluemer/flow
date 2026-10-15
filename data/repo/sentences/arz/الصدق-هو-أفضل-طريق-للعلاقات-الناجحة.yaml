@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الصدق هو أفضل طريق للعلاقات الناجحة.
+translation: Honesty is the best way for successful relationships.
+vocab:
+- arz/صدق

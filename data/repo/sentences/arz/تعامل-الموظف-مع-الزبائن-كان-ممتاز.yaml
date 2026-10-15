@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: تعامل الموظف مع الزبائن كان ممتاز.
+translation: The employee's dealings with customers were excellent.
+vocab:
+- arz/تعامل

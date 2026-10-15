@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اسف جداً، ماكانش قصدي أضايقك.
+translation: I'm very sorry, I didn't mean to upset you.
+vocab:
+- arz/اسف

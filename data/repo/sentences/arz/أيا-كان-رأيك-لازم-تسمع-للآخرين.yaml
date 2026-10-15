@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أيا كان رأيك، لازم تسمع للآخرين.
+translation: Whatever your opinion is, you must listen to others.
+vocab:
+- arz/أيا-كان

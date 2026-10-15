@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: افتكرت الكلام اللي قاله لي ف الوقت الصح.
+translation: I remembered what he told me at the right time.
+vocab:
+- arz/ف

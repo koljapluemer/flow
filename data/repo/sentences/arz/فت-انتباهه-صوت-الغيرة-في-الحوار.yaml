@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: فت انتباهه صوت الغيرة في الحوار.
+translation: The sound of jealousy in the conversation caught his attention.
+vocab:
+- arz/فت-انتباه

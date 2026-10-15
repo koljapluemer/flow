@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بلاقي المشكلة دي صعبة حلها لوحدي.
+translation: I find this problem difficult to solve on my own.
+vocab:
+- arz/بلاقي

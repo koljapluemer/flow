@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بجد العمل بتاعك ممتاز ومش سهل.
+translation: Truly, your work is excellent and not easy.
+vocab:
+- arz/بجد

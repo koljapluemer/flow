@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الأساسيات في اللغة مهمة لتعلمها كويس.
+translation: The basics in the language are important to learn well.
+vocab:
+- arz/اساس

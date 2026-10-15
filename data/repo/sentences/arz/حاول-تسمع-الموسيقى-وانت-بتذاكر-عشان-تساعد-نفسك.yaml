@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حاول تسمع الموسيقى وانت بتذاكر عشان تساعد نفسك.
+translation: Try listening to music while studying to help yourself.
+vocab:
+- arz/حاول

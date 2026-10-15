@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: القدر هو اللي بيحدد مصيرنا.
+translation: Fate is what determines our destiny.
+vocab:
+- arz/قدر

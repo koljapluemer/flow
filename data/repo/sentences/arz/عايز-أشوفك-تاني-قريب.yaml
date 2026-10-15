@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: عايز أشوفك تاني قريب.
+translation: I want to see you again soon.
+vocab:
+- arz/تاني

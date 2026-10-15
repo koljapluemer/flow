@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الطفل ممكن يتعرض لخطر لوحده في الشارع.
+translation: The child can be exposed to danger alone in the street.
+vocab:
+- arz/يتعرض

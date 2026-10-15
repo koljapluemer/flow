@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اشتريت واحد كتاب جديد عن التاريخ.
+translation: I bought one new book about history.
+vocab:
+- arz/واحد

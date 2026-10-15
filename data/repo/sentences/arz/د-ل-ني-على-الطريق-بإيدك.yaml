@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: دِلّني على الطريق بإيدك.
+translation: Show me the way with your hand.
+vocab:
+- arz/يد

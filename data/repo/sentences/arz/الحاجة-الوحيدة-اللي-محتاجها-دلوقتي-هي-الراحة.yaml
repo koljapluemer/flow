@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الحاجة الوحيدة اللي محتاجها دلوقتي هي الراحة.
+translation: The only thing I need now is rest.
+vocab:
+- arz/الحاجه

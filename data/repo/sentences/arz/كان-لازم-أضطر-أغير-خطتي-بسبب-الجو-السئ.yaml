@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كان لازم أضطر أغير خطتي بسبب الجو السئ.
+translation: I had to change my plan because of the bad weather.
+vocab:
+- arz/اضطر

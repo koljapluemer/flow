@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بحاول أحل المشكلة بنفسي قبل ما أطلب مساعدة.
+translation: I try to solve the problem myself before asking for help.
+vocab:
+- arz/احاول

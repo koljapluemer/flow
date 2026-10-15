@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: قابلت المدير وتكلمت معاه عن المشروع.
+translation: I met the manager and talked to him about the project.
+vocab:
+- arz/قابل

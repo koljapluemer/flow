@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: عندي هدية لي صحبي في العيد.
+translation: I have a gift for my friend on Eid.
+vocab:
+- arz/لي

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لازم تبني الأساس كويس قبل ما تبدأ في المشروع.
+translation: You must build a good foundation before starting the project.
+vocab:
+- arz/اساس

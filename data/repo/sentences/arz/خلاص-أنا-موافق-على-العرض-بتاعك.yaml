@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: خلاص، أنا موافق على العرض بتاعك.
+translation: Alright, I agree to your offer.
+vocab:
+- arz/خلاص

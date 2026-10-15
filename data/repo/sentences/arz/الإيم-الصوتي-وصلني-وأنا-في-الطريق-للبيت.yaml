@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الإيم الصوتي وصلني وأنا في الطريق للبيت.
+translation: The voice email reached me while I was on the way home.
+vocab:
+- arz/ايم

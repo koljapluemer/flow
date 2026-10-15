@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بحب أقعد في البيت ساعات أرتاح.
+translation: I like to stay home for hours to relax.
+vocab:
+- arz/ساعات

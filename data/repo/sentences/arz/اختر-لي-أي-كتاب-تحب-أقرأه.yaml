@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اختر لي أي كتاب تحب أقرأه.
+translation: Choose any book you like for me to read.
+vocab:
+- arz/اي

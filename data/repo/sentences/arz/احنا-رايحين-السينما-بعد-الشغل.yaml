@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: احنا رايحين السينما بعد الشغل.
+translation: We are going to the cinema after work.
+vocab:
+- arz/احنا

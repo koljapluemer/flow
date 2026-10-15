@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هو رايح السوق يجيب احتياجات البيت.
+translation: He is going to the market to get household supplies.
+vocab:
+- arz/هو

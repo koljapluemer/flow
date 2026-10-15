@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الجو جميل بره النهاردة ومناسب للنزهة.
+translation: The weather outside is nice today and suitable for a picnic.
+vocab:
+- arz/بره

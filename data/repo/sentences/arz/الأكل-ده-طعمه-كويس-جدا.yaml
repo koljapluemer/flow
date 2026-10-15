@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الأكل ده طعمه كويس جداً.
+translation: This food tastes very good.
+vocab:
+- arz/كويس

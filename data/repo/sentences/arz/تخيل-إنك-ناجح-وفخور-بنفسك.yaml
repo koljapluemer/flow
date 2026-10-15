@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: تخيل إنك ناجح وفخور بنفسك.
+translation: Imagine that you are successful and proud of yourself.
+vocab:
+- arz/تخيل

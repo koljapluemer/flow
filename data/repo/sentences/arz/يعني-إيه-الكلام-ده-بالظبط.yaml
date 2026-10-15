@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: يعني إيه الكلام ده بالظبط؟
+translation: What exactly does that mean?
+vocab:
+- arz/يعني

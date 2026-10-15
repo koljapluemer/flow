@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بالنسبة للامتحان، لازم تذاكر كويس.
+translation: Regarding the exam, you must study well.
+vocab:
+- arz/بالنسبة

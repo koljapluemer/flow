@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هو دايمًا بيحاول يساعد أصحابه.
+translation: He always tries to help his friends.
+vocab:
+- arz/يحاول

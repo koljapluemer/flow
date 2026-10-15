@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: انا خايف أكون هتتعرض لمشكلة جديدة.
+translation: I'm afraid I might be exposed to a new problem.
+vocab:
+- arz/يتعرض

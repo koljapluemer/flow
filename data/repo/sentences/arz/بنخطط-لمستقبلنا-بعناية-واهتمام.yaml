@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بنخطط لمستقبلنا بعناية واهتمام.
+translation: We plan our future carefully and attentively.
+vocab:
+- arz/مستقبل

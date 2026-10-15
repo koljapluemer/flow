@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا رايح عند الدكتور بعد شوية.
+translation: I'm going to the doctor after a while.
+vocab:
+- arz/راح

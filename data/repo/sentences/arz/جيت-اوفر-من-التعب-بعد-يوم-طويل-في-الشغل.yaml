@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: جيت اوفر من التعب بعد يوم طويل في الشغل.
+translation: I got over the tiredness after a long day at work.
+vocab:
+- arz/جيت-اوفر

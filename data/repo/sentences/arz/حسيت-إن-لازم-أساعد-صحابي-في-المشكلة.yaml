@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حسيت إن لازم أساعد صحابي في المشكلة.
+translation: I felt that I had to help my friends with the problem.
+vocab:
+- arz/حس

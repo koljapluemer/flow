@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لازم نهتم بامور العيلة أكتر.
+translation: We have to pay more attention to family matters.
+vocab:
+- arz/امور

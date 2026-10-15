@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كلنا لازم نساعد بعض في الشغل.
+translation: We all must help each other at work.
+vocab:
+- arz/كلنا

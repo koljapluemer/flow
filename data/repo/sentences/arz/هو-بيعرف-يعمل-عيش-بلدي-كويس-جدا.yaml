@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هو بيعرف يعمل عيش بلدي كويس جداً.
+translation: He knows how to make very good traditional bread.
+vocab:
+- arz/يعرف

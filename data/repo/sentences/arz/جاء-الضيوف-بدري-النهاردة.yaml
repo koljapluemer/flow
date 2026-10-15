@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: جاء الضيوف بدري النهاردة.
+translation: The guests came early today.
+vocab:
+- arz/جاء

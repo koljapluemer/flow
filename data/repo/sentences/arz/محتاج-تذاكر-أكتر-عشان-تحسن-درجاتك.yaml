@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: محتاج تذاكر أكتر عشان تحسن درجاتك.
+translation: You need to study more to improve your grades.
+vocab:
+- arz/محتاج

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: احنا عيلة وحدة ولازم نساعد بعض.
+translation: We are one family and we must help each other.
+vocab:
+- arz/احنا

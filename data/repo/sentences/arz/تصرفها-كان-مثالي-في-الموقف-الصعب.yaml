@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: تصرفها كان مثالي في الموقف الصعب.
+translation: Her behavior was ideal in the difficult situation.
+vocab:
+- arz/مثالي

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: رأس العيلة كان جداً مسؤول.
+translation: The head of the family was very responsible.
+vocab:
+- arz/راس

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الشخصيه بتتكون من التجارب اللي بنمر بيها.
+translation: Personality is formed from the experiences we go through.
+vocab:
+- arz/شخصيه

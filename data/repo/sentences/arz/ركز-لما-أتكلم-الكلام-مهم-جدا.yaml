@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ركز لما أتكلم، الكلام مهم جداً.
+translation: Pay attention when I speak; it's very important.
+vocab:
+- arz/ركز

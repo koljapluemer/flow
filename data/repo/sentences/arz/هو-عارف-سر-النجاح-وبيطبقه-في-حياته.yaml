@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هو عارف سر النجاح وبيطبقه في حياته.
+translation: He knows the secret of success and applies it in his life.
+vocab:
+- arz/عارف

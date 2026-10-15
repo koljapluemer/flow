@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هو شخص طيب دايمًا بيساعد الناس بدون مقابل.
+translation: He is a kind person who always helps people without expecting anything.
+vocab:
+- arz/طيب

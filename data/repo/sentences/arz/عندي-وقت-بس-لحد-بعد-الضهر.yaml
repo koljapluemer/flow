@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: عندي وقت بس لحد بعد الضهر.
+translation: I have time only until the afternoon.
+vocab:
+- arz/بس

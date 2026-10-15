@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ركز في الدرس كويس عشان تفهم.
+translation: Focus well on the lesson so you understand.
+vocab:
+- arz/ركز

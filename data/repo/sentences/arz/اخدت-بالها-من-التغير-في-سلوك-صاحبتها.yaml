@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اخدت بالها من التغير في سلوك صاحبتها.
+translation: She noticed the change in her friend's behavior.
+vocab:
+- arz/اخد-باله

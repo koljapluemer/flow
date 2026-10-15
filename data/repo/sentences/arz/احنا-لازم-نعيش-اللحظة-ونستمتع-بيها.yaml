@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: احنا لازم نعيش اللحظة ونستمتع بيها.
+translation: We must live the moment and enjoy it.
+vocab:
+- arz/يعيش

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لو كلنا نتقبل بعض، الحياة تبقى أسهل.
+translation: If we all accept each other, life will be easier.
+vocab:
+- arz/نتقبل

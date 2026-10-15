@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لازم نقرأ الدرس تاني عشان نفهمه كويس.
+translation: We need to read the lesson again to understand it well.
+vocab:
+- arz/ثاني

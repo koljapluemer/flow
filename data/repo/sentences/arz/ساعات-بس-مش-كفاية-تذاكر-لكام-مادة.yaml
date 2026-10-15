@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ساعات بس مش كفاية تذاكر لكام مادة.
+translation: Just a few hours aren't enough to study for several subjects.
+vocab:
+- arz/ساعات

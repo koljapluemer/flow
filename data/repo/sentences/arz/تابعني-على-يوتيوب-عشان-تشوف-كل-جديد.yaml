@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: تابعني على يوتيوب عشان تشوف كل جديد.
+translation: Follow me on YouTube to see all the new stuff.
+vocab:
+- arz/يوتيوب

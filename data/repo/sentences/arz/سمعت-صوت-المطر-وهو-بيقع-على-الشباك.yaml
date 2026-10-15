@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: سمعت صوت المطر وهو بيقع على الشباك.
+translation: I heard the sound of rain falling on the window.
+vocab:
+- arz/صوت

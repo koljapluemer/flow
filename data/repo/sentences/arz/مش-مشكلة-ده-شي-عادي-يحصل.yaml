@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: مش مشكلة، ده شي عادي يحصل.
+translation: No problem, that's a normal thing to happen.
+vocab:
+- arz/عادي

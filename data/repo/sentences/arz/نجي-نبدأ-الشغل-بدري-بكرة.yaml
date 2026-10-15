@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: نجي نبدأ الشغل بدري بكرة؟
+translation: Shall we come and start work early tomorrow?
+vocab:
+- arz/نجي

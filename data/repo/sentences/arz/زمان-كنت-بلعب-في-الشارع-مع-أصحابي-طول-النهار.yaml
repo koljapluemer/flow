@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: زمان كنت بلعب في الشارع مع أصحابي طول النهار.
+translation: Long ago, I used to play in the street with my friends all day.
+vocab:
+- arz/زمان

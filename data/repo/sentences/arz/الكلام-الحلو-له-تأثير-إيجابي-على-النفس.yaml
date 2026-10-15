@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الكلام الحلو له تأثير إيجابي على النفس.
+translation: Kind words have a positive effect on the soul.
+vocab:
+- arz/تأثير

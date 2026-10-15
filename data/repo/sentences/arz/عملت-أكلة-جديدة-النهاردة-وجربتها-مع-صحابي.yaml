@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: عملت أكلة جديدة النهاردة وجربتها مع صحابي.
+translation: I made a new dish today and tried it with my friends.
+vocab:
+- arz/عمل

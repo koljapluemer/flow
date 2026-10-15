@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: معلومش ليه الجو بارد فجأة.
+translation: I don't know why the weather suddenly got cold.
+vocab:
+- arz/معلومش

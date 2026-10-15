@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لازم نغير اللايتنج في الأوضة دي.
+translation: We need to change the lighting in this room.
+vocab:
+- arz/لايتنج

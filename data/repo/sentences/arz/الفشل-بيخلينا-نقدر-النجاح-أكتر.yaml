@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الفشل بيخلينا نقدر النجاح أكتر.
+translation: Failure makes us appreciate success more.
+vocab:
+- arz/فشل

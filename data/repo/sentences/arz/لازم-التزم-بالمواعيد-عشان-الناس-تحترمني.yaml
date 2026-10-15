@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لازم التزم بالمواعيد عشان الناس تحترمني.
+translation: I must commit to deadlines so people respect me.
+vocab:
+- arz/التزم

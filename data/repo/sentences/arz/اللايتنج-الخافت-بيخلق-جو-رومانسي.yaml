@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اللايتنج الخافت بيخلق جو رومانسي.
+translation: Dim lighting creates a romantic atmosphere.
+vocab:
+- arz/لايتنج

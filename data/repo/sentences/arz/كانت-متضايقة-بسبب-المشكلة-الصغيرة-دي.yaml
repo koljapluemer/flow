@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كانت متضايقة بسبب المشكلة الصغيرة دي.
+translation: She was upset because of this small problem.
+vocab:
+- arz/متضايق

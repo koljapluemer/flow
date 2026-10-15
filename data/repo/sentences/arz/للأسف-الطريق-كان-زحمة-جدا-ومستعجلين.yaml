@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: للأسف الطريق كان زحمة جداً ومستعجلين.
+translation: Unfortunately, the road was very congested and we were in a hurry.
+vocab:
+- arz/للأسف

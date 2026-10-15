@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لازم أصلح الموبايل لأنه مش شغال كويس.
+translation: I have to fix the phone because it's not working well.
+vocab:
+- arz/اصلح

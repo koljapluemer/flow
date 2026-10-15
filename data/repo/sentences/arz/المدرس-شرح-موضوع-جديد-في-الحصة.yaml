@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: المدرس شرح موضوع جديد في الحصة.
+translation: The teacher explained a new topic in the class.
+vocab:
+- arz/موضوع

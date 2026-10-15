@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: جيل الشباب لازم يشتغلوا على تطوير بلدهم.
+translation: The young generation must work on developing their country.
+vocab:
+- arz/جيل

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: المستقبل محتاج تعب وصبر عشان تحقق أهدافك.
+translation: The future requires effort and patience to achieve your goals.
+vocab:
+- arz/مستقبل

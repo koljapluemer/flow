@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: نروح الجامعة باكر عشان نذاكر.
+translation: We go to the university early to study.
+vocab:
+- arz/نروح

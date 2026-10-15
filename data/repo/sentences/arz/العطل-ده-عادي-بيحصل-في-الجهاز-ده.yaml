@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: العطل ده عادي بيحصل في الجهاز ده.
+translation: This malfunction usually happens in that device.
+vocab:
+- arz/عادي

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: خلصنا الاجتماع وماكانش في مشاكل.
+translation: We finished the meeting and there were no problems.
+vocab:
+- arz/خلص

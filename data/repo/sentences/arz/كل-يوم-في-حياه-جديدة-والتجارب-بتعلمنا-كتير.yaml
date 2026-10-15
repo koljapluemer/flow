@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كل يوم في حياه جديدة والتجارب بتعلمنا كتير.
+translation: Every day is a new life, and experiences teach us a lot.
+vocab:
+- arz/حياه

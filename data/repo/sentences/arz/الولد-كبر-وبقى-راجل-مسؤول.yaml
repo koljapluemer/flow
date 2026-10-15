@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الولد كبر وبقى راجل مسؤول.
+translation: The boy grew up and became a responsible man.
+vocab:
+- arz/كبر

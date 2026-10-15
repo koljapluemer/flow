@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: قل له نستنى شوية قبل ما نبدأ.
+translation: Tell him we'll wait a little before starting.
+vocab:
+- arz/قول

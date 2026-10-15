@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: انا متشكر بجد على المساعدة اللي قدمتها.
+translation: I really appreciate the help you provided.
+vocab:
+- arz/بجد

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: غيرت الشغل بتاعي عشان أطور نفسي.
+translation: I changed my job to improve myself.
+vocab:
+- arz/غير

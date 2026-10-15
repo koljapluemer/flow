@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: المجهود اللي بذلته يستحق التقدير.
+translation: The effort you made deserves appreciation.
+vocab:
+- arz/يستحق

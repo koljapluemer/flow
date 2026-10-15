@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: علاقتي بيه بدأت تتحسن الفترة دي.
+translation: My relationship with him started to improve these days.
+vocab:
+- arz/علاقه

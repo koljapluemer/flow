@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اشتريت الكتاب ده تاني لأنه عجبني.
+translation: I bought this book again because I liked it.
+vocab:
+- arz/ثاني

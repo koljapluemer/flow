@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الحمد لله، كل حاجة ماشية كويس دلوقتي.
+translation: Thank God, everything is going well now.
+vocab:
+- arz/الحمد-لله

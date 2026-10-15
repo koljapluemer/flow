@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: تستحق الراحة بعد كل التعب اللي عملته.
+translation: You deserve rest after all the effort you made.
+vocab:
+- arz/تستحق

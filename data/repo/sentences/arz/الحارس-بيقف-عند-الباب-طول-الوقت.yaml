@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الحارس بيقف عند الباب طول الوقت.
+translation: The guard stands at the door all the time.
+vocab:
+- arz/يقف

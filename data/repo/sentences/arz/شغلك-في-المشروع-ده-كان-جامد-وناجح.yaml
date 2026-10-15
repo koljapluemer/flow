@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: شغلك في المشروع ده كان جامد وناجح.
+translation: Your work on this project was solid and successful.
+vocab:
+- arz/جامد

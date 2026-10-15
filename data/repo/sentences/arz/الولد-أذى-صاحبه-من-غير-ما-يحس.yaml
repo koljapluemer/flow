@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الولد أذى صاحبه من غير ما يحس.
+translation: The boy hurt his friend without realizing it.
+vocab:
+- arz/ؤذي

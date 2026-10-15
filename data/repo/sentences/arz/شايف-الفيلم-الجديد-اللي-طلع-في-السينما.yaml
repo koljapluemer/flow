@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: شايف الفيلم الجديد اللي طلع في السينما؟
+translation: Have you seen the new movie that was released in the cinema?
+vocab:
+- arz/شايف

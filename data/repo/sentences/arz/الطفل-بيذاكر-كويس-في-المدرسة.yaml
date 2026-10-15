@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الطفل بيذاكر كويس في المدرسة.
+translation: The child studies well in school.
+vocab:
+- arz/كويس

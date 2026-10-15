@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: المطعم اللي بتحبه موجود في الشارع الرئيسي.
+translation: The restaurant you like is located on the main street.
+vocab:
+- arz/موجود

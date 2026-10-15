@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: عندي خبر مهم لازم أبلغك بيه في العام الجديد.
+translation: I have important news I need to tell you in the new year.
+vocab:
+- arz/عام

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بحب أقرأ كتب الفانتزي عشان بعشق المغامرات.
+translation: I love reading fantasy books because I adore adventures.
+vocab:
+- arz/فانتزي

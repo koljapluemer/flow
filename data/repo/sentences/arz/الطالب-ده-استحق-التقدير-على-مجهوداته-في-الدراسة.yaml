@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الطالب ده استحق التقدير على مجهوداته في الدراسة.
+translation: This student deserved appreciation for his efforts in studying.
+vocab:
+- arz/استحق

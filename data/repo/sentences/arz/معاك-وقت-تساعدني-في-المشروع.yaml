@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: معاك وقت تساعدني في المشروع؟
+translation: Do you have time to help me with the project?
+vocab:
+- arz/معاك

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: نصيبنا إننا نتعلم من أخطائنا.
+translation: Our fate is to learn from our mistakes.
+vocab:
+- arz/نصيب

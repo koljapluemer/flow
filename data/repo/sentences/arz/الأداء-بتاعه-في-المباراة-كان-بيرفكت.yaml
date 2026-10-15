@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الأداء بتاعه في المباراة كان بيرفكت.
+translation: His performance in the match was perfect.
+vocab:
+- arz/بيرفكت

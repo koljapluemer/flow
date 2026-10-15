@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: عارف الطريق للبيت من غير ما أتوه.
+translation: I know the way home without getting lost.
+vocab:
+- arz/عارف

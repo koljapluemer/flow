@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الجيل القديم عنده خبرات كتير مهمة.
+translation: The older generation has lots of important experience.
+vocab:
+- arz/جيل

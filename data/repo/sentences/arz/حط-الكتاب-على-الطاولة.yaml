@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حط الكتاب على الطاولة.
+translation: Put the book on the table.
+vocab:
+- arz/على

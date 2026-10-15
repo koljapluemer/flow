@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كلنا بنحب نقضي وقت مع العيلة في العيد.
+translation: We all love to spend time with family during the holiday.
+vocab:
+- arz/كلنا

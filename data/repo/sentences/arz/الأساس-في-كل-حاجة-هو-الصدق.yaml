@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الأساس في كل حاجة هو الصدق.
+translation: The basis of everything is honesty.
+vocab:
+- arz/اساس

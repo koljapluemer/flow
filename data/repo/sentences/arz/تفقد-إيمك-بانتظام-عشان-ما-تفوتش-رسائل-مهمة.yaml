@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: تفقد إيمك بانتظام عشان ما تفوتش رسائل مهمة.
+translation: Check your email regularly so you don't miss important messages.
+vocab:
+- arz/ايم

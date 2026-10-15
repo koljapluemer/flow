@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اخد باله من المشكلة وحاول يحلها بسرعة.
+translation: He noticed the problem and tried to solve it quickly.
+vocab:
+- arz/اخد-باله

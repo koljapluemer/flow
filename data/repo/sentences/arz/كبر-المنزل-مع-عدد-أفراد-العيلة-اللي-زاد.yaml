@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كبر المنزل مع عدد أفراد العيلة اللي زاد.
+translation: The house got bigger with the increased number of family members.
+vocab:
+- arz/كبر

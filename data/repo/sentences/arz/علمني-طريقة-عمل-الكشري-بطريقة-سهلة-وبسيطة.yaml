@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: علمني طريقة عمل الكشري بطريقة سهلة وبسيطة.
+translation: Teach me an easy and simple way to make koshary.
+vocab:
+- arz/طريقه

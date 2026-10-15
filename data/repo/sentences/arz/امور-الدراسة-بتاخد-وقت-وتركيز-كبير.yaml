@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: امور الدراسة بتاخد وقت وتركيز كبير.
+translation: Study matters require a lot of time and concentration.
+vocab:
+- arz/امور

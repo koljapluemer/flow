@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الجو النهاردة زين ومناسب للنزهة.
+translation: Today's weather is nice and suitable for a picnic.
+vocab:
+- arz/زين

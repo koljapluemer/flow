@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: إحنا هينا كل الظروف الصعبة مع بعض.
+translation: We have faced all the difficult circumstances together.
+vocab:
+- arz/هينا

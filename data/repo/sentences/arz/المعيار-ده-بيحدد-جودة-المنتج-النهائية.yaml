@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: المعيار ده بيحدد جودة المنتج النهائية.
+translation: This standard determines the final quality of the product.
+vocab:
+- arz/معيار

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: امور الشغل ماشية بشكل كويس دلوقتي.
+translation: Work matters are going well now.
+vocab:
+- arz/امور

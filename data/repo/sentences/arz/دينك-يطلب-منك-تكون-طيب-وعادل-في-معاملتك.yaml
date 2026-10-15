@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: دينك يطلب منك تكون طيب وعادل في معاملتك.
+translation: Your religion asks you to be kind and fair in your dealings.
+vocab:
+- arz/دين

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ثبت الكابل كويس قبل ما توصل الجهاز.
+translation: Secure the cable well before connecting the device.
+vocab:
+- arz/ثبت

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هو عنده صفة الصبر اللي بتساعده في الشغل.
+translation: He has the trait of patience which helps him at work.
+vocab:
+- arz/صفة

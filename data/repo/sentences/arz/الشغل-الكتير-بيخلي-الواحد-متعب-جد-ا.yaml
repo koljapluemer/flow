@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الشغل الكتير بيخلي الواحد متعب جدًا.
+translation: A lot of work makes one very tired.
+vocab:
+- arz/شغل

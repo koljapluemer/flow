@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: فيه ذكريات كتير حلوة مع العائلة في الصيف.
+translation: There are many nice memories with the family in the summer.
+vocab:
+- arz/ذكريات

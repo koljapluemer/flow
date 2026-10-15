@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: صاحب القناة نزل فيديو عن السفر والرحلات.
+translation: The channel owner posted a video about travel and trips.
+vocab:
+- arz/فيديو

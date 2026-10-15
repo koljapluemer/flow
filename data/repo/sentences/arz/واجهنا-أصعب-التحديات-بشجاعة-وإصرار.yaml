@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: واجهنا أصعب التحديات بشجاعة وإصرار.
+translation: We faced the hardest challenges with courage and determination.
+vocab:
+- arz/اصعب

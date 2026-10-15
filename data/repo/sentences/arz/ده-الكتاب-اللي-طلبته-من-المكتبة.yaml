@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ده الكتاب اللي طلبته من المكتبة.
+translation: This is the book I requested from the library.
+vocab:
+- arz/ده

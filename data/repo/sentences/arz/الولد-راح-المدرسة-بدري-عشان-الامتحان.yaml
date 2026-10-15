@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الولد راح المدرسة بدري عشان الامتحان.
+translation: The boy went to school early because of the exam.
+vocab:
+- arz/راح

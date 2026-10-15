@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: تيجي معايا نتمشى في الحديقة؟
+translation: Will you come with me for a walk in the park?
+vocab:
+- arz/تيجي

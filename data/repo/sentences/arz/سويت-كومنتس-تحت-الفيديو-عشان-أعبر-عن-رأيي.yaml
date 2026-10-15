@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: سويت كومنتس تحت الفيديو عشان أعبر عن رأيي.
+translation: I left comments under the video to express my opinion.
+vocab:
+- arz/كومنتس

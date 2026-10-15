@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اكمل للطريق ده عشان توصل للمطعم.
+translation: Continue on this road to reach the restaurant.
+vocab:
+- arz/اكمل

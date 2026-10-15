@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا عارف إنك عبقري ومش هتفشل.
+translation: I know that you are intelligent and you won’t fail.
+vocab:
+- arz/عارف

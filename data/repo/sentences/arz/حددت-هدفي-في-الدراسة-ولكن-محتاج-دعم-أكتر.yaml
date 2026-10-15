@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حددت هدفي في الدراسة، ولكن محتاج دعم أكتر.
+translation: I have set my study goal, but I need more support.
+vocab:
+- arz/ولكن

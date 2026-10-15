@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حط البصل في الصوص قبل ما تشوف.
+translation: Put the onion in the sauce before you taste.
+vocab:
+- arz/حط

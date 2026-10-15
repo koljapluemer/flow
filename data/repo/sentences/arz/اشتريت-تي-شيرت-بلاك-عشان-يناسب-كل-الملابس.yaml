@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اشتريت تي شيرت بلاك عشان يناسب كل الملابس.
+translation: I bought a black T-shirt to match all clothes.
+vocab:
+- arz/بلاك

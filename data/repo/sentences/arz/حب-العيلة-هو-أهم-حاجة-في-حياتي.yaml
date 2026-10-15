@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حب العيلة هو أهم حاجة في حياتي.
+translation: Family love is the most important thing in my life.
+vocab:
+- arz/حب

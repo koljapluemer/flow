@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: شفت فيلم حلو في السينما امبارح.
+translation: I watched a nice movie at the cinema yesterday.
+vocab:
+- arz/فيلم

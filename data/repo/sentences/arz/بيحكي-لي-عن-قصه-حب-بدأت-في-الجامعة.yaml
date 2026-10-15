@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بيحكي لي عن قصه حب بدأت في الجامعة.
+translation: He tells me about a love story that started at university.
+vocab:
+- arz/قصه-حب

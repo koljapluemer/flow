@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: سمعت قصص زمان عن أبطال الأجداد.
+translation: I heard old stories about our ancestors' heroes.
+vocab:
+- arz/زمان

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: موف اون من الماضي هو الحل لتكون سعيد.
+translation: Moving on from the past is the solution to be happy.
+vocab:
+- arz/موف-اون

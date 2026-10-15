@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الأسبوع الجاي جاي مؤتمر مهم في المدينة.
+translation: Next week, an important conference is coming to the city.
+vocab:
+- arz/جاي

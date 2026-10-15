@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ابتدى يدي بتتعب من الكتابة.
+translation: My hand started to get tired from writing.
+vocab:
+- arz/يد

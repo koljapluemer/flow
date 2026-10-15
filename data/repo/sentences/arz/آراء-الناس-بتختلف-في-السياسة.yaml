@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: آراء الناس بتختلف في السياسة.
+translation: People's opinions differ on politics.
+vocab:
+- arz/اختلف

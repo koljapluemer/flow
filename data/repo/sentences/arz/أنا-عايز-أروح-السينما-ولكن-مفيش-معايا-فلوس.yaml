@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا عايز أروح السينما، ولكن مفيش معايا فلوس.
+translation: I want to go to the cinema, but I don't have money.
+vocab:
+- arz/ولكن

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: مينفعش تغير رأيك كل يوم.
+translation: You can't change your mind every day.
+vocab:
+- arz/يغير

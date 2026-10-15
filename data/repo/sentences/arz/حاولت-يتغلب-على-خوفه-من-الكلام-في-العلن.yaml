@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حاولت يتغلب على خوفه من الكلام في العلن.
+translation: He tried to overcome his fear of speaking in public.
+vocab:
+- arz/يتغلب

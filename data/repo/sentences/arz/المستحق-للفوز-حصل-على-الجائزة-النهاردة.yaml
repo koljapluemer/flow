@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: المستحق للفوز حصل على الجائزة النهاردة.
+translation: The winner received the prize today.
+vocab:
+- arz/مستحق

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هتسافر في الصيف، ريجاردلس للطريق.
+translation: You will travel in summer, regardless of the route.
+vocab:
+- arz/ريجاردلس

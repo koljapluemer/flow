@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لازم نيتغلب على الصعوبات عشان ننجح.
+translation: We must overcome difficulties to succeed.
+vocab:
+- arz/يتغلب

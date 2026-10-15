@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا ناوي أذاكر في المكتبة عشان التركيز هناك أحسن.
+translation: I intend to study in the library because the concentration there is better.
+vocab:
+- arz/ذاكر

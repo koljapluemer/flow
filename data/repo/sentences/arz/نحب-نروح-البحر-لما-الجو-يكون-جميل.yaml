@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: نحب نروح البحر لما الجو يكون جميل.
+translation: We like to go to the beach when the weather is nice.
+vocab:
+- arz/نحب

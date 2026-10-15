@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: المعلومات دي مبسطة جدًا في الكتاب الجديد.
+translation: This information is very simplified in the new book.
+vocab:
+- arz/مبسط

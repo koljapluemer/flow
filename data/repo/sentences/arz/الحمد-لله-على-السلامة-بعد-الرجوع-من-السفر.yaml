@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الحمد لله على السلامة بعد الرجوع من السفر.
+translation: Thank God for your safety after returning from the trip.
+vocab:
+- arz/الحمد-لله

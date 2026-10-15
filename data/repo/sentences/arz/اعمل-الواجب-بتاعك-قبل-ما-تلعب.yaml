@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اعمل الواجب بتاعك قبل ما تلعب.
+translation: Do your homework before you play.
+vocab:
+- arz/اعمل

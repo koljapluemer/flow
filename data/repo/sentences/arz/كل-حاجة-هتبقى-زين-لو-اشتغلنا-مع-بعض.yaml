@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كل حاجة هتبقى زين لو اشتغلنا مع بعض.
+translation: Everything will be good if we work together.
+vocab:
+- arz/زين

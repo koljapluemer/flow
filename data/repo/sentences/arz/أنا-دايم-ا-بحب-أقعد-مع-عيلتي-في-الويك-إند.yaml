@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا دايمًا بحب أقعد مع عيلتي في الويك إند.
+translation: I always like to sit with my family on weekends.
+vocab:
+- arz/مع

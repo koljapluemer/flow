@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الحقيقه إن الموضوع أكبر من ما كنا فاكرين.
+translation: The truth is that the matter is bigger than we thought.
+vocab:
+- arz/حقيقه

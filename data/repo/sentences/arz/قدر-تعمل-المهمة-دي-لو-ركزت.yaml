@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: قدر تعمل المهمة دي لو ركزت.
+translation: You can do this task if you focus.
+vocab:
+- arz/قدر

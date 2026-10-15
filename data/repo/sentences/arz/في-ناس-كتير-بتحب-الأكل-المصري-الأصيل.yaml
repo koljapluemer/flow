@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: في ناس كتير بتحب الأكل المصري الأصيل.
+translation: There are many people who love authentic Egyptian food.
+vocab:
+- arz/ناس

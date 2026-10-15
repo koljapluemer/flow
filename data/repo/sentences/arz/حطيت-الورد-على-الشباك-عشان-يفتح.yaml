@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حطيت الورد على الشباك عشان يفتح.
+translation: I put the flowers on the window to open.
+vocab:
+- arz/شباك

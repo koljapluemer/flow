@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: من الضروري تذاكر من بدري عشان الامتحان.
+translation: It's necessary to study early for the exam.
+vocab:
+- arz/من

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: روح للمكتبة عشان تلاقي الكتاب اللي بتدور عليه.
+translation: Go to the library to find the book you’re looking for.
+vocab:
+- arz/روح

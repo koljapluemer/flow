@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بحب دراسة التاريخ لأنها بتفتح آفاق جديدة.
+translation: I love studying history because it opens new horizons.
+vocab:
+- arz/دراسة

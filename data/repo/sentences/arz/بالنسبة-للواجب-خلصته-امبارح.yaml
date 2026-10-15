@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بالنسبة للواجب، خلصته امبارح.
+translation: Regarding the homework, I finished it yesterday.
+vocab:
+- arz/بالنسبه

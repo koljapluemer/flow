@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: العيلة بتجتمع عشان تحتفل بالعيد.
+translation: The family gathers to celebrate the holiday.
+vocab:
+- arz/عائل

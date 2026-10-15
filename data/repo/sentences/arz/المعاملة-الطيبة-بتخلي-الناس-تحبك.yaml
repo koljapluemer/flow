@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: المعاملة الطيبة بتخلي الناس تحبك.
+translation: Kind treatment makes people love you.
+vocab:
+- arz/معامله

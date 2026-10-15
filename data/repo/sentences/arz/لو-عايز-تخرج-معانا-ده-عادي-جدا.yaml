@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لو عايز تخرج معانا، ده عادي جداً.
+translation: If you want to go out with us, that's totally fine.
+vocab:
+- arz/عادي

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اعمل قائمة بالمشتريات اللي محتاجها من السوق.
+translation: Make a list of the groceries you need from the market.
+vocab:
+- arz/اعمل

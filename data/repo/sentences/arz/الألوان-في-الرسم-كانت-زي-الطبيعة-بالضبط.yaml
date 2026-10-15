@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الألوان في الرسم كانت زي الطبيعة بالضبط.
+translation: The colors in the painting were just like nature.
+vocab:
+- arz/زي

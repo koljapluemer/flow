@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: مطلوب منك تسليم المشروع قبل الموعد.
+translation: You are required to submit the project before the deadline.
+vocab:
+- arz/مطلوب

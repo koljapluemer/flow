@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كانت أجواء الحفلة مليانة فرحة وحماس.
+translation: The party atmosphere was full of joy and excitement.
+vocab:
+- arz/كانت

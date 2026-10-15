@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: قعدنا ف الكافيه نتكلم عن خططنا المستقبلية.
+translation: We sat in the cafe talking about our future plans.
+vocab:
+- arz/ف

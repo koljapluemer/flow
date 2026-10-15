@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: نفسي آكل أكل مصري أصيل.
+translation: I want to eat authentic Egyptian food.
+vocab:
+- arz/نفسي

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: عايز أفكر في طريقة بيرفكت لحل المشكلة دي.
+translation: I want to think of a perfect way to solve this problem.
+vocab:
+- arz/بيرفكت

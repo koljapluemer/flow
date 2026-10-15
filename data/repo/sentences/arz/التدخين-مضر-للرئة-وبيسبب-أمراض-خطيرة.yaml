@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: التدخين مضر للرئة وبيسبب أمراض خطيرة.
+translation: Smoking is harmful to the lungs and causes serious diseases.
+vocab:
+- arz/مضر

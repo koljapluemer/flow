@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الطقس برد ومش مناسب للخروج دلوقتي.
+translation: The weather is cold and not suitable to go out now.
+vocab:
+- arz/ومش

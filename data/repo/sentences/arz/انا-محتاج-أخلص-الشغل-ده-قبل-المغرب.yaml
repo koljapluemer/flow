@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: انا محتاج أخلص الشغل ده قبل المغرب.
+translation: I need to finish this work before sunset.
+vocab:
+- arz/شغل

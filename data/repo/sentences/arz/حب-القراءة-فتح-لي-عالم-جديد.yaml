@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حب القراءة فتح لي عالم جديد.
+translation: Love for reading opened a new world for me.
+vocab:
+- arz/حب

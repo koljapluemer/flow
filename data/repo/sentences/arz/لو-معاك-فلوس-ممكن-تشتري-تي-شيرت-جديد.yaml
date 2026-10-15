@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لو معاك فلوس، ممكن تشتري تي شيرت جديد؟
+translation: If you have money, could you buy a new T-shirt?
+vocab:
+- arz/معاك

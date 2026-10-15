@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: عجبني الفيلم جدا بسبب القصة الجميلة.
+translation: I really liked the movie because of the beautiful story.
+vocab:
+- arz/عجب

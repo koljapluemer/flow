@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: السبب في التأخير كان الزحمة في الطريق.
+translation: The reason for the delay was the traffic on the road.
+vocab:
+- arz/سبب

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حصلت مشكلة في الكمبيوتر ومش قادر أشتغل.
+translation: A problem happened in the computer and I can't work.
+vocab:
+- arz/حصل

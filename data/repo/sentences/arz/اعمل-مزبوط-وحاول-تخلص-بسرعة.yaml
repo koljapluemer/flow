@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اعمل مزبوط وحاول تخلص بسرعة.
+translation: Do it properly and try to finish quickly.
+vocab:
+- arz/اعمل

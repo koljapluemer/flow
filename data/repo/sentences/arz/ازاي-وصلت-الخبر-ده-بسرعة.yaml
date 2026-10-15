@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ازاي وصلت الخبر ده بسرعة؟
+translation: How did you get this news so quickly?
+vocab:
+- arz/از

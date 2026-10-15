@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: سلمت المفتاح للموظف قبل ما أخرج.
+translation: I handed the key to the employee before leaving.
+vocab:
+- arz/سلم

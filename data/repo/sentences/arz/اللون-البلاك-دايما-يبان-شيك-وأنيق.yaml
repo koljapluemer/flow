@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اللون البلاك دايماً يبان شيك وأنيق.
+translation: The black color always looks chic and elegant.
+vocab:
+- arz/بلاك

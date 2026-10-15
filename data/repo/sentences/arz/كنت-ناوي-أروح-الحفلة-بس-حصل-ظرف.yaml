@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كنت ناوي أروح الحفلة بس حصل ظرف.
+translation: I intended to go to the party but something came up.
+vocab:
+- arz/كنت

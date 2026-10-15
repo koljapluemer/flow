@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هو التزم بالقواعد في الشغل ودايمًا ناجح.
+translation: He committed to the rules at work and is always successful.
+vocab:
+- arz/التزم

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هو عايش حياة بسيطة وسعيدة في القرية.
+translation: He lives a simple and happy life in the village.
+vocab:
+- arz/يعيش

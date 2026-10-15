@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اشتريت كل اللي محتاجه وخلاص.
+translation: I bought everything I needed, and that's all.
+vocab:
+- arz/وخلاص

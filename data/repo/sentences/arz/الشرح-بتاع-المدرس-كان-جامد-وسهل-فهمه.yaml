@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الشرح بتاع المدرس كان جامد وسهل فهمه.
+translation: The teacher's explanation was excellent and easy to understand.
+vocab:
+- arz/جامد

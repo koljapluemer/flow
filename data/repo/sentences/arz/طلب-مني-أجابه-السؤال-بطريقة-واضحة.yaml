@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: طلب مني أجابه السؤال بطريقة واضحة.
+translation: He asked me to answer the question clearly.
+vocab:
+- arz/اجابه

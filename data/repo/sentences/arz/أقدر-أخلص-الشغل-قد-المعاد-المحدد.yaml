@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أقدر أخلص الشغل قد المعاد المحدد.
+translation: I can finish the work by the set deadline.
+vocab:
+- arz/قد

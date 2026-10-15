@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هزور البلد دي تاني السنة الجاية.
+translation: I will visit this country again next year.
+vocab:
+- arz/ثاني

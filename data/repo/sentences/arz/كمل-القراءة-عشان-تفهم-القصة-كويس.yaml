@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كمل القراءة عشان تفهم القصة كويس.
+translation: Continue reading to understand the story well.
+vocab:
+- arz/كمل

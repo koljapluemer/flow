@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: سنة ٢٠٢٤ جابت لي نقلة كبيرة في حياتي.
+translation: The year 2024 brought me a big change in my life.
+vocab:
+- arz/سنة

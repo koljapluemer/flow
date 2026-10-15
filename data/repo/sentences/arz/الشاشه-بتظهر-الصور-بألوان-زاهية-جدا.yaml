@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الشاشه بتظهر الصور بألوان زاهية جداً.
+translation: The screen shows images with very vivid colors.
+vocab:
+- arz/شاشه

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حط المفتاح في الدرج عشان ما تتنسيهوش.
+translation: Put the key in the drawer so you don't forget it.
+vocab:
+- arz/حط

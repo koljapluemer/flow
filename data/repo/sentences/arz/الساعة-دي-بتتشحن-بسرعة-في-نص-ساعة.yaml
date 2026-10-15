@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الساعة دي بتتشحن بسرعة في نص ساعة.
+translation: This watch charges quickly in half an hour.
+vocab:
+- arz/يتشحن

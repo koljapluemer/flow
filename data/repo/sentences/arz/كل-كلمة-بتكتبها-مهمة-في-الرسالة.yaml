@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كل كلمة بتكتبها مهمة في الرسالة.
+translation: Every word you write is important in the letter.
+vocab:
+- arz/كلمة

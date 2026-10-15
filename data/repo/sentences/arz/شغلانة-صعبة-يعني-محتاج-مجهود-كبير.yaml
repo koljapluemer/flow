@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: شغلانة صعبة، يعني محتاج مجهود كبير.
+translation: It's a difficult task, meaning it requires great effort.
+vocab:
+- arz/يعني

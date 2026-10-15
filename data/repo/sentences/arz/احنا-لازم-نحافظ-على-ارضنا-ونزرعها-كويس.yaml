@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: احنا لازم نحافظ على ارضنا ونزرعها كويس.
+translation: We must protect our land and cultivate it well.
+vocab:
+- arz/ارض

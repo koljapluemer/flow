@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الكاتب استوحى القصة من وحي خياله.
+translation: The writer was inspired the story from the inspiration of his imagination.
+vocab:
+- arz/وحي

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بالنسبة للموضوع ده، أنا موافق.
+translation: Regarding this matter, I agree.
+vocab:
+- arz/بالنسبة

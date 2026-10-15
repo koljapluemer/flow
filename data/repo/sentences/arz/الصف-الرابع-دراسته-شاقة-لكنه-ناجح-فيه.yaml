@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الصف الرابع دراسته شاقة لكنه ناجح فيه.
+translation: The fourth grade studies are tough but he is successful in it.
+vocab:
+- arz/رابع

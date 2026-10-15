@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: المدينة دي فيها أماكن سياحية كتير لازم تزورها.
+translation: This city has many tourist places you must visit.
+vocab:
+- arz/فيها

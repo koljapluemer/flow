@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بجد الجو النهاردة مناسب للخروج في نزهة.
+translation: Really, today's weather is suitable for going out on a picnic.
+vocab:
+- arz/بجد

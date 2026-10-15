@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: السماء كانت سودا والجو متغيم.
+translation: The sky was black and the weather was cloudy.
+vocab:
+- arz/سودا

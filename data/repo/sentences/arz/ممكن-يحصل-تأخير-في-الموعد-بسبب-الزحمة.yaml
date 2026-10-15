@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ممكن يحصل تأخير في الموعد بسبب الزحمة.
+translation: There might be a delay in the appointment due to traffic.
+vocab:
+- arz/يحصل

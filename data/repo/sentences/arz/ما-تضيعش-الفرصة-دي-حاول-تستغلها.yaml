@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ما تضيعش الفرصة دي، حاول تستغلها.
+translation: Don't waste this opportunity, try to take advantage of it.
+vocab:
+- arz/فرصه

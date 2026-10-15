@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: عايز أتعرف على شخص جديد في الشغل.
+translation: I want to meet a new person at work.
+vocab:
+- arz/شخص

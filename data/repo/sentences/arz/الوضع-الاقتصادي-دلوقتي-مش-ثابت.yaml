@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الوضع الاقتصادي دلوقتي مش ثابت.
+translation: The economic situation now is not stable.
+vocab:
+- arz/وضع

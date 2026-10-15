@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: انت تعبك كبير، استاهل تكريم.
+translation: You worked hard, you deserve an honor.
+vocab:
+- arz/استاهل

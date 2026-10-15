@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: نقدر نحل المشكلة لو اشتغلنا سوا.
+translation: We can solve the problem if we work together.
+vocab:
+- arz/نقدر

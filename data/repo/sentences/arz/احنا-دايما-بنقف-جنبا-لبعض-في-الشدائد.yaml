@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: احنا دايماً بنقف جنبا لبعض في الشدائد.
+translation: We always stand by each other in tough times.
+vocab:
+- arz/احنا

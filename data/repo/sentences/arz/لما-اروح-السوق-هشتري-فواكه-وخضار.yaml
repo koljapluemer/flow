@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لما اروح السوق هشتري فواكه وخضار.
+translation: When I go to the market, I will buy fruits and vegetables.
+vocab:
+- arz/اروح

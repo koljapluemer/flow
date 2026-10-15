@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حافظ على صداقه مع زمايلك في الشغل.
+translation: Maintain friendship with your colleagues at work.
+vocab:
+- arz/صداقه

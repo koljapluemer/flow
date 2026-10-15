@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: المشكلة دي هينا حلها بسرعة.
+translation: We easily solved this problem.
+vocab:
+- arz/هينا

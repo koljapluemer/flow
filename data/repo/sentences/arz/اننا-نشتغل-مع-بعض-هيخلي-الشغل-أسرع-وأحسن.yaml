@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اننا نشتغل مع بعض هيخلي الشغل أسرع وأحسن.
+translation: Working together will make the work faster and better.
+vocab:
+- arz/ان

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: استخدام الهاتف كتير بيستنزف تركيزي.
+translation: Using the phone a lot drains my concentration.
+vocab:
+- arz/يستنزف

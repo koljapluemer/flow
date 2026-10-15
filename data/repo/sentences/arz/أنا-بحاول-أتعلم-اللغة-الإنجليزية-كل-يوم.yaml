@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا بحاول أتعلم اللغة الإنجليزية كل يوم.
+translation: I try to learn English every day.
+vocab:
+- arz/يحاول

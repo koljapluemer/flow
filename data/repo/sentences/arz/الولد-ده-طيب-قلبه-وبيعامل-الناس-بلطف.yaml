@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الولد ده طيب قلبه وبيعامل الناس بلطف.
+translation: This boy is kind-hearted and treats people gently.
+vocab:
+- arz/طيب

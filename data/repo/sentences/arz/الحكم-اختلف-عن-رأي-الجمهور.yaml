@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الحكم اختلف عن رأي الجمهور.
+translation: The referee's decision differed from the audience's opinion.
+vocab:
+- arz/اختلف

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بيحب يقيم علاقات جديدة مع الزملاء.
+translation: He likes to build new relationships with colleagues.
+vocab:
+- arz/علاقات

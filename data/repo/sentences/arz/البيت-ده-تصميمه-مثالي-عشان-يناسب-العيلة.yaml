@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: البيت ده تصميمه مثالي عشان يناسب العيلة.
+translation: This house has an ideal design to suit the family.
+vocab:
+- arz/مثالي

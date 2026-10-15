@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الكلام كده ميكملش، لازم نوضح أكتر.
+translation: The talk like this is incomplete; we need to clarify more.
+vocab:
+- arz/كده

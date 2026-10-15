@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: امبارح رحت السوق واشتريت حاجات كتير.
+translation: Yesterday I went to the market and bought a lot of things.
+vocab:
+- arz/ام

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: نحن هنرجع البيت بعد العشاء مباشرة.
+translation: We will return home right after dinner.
+vocab:
+- arz/نرجع

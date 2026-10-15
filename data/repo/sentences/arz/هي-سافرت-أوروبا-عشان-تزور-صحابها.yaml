@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هي سافرت أوروبا عشان تزور صحابها.
+translation: She traveled to Europe to visit her friends.
+vocab:
+- arz/سافر

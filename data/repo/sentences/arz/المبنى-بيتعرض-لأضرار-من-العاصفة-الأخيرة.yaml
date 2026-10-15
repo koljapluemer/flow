@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: المبنى بيتعرض لأضرار من العاصفة الأخيرة.
+translation: The building is exposed to damage from the last storm.
+vocab:
+- arz/يتعرض

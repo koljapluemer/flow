@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: تعامل مع الناس بأدب واحترام.
+translation: Deal with people politely and respectfully.
+vocab:
+- arz/تعامل

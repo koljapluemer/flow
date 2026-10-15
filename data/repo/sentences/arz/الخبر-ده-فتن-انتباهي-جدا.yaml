@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الخبر ده فتن انتباهي جداً.
+translation: This news really caught my attention.
+vocab:
+- arz/فت-انتباه

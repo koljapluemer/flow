@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لما قابلته، قررت أقول له الحقيقة.
+translation: When I met him, I decided to tell him the truth.
+vocab:
+- arz/اقول

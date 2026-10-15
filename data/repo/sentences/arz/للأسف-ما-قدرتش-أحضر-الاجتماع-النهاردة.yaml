@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: للأسف ما قدرتش أحضر الاجتماع النهاردة.
+translation: Unfortunately, I couldn't attend the meeting today.
+vocab:
+- arz/للأسف

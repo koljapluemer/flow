@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ابذل مجهود كبير في الدراسة عشان تحسن.
+translation: Put a lot of effort into studying to improve.
+vocab:
+- arz/ابذل

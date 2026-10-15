@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: في الواقع، المشاكل أكبر مما كنا متوقعين.
+translation: In reality, the problems are bigger than we expected.
+vocab:
+- arz/واقع

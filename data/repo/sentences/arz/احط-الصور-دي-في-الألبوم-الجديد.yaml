@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: احط الصور دي في الألبوم الجديد.
+translation: Put these pictures in the new album.
+vocab:
+- arz/احط

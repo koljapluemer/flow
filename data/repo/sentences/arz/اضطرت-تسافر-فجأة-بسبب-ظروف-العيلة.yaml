@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اضطرت تسافر فجأة بسبب ظروف العيلة.
+translation: She was forced to travel suddenly due to family circumstances.
+vocab:
+- arz/اضطر

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أرسل سلامي لكل العيلة بعد السفر.
+translation: Send my regards to the whole family after the trip.
+vocab:
+- arz/سلام

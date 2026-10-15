@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ثبت الطالب معلوماته بالمراجعة اليومية.
+translation: The student solidified his knowledge by daily revision.
+vocab:
+- arz/ثبت

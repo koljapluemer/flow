@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: قرأنا قصه حب جميلة في الرواية دي.
+translation: We read a beautiful love story in this novel.
+vocab:
+- arz/قصه-حب

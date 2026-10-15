@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: صفة الكذب بتخلي الناس ما تثقش فيك.
+translation: The trait of lying makes people not trust you.
+vocab:
+- arz/صفة

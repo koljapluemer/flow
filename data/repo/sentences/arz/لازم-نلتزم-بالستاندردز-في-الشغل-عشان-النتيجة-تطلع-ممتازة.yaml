@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لازم نلتزم بالستاندردز في الشغل عشان النتيجة تطلع ممتازة.
+translation: We must adhere to the standards at work so the result turns out excellent.
+vocab:
+- arz/ستاندردز

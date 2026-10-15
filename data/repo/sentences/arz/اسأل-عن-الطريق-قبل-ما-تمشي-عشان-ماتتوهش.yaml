@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اسأل عن الطريق قبل ما تمشي عشان ماتتوهش.
+translation: Ask about the way before you walk so you don't get lost.
+vocab:
+- arz/اسال

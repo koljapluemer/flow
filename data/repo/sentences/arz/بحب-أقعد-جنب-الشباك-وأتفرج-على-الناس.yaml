@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بحب أقعد جنب الشباك وأتفرج على الناس.
+translation: I like to sit by the window and watch people.
+vocab:
+- arz/شباك

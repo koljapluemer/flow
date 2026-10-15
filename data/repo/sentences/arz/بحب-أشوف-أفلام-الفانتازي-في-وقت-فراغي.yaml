@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بحب أشوف أفلام الفانتازي في وقت فراغي.
+translation: I like to watch fantasy films in my free time.
+vocab:
+- arz/فيلم

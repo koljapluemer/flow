@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: دي فرصة كويسة عشان تتعلم حاجة جديدة.
+translation: This is a good opportunity to learn something new.
+vocab:
+- arz/فرصه

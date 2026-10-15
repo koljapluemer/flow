@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لو حسيت إني غلطت، هدور على طريقة أصلح الموضوع.
+translation: If I feel I made a mistake, I will look for a way to fix it.
+vocab:
+- arz/غلط

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الولد بيرجع المدرسة بعد ما يلعب بره.
+translation: The boy comes back to school after playing outside.
+vocab:
+- arz/بره

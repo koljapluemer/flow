@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: نزلت من القطر بسرعة عشان ما اتأخرتش.
+translation: I got off the train quickly so I wouldn't be late.
+vocab:
+- arz/نزل

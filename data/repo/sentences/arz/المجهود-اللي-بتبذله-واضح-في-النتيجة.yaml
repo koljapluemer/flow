@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: المجهود اللي بتبذله واضح في النتيجة.
+translation: The effort you put in is clear in the result.
+vocab:
+- arz/مجهود

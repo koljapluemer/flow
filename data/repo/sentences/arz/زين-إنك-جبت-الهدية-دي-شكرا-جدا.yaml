@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: زين إنك جبت الهدية دي، شكراً جداً.
+translation: It's good that you brought this gift, thank you very much.
+vocab:
+- arz/زين

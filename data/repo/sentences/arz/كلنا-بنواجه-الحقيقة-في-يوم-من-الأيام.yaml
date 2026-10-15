@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كلنا بنواجه الحقيقة في يوم من الأيام.
+translation: We all face the truth one day.
+vocab:
+- arz/حقيقة

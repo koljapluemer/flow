@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الشخص ده صديقي من زمان.
+translation: That person has been my friend for a long time.
+vocab:
+- arz/شخص

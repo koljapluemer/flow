@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اخترنا توبك النقاش عن الصحة النفسية.
+translation: We chose the topic of discussion about mental health.
+vocab:
+- arz/توبك

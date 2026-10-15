@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كل واحد عنده شخصيته الخاصة بيه.
+translation: Everyone has their own personality.
+vocab:
+- arz/شخصيه

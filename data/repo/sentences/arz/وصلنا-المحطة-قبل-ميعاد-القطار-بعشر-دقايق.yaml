@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: وصلنا المحطة قبل ميعاد القطار بعشر دقايق.
+translation: We arrived at the station ten minutes before the train time.
+vocab:
+- arz/وصل

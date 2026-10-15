@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اخد باله إنه غلط واعتذر فوراً.
+translation: He realized he was wrong and apologized immediately.
+vocab:
+- arz/اخد-باله

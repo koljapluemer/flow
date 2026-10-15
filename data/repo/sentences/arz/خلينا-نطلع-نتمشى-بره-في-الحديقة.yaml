@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: خلينا نطلع نتمشى بره في الحديقة.
+translation: Let's go outside for a walk in the park.
+vocab:
+- arz/بره

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لازم تريح دماغك شوية بعد التعب.
+translation: You need to rest your mind a bit after the tiredness.
+vocab:
+- arz/دماغ

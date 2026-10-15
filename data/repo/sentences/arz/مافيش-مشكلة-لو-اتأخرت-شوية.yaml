@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: مافيش مشكلة لو اتأخرت شوية.
+translation: There is no problem if you are a little late.
+vocab:
+- arz/مافيش

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: انسحبت الشركة من المشروع بعد المشاكل المالية.
+translation: The company withdrew from the project after financial problems.
+vocab:
+- arz/انسحب

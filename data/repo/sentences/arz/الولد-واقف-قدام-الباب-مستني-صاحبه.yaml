@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الولد واقف قدام الباب مستني صاحبه.
+translation: The boy is standing in front of the door waiting for his friend.
+vocab:
+- arz/قدام

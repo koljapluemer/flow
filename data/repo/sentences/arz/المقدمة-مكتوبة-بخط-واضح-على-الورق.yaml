@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: المقدمة مكتوبة بخط واضح على الورق.
+translation: The introduction is written clearly on the paper.
+vocab:
+- arz/مكتوب

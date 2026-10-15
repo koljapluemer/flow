@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: نزل المطر بكميات كبيرة النهاردة.
+translation: The rain fell heavily today.
+vocab:
+- arz/نزل

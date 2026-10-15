@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: قبل ما تنام، خد دواءك.
+translation: Before you sleep, take your medicine.
+vocab:
+- arz/قبل

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ان شاء الله هنجتمع الأسبوع الجاي عشان نخطط للمشروع.
+translation: God willing, we will meet next week to plan the project.
+vocab:
+- arz/ان

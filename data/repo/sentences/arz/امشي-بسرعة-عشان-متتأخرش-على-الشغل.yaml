@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: امشي بسرعة عشان متتأخرش على الشغل.
+translation: Walk quickly so you won't be late for work.
+vocab:
+- arz/امشي

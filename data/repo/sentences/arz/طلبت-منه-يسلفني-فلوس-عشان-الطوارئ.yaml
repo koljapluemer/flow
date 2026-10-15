@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: طلبت منه يسلفني فلوس عشان الطوارئ.
+translation: I asked him to lend me some money for an emergency.
+vocab:
+- arz/سلف

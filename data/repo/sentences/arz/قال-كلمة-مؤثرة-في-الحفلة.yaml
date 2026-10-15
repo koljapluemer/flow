@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: قال كلمة مؤثرة في الحفلة.
+translation: He said an influential word at the party.
+vocab:
+- arz/كلمة

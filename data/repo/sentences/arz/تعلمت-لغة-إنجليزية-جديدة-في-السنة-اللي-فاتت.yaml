@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: تعلمت لغة إنجليزية جديدة في السنة اللي فاتت.
+translation: I learned a new English language last year.
+vocab:
+- arz/تعلم

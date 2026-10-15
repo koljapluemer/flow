@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ايه أكتر حاجة بتحبها في الصيف؟
+translation: What do you like most in the summer?
+vocab:
+- arz/ايه

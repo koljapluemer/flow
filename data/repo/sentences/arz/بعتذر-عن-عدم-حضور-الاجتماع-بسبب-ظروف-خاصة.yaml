@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بعتذر عن عدم حضور الاجتماع بسبب ظروف خاصة.
+translation: I apologize for not attending the meeting due to personal circumstances.
+vocab:
+- arz/بعتذر

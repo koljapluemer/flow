@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هو رايح عند الدكتور للفحص الدوري.
+translation: He is going to the doctor for a regular check-up.
+vocab:
+- arz/رايح

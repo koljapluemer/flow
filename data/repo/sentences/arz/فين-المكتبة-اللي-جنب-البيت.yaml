@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: فين المكتبة اللي جنب البيت؟
+translation: Where is the library next to the house?
+vocab:
+- arz/فين

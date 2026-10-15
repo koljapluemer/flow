@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: المخ هو اللي بيحدد ردود أفعالنا في المواقف المختلفة.
+translation: The brain is what determines our reactions in different situations.
+vocab:
+- arz/مخ

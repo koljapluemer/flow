@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: امسك الكرة كويس عشان ما تقعش منك.
+translation: Hold the ball well so it doesn’t fall from you.
+vocab:
+- arz/امسك

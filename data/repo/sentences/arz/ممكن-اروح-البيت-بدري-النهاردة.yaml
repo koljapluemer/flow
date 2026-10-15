@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ممكن اروح البيت بدري النهاردة؟
+translation: Can I go home early today?
+vocab:
+- arz/اروح

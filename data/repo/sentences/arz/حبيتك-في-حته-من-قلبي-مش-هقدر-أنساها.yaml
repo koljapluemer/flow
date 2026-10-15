@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حبيتك في حته من قلبي مش هقدر أنساها.
+translation: I loved you in a part of my heart that I can never forget.
+vocab:
+- arz/حته

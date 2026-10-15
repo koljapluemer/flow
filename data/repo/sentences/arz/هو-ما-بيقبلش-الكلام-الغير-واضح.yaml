@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هو ما بيقبلش الكلام الغير واضح.
+translation: He does not accept unclear speech.
+vocab:
+- arz/يقبل

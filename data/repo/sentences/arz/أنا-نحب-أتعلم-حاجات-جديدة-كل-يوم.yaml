@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا نحب أتعلم حاجات جديدة كل يوم.
+translation: I love learning new things every day.
+vocab:
+- arz/نحب

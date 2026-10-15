@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الطلب بتاعك وصل النهاردة.
+translation: Your order arrived today.
+vocab:
+- arz/طلب

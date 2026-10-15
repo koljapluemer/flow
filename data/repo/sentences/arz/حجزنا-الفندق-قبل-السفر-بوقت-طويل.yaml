@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حجزنا الفندق قبل السفر بوقت طويل.
+translation: We booked the hotel long before the trip.
+vocab:
+- arz/قبل

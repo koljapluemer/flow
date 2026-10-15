@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الارض دي بتزرع فيها القمح كل سنة.
+translation: This land is planted with wheat every year.
+vocab:
+- arz/ارض

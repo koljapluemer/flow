@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بحاول أخلي يومي منتج ومفيد.
+translation: I try to make my day productive and useful.
+vocab:
+- arz/احاول

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هو فعل اللي قاله من كام يوم.
+translation: He did what he said a few days ago.
+vocab:
+- arz/فعل

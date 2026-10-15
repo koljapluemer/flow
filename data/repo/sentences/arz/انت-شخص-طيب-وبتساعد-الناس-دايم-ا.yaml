@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: انت شخص طيب وبتساعد الناس دايمًا.
+translation: You are a kind person and always help people.
+vocab:
+- arz/انت

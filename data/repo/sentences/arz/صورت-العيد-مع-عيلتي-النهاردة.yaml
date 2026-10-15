@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: صورت العيد مع عيلتي النهاردة.
+translation: I took pictures of Eid with my family today.
+vocab:
+- arz/صور

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اعتمدت على نفسي في الدراسة.
+translation: I relied on myself in studying.
+vocab:
+- arz/على

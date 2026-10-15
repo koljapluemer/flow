@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الفلوس مش كل حاجة، بس بتساعد في الحياة.
+translation: Money isn't everything, but it helps in life.
+vocab:
+- arz/فلوس

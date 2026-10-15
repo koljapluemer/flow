@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اكمل شغلك قبل ما تخرج.
+translation: Finish your work before going out.
+vocab:
+- arz/اكمل

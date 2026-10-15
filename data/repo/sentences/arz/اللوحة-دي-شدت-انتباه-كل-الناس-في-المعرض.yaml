@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اللوحة دي شدت انتباه كل الناس في المعرض.
+translation: This painting grabbed everyone's attention at the exhibition.
+vocab:
+- arz/فت-انتباه

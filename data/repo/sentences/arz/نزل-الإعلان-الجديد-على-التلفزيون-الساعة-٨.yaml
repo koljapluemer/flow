@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: نزل الإعلان الجديد على التلفزيون الساعة ٨.
+translation: The new advertisement aired on television at 8.
+vocab:
+- arz/نزل

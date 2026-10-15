@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لو ركزت في الشغل، حتخلص أسرع.
+translation: If you focus on work, you'll finish faster.
+vocab:
+- arz/ركز

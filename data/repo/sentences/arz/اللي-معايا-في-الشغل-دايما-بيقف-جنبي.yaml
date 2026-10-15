@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اللي معايا في الشغل دايماً بيقف جنبي.
+translation: Those with me at work always stand by my side.
+vocab:
+- arz/اللي

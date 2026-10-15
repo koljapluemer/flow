@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا عملت الواجب بتاعي قبل ما أنام.
+translation: I did my homework before sleeping.
+vocab:
+- arz/عمل

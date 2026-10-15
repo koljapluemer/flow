@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أصعب مرحلة في التعلم هي البداية.
+translation: The hardest stage in learning is the beginning.
+vocab:
+- arz/اصعب

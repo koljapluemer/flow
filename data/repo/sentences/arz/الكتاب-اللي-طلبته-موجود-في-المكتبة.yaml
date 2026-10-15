@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الكتاب اللي طلبته موجود في المكتبة.
+translation: The book you requested is available in the library.
+vocab:
+- arz/موجود

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كل يوم بذاكر عشان أنجح في الامتحان.
+translation: Every day I study to succeed in the exam.
+vocab:
+- arz/كل

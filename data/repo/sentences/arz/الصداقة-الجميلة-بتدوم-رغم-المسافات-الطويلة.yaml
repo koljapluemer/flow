@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الصداقة الجميلة بتدوم رغم المسافات الطويلة.
+translation: Beautiful friendship lasts despite long distances.
+vocab:
+- arz/صداقة

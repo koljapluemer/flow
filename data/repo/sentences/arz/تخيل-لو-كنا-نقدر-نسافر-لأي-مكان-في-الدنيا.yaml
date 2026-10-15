@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: تخيل لو كنا نقدر نسافر لأي مكان في الدنيا.
+translation: Imagine if we could travel anywhere in the world.
+vocab:
+- arz/تخيل

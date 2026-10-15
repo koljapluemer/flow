@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: رحت أشتري شاشه جديدة للكمبيوتر بتاعي.
+translation: I went to buy a new screen for my computer.
+vocab:
+- arz/شاشه

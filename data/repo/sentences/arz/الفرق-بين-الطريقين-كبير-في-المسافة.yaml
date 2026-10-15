@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الفرق بين الطريقين كبير في المسافة.
+translation: The difference between the two roads is big in distance.
+vocab:
+- arz/فرق

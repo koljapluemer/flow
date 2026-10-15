@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ايه سبب تأخرك النهاردة؟
+translation: What is the reason for your delay today?
+vocab:
+- arz/ايه

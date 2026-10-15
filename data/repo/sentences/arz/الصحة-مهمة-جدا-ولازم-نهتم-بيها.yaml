@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الصحة مهمة جداً ولازم نهتم بيها.
+translation: Health is very important and we must take care of it.
+vocab:
+- arz/مهم

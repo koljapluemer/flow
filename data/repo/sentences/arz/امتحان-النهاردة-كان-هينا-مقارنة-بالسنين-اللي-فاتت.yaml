@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: امتحان النهاردة كان هينا مقارنة بالسنين اللي فاتت.
+translation: Today's exam was easy compared to previous years.
+vocab:
+- arz/هينا

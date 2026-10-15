@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الحلقة دي من البرنامج كانت مفيدة وعلمتني حاجات كتير.
+translation: This episode of the program was useful and taught me many things.
+vocab:
+- arz/مفيد

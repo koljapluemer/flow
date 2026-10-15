@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: عندي شك إن الخبر مش صحيح.
+translation: I have a suspicion that the news is not true.
+vocab:
+- arz/شك

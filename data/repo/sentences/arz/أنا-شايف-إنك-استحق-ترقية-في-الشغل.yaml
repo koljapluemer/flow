@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا شايف إنك استحق ترقية في الشغل.
+translation: I think you deserve a promotion at work.
+vocab:
+- arz/استحق

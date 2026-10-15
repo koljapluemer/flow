@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ده يعني إننا لازم نرجع بدري.
+translation: That means we have to return early.
+vocab:
+- arz/يعني

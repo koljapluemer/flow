@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كنت ناوي أساعده، ولكن الظروف ما سمحتش.
+translation: I intended to help him, but the circumstances didn't allow it.
+vocab:
+- arz/ولكن

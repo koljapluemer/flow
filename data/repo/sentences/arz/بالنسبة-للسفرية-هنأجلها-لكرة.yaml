@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بالنسبة للسفرية، هنأجلها لكرة.
+translation: Regarding the trip, we'll postpone it to tomorrow.
+vocab:
+- arz/بالنسبة

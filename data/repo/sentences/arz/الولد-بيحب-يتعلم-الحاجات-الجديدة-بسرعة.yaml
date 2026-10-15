@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الولد بيحب يتعلم الحاجات الجديدة بسرعة.
+translation: The boy likes to learn new things quickly.
+vocab:
+- arz/تعلم

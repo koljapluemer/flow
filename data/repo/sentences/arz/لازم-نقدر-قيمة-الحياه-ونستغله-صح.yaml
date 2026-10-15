@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لازم نقدر قيمة الحياه ونستغله صح.
+translation: We must appreciate the value of life and make good use of it.
+vocab:
+- arz/حياه

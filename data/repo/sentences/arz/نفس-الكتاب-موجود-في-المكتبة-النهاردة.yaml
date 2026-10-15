@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: نفس الكتاب موجود في المكتبة النهاردة.
+translation: The same book is available in the library today.
+vocab:
+- arz/نفس

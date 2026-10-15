@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أمر الطبيب كان ضروري للشفاء السريع.
+translation: The doctor's order was necessary for quick recovery.
+vocab:
+- arz/امر

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا رايح الشغل بدري عشان أخلص مهامي.
+translation: I am going to work early to finish my tasks.
+vocab:
+- arz/رايح

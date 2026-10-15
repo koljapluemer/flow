@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اضطريت أشتغل لحد متأخر عشان أخلص المشروع.
+translation: I had to work late to finish the project.
+vocab:
+- arz/اضطر

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حأساعدك حتى لو ما عنديش وقت كتير.
+translation: I will help you even if I don't have much time.
+vocab:
+- arz/حتى-لو

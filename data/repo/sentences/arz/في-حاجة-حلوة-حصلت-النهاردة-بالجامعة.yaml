@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: في حاجة حلوة حصلت النهاردة بالجامعة.
+translation: Something nice happened today at the university.
+vocab:
+- arz/حاجة

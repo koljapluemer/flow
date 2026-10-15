@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ريجاردلس للظروف، لازم نكمل الشغل.
+translation: Regardless of the circumstances, we must finish the work.
+vocab:
+- arz/ريجاردلس

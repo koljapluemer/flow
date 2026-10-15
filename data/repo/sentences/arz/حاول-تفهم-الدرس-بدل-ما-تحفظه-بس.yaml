@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حاول تفهم الدرس بدل ما تحفظه بس.
+translation: Try to understand the lesson instead of just memorizing it.
+vocab:
+- arz/حاول

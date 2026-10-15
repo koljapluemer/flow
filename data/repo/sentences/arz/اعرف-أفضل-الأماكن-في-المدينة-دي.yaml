@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اعرف أفضل الأماكن في المدينة دي.
+translation: I know the best places in this city.
+vocab:
+- arz/اعرف

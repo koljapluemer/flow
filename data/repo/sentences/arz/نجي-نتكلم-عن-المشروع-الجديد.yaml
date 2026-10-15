@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: نجي نتكلم عن المشروع الجديد؟
+translation: Shall we come and talk about the new project?
+vocab:
+- arz/نجي

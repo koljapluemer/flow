@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: نفسي أزور باريس يوم من الأيام.
+translation: I wish to visit Paris someday.
+vocab:
+- arz/نفسي

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: قال الأستاذ إن الامتحان صعب السنة دي.
+translation: The teacher said that the exam is difficult this year.
+vocab:
+- arz/قال

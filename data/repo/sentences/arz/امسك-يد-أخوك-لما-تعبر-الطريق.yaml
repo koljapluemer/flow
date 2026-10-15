@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: امسك يد أخوك لما تعبر الطريق.
+translation: Hold your brother’s hand when you cross the street.
+vocab:
+- arz/امسك

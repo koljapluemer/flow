@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بعد الفشل الأول، قررت اموف اون وأبدأ من جديد.
+translation: After the first failure, I decided to move on and start anew.
+vocab:
+- arz/اموف-اون

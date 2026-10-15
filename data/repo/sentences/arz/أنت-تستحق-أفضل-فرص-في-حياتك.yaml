@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنت تستحق أفضل فرص في حياتك.
+translation: You deserve the best opportunities in your life.
+vocab:
+- arz/تستحق

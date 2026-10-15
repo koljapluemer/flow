@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: وصلت الرسالة لصاحبي بسرعة غير متوقعة.
+translation: The message reached my friend unexpectedly quickly.
+vocab:
+- arz/وصل

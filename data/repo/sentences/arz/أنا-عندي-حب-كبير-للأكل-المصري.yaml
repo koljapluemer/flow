@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا عندي حب كبير للأكل المصري.
+translation: I have a great love for Egyptian food.
+vocab:
+- arz/حب

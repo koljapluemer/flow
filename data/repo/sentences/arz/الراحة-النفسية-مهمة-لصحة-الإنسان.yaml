@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الراحة النفسية مهمة لصحة الإنسان.
+translation: Mental rest is important for human health.
+vocab:
+- arz/راحة

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: امسك الكتاب كويس عشان ما يقعش منك.
+translation: Hold the book well so it doesn't fall from you.
+vocab:
+- arz/ام

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الدراسة عن بعد أصبحت شائعة أكتر الفترة اللي فاتت.
+translation: Distance learning has become more common recently.
+vocab:
+- arz/دراسة

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: دخلت البيت لما لقيت الضيوف قاعدين.
+translation: I entered the house when I found the guests seated.
+vocab:
+- arz/دخل

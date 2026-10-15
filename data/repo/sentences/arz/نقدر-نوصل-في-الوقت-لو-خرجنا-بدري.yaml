@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: نقدر نوصل في الوقت لو خرجنا بدري.
+translation: We can arrive on time if we leave early.
+vocab:
+- arz/نقدر

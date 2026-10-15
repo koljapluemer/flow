@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا وقفت أستنى الصحاب في الكافيه.
+translation: I stood waiting for friends at the cafe.
+vocab:
+- arz/يقف

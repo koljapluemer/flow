@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: فين بتحط مفاتيحك عادةً؟
+translation: Where do you usually put your keys?
+vocab:
+- arz/فين

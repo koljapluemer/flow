@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا مش عرفان ليه هيتأخر أكتر كده.
+translation: I don't understand why he will be late like this.
+vocab:
+- arz/عرف

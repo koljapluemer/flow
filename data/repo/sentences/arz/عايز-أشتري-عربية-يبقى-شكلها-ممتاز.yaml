@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: عايز أشتري عربية يبقى شكلها ممتاز.
+translation: I want to buy a car that looks excellent.
+vocab:
+- arz/يبقى

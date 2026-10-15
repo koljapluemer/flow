@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: مافيش حد في البيت دلوقتي.
+translation: There is no one at home now.
+vocab:
+- arz/مافيش

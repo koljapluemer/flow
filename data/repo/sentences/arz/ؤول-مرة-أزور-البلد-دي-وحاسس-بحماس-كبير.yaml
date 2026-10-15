@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ؤول مرة أزور البلد دي وحاسس بحماس كبير.
+translation: It's the first time I'm visiting this country, and I feel very excited.
+vocab:
+- arz/ؤول

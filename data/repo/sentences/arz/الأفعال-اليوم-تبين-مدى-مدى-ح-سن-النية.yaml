@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الأفعال اليوم تبين مدى مدى حُسن النية.
+translation: Today's actions show the extent of true intentions.
+vocab:
+- arz/افع

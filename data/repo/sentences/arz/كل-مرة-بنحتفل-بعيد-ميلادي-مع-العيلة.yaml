@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كل مرة بنحتفل بعيد ميلادي مع العيلة.
+translation: Every time we celebrate my birthday with the family.
+vocab:
+- arz/مرة

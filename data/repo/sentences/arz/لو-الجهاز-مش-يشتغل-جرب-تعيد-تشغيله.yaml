@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لو الجهاز مش يشتغل، جرب تعيد تشغيله.
+translation: If the device doesn't work, try restarting it.
+vocab:
+- arz/يشتغل

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لازم يكمّل المشروع قبل نهاية الشهر.
+translation: He must complete the project before the end of the month.
+vocab:
+- arz/يكم-ل

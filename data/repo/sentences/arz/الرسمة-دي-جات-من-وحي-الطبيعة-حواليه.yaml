@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الرسمة دي جات من وحي الطبيعة حواليه.
+translation: This drawing came from the inspiration of the nature around him.
+vocab:
+- arz/وحي

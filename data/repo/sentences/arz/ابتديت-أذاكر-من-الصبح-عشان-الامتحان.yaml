@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ابتديت أذاكر من الصبح عشان الامتحان.
+translation: I started studying since morning for the exam.
+vocab:
+- arz/ابتدي

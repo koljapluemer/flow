@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حبيت الطريقة المبسطة في الدرس ده.
+translation: I liked the simplified way in this lesson.
+vocab:
+- arz/مبسط

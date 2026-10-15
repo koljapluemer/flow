@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: التوبك بتاع المقالة عن التكنولوجيا الحديثة.
+translation: The topic of the article is about modern technology.
+vocab:
+- arz/توبك

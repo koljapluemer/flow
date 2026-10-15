@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لازم تكلم والدك قبل ما تسافر.
+translation: You have to talk to your father before you travel.
+vocab:
+- arz/تكلم

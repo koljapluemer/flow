@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: انا بحاول أعمل صح في كل حاجة بعملها.
+translation: I try to do right in everything I do.
+vocab:
+- arz/يعمل

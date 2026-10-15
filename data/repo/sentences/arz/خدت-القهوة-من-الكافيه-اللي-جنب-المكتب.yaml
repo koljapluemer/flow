@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: خدت القهوة من الكافيه اللي جنب المكتب.
+translation: I got coffee from the cafe next to the office.
+vocab:
+- arz/من

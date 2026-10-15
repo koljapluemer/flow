@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ما فيش شك إنك مجتهد في شغلك.
+translation: There is no doubt that you are hardworking in your work.
+vocab:
+- arz/شك

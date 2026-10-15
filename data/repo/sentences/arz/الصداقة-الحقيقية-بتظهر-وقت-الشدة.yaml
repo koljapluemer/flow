@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الصداقة الحقيقية بتظهر وقت الشدة.
+translation: True friendship appears in times of hardship.
+vocab:
+- arz/صداقه

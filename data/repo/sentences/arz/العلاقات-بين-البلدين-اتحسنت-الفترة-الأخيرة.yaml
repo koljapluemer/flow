@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: العلاقات بين البلدين اتحسنت الفترة الأخيرة.
+translation: The relations between the two countries have improved recently.
+vocab:
+- arz/العلاقات

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الطيبة صفة مهمة في الإنسان.
+translation: Kindness is an important trait in a person.
+vocab:
+- arz/صفة

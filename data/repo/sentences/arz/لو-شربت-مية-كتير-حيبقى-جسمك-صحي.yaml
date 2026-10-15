@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لو شربت مية كتير، حيبقى جسمك صحي.
+translation: If you drink a lot of water, your body will be healthy.
+vocab:
+- arz/يبقى

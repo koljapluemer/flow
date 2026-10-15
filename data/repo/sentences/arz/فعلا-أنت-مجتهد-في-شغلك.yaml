@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: فعلاً، أنت مجتهد في شغلك.
+translation: Truly, you are diligent in your work.
+vocab:
+- arz/فعلا

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بالنسبة للرحلة، هنبدأ يوم السبت.
+translation: Regarding the trip, we'll start on Saturday.
+vocab:
+- arz/بالنسبه

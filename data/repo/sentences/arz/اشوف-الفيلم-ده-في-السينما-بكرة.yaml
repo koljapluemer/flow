@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اشوف الفيلم ده في السينما بكرة.
+translation: I'll watch that movie in the cinema tomorrow.
+vocab:
+- arz/اشوف

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الأكل طيب جداً في المطعم ده، لازم تجربه.
+translation: The food is very tasty in this restaurant; you must try it.
+vocab:
+- arz/طيب

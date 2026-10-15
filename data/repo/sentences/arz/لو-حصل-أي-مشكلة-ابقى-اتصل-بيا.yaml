@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لو حصل أي مشكلة، ابقى اتصل بيا.
+translation: If any problem happens, make sure to call me.
+vocab:
+- arz/يحصل

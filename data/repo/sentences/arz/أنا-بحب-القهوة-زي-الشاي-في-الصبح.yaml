@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا بحب القهوة زي الشاي في الصبح.
+translation: I love coffee like tea in the morning.
+vocab:
+- arz/زي

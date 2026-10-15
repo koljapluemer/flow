@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: آخر مرة رحت فيها السوق كانت الأسبوع الماضي.
+translation: The last time I went to the market was last week.
+vocab:
+- arz/اخر

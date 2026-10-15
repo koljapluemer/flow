@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: التدريب ده مفيد لتحسين مهاراتك.
+translation: This training is useful to improve your skills.
+vocab:
+- arz/مفيد

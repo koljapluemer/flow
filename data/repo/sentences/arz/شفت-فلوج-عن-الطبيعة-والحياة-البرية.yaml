@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: شفت فلوج عن الطبيعة والحياة البرية.
+translation: I watched a vlog about nature and wildlife.
+vocab:
+- arz/فلوج

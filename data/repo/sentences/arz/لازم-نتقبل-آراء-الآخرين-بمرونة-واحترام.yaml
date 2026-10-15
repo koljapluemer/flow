@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لازم نتقبل آراء الآخرين بمرونة واحترام.
+translation: We must accept others' opinions with flexibility and respect.
+vocab:
+- arz/نتقبل

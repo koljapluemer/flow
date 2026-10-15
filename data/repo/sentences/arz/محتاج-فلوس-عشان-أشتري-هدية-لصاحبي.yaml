@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: محتاج فلوس عشان أشتري هدية لصاحبي.
+translation: I need money to buy a gift for my friend.
+vocab:
+- arz/فلوس

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اللاعب ده يستحق الفوز في المسابقة دي.
+translation: This player deserves to win this competition.
+vocab:
+- arz/يستحق

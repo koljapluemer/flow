@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ابدأ تذاكر من دلوقتي عشان الامتحان جاي.
+translation: Start studying now because the exam is coming.
+vocab:
+- arz/ابدأ

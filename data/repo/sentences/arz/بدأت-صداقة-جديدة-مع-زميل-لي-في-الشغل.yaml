@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بدأت صداقة جديدة مع زميل لي في الشغل.
+translation: I started a new friendship with a colleague at work.
+vocab:
+- arz/صداقة

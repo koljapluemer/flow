@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الوقت كله للراحة يبقى كويس بعد الشغل.
+translation: Having all the time for rest is good after work.
+vocab:
+- arz/يبقى

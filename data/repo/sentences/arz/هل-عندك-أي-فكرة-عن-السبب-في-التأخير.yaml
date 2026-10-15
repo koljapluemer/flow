@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هل عندك أي فكرة عن السبب في التأخير؟
+translation: Do you have any idea about the reason for the delay?
+vocab:
+- arz/اي

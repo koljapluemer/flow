@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: يتغلب على الكسل بإنه يحدد وقت للدراسة.
+translation: He overcomes laziness by setting a time for studying.
+vocab:
+- arz/يتغلب

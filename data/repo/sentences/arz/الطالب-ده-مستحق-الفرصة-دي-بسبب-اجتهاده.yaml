@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الطالب ده مستحق الفرصة دي بسبب اجتهاده.
+translation: This student deserves this opportunity because of his diligence.
+vocab:
+- arz/مستحق

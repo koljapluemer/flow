@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: للأسف، المطر خلانا نأجل الرحلة.
+translation: Unfortunately, the rain made us postpone the trip.
+vocab:
+- arz/للأسف

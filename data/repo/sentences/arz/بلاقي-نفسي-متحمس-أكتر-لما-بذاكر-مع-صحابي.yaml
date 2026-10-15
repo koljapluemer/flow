@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بلاقي نفسي متحمس أكتر لما بذاكر مع صحابي.
+translation: I find myself more motivated when I study with my friends.
+vocab:
+- arz/بلاقي

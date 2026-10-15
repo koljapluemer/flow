@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بعد فترة، جيت اوفر المشكلة وبدأت أركز في حياتي.
+translation: After some time, I got over the problem and started focusing on my life.
+vocab:
+- arz/جيت-اوفر

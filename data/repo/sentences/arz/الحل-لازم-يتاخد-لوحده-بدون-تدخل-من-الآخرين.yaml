@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الحل لازم يتاخد لوحده بدون تدخل من الآخرين.
+translation: The decision must be taken independently without interference from others.
+vocab:
+- arz/لوحده

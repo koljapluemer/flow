@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كل محاوله بتقربنا من الهدف.
+translation: Every attempt brings us closer to the goal.
+vocab:
+- arz/محاوله

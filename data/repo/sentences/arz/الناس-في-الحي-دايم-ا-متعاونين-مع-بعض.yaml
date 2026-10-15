@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الناس في الحي دايمًا متعاونين مع بعض.
+translation: The people in the neighborhood are always cooperative with each other.
+vocab:
+- arz/الناس

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: دين الإسلام علمنا التسامح والمحبة.
+translation: The religion of Islam taught us tolerance and love.
+vocab:
+- arz/دين

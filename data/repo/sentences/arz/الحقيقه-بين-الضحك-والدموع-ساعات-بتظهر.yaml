@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الحقيقه بين الضحك والدموع ساعات بتظهر.
+translation: The truth sometimes appears between laughter and tears.
+vocab:
+- arz/حقيقه

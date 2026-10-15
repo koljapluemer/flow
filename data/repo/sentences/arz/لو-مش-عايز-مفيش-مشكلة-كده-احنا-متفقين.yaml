@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لو مش عايز، مفيش مشكلة، كده احنا متفقين.
+translation: If you don't want to, no problem; this way, we agree.
+vocab:
+- arz/كده

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هل يقبل الطلب بتاعي ولا محتاج تعديل؟
+translation: Does he accept my request or does it need modification?
+vocab:
+- arz/يقبل

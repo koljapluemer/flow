@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ابدأ يومك بفطار صحي.
+translation: Start your day with a healthy breakfast.
+vocab:
+- arz/ابدأ

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كبر حلمي وأصبحت عايز أفتح شركة خاصة بيا.
+translation: My dream grew and I wanted to start my own company.
+vocab:
+- arz/كبر

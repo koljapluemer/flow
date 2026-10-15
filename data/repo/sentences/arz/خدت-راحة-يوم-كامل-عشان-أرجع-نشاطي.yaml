@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: خدت راحة يوم كامل عشان أرجع نشاطي.
+translation: I took a whole day of rest to regain my energy.
+vocab:
+- arz/راحة

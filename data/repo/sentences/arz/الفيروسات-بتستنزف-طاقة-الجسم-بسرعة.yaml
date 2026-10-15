@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الفيروسات بتستنزف طاقة الجسم بسرعة.
+translation: Viruses drain the body’s energy quickly.
+vocab:
+- arz/تستنذف

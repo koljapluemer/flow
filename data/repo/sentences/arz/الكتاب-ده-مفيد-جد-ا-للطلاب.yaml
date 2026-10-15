@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الكتاب ده مفيد جدًا للطلاب.
+translation: This book is very useful for students.
+vocab:
+- arz/مفيد

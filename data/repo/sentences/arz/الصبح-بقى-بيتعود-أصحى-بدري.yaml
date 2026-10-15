@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الصبح بقى بيتعود أصحى بدري.
+translation: In the morning, he has become accustomed to waking up early.
+vocab:
+- arz/يتعود

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لو محتاج حد يساعدك، أنا موجود دايمًا.
+translation: If you need someone to help you, I am always here.
+vocab:
+- arz/يساعد

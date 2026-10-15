@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: عندهم بلاك آوت في المنطقة اللي ساكنين فيها.
+translation: They have a blackout in the area they live in.
+vocab:
+- arz/بلاك

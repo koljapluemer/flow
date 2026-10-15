@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ينفع تساعدني في نقل الحاجة؟
+translation: Can you help me carry the item?
+vocab:
+- arz/ينفع

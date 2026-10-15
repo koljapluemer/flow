@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ده جزء من المشروع الكبير.
+translation: This is part of the big project.
+vocab:
+- arz/جزء

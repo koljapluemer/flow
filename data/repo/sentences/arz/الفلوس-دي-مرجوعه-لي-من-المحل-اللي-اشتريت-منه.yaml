@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الفلوس دي مرجوعه لي من المحل اللي اشتريت منه.
+translation: This money was refunded to me from the store I bought from.
+vocab:
+- arz/مرجوع

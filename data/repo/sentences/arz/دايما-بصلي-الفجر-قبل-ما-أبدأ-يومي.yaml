@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: دايماً بصلي الفجر قبل ما أبدأ يومي.
+translation: I always pray Fajr before I start my day.
+vocab:
+- arz/صلي

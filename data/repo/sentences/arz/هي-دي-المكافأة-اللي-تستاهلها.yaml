@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هي دي المكافأة اللي تستاهلها.
+translation: This is the reward you deserve.
+vocab:
+- arz/استاهل

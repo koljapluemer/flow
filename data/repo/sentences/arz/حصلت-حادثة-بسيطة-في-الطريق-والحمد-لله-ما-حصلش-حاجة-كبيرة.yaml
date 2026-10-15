@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حصلت حادثة بسيطة في الطريق، والحمد لله ما حصلش حاجة كبيرة.
+translation: A minor accident happened on the road, thank God nothing serious happened.
+vocab:
+- arz/حصل

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هحاول أذاكر كويس وناجح في الامتحان.
+translation: I will try to study well and succeed in the exam.
+vocab:
+- arz/محاوله

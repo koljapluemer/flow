@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كان غلط مني ما خبرتكش قبل ما أقرر.
+translation: It was wrong of me not to inform you before I decided.
+vocab:
+- arz/غلط

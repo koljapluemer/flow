@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اللايتنج في الفيلم كان ممتاز جداً.
+translation: The lighting in the movie was very excellent.
+vocab:
+- arz/لايتنج

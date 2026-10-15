@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كان حلمي دايمًا أشتغل في مجال التعليم.
+translation: My dream was always to work in the field of education.
+vocab:
+- arz/كان

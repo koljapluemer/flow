@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هفضل واقف معاك حتى لو الدنيا كلها ضدك.
+translation: I will stand by you even if the whole world is against you.
+vocab:
+- arz/حتى-لو

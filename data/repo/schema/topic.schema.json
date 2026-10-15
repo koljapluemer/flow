@@ -3,11 +3,17 @@
   "title": "Topic",
   "type": "object",
   "additionalProperties": false,
-  "required": ["title", "sentences"],
+  "required": ["title"],
   "properties": {
     "title": { "type": "string", "minLength": 1 },
     "sentences": {
       "description": "Sentence refs (<lang>/<slug>), in any languages",
+      "type": "array",
+      "uniqueItems": true,
+      "items": { "type": "string", "pattern": "^[a-z]{3}/[^/]+$" }
+    },
+    "videos": {
+      "description": "Video refs (<lang>/<youtube id>), in any languages",
       "type": "array",
       "uniqueItems": true,
       "items": { "type": "string", "pattern": "^[a-z]{3}/[^/]+$" }

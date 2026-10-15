@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ابذل كل اللي تقدر عليه في الشغل ده.
+translation: Exert all you can in this work.
+vocab:
+- arz/ابذل

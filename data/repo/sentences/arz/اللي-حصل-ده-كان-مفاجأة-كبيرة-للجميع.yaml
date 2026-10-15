@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اللي حصل ده كان مفاجأة كبيرة للجميع.
+translation: What happened was a big surprise for everyone.
+vocab:
+- arz/اللي

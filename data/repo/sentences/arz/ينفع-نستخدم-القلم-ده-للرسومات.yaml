@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ينفع نستخدم القلم ده للرسومات؟
+translation: Can we use this pen for drawings?
+vocab:
+- arz/ينفع

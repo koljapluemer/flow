@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بص على الورقة دي وشوف إذا فيها أخطاء.
+translation: Look at this paper and see if there are any mistakes.
+vocab:
+- arz/بص

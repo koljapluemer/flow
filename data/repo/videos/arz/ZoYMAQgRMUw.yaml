@@ -1,0 +1,1295 @@
+# yaml-language-server: $schema=../../schema/video.schema.json
+title: العلاقات.
+youtube: ZoYMAQgRMUw
+snippets:
+- start: 0.438
+  end: 9.628
+  text: العلاقات انا بصور هنا لمجرد الكسل عندي شباك احط لايتنج واحد وببقى كده تمام انا كتبت الاكريبت بعد ما صليت الفجر جالي الوحي كتبته كله
+  translation: 'Relationships: I am filming here just out of laziness. I have a window where I put one lighting and that''s it, I''m done. I wrote the script after I prayed Fajr, inspiration came to me and I wrote it all.'
+  vocab:
+  - arz/العلاقات
+  - arz/صور
+  - arz/كسل
+  - arz/شباك
+  - arz/حط
+  - arz/لايتنج
+  - arz/اكتب
+  - arz/صلي
+  - arz/صلي-الفجر
+  - arz/جاء
+  - arz/وحي
+  core:
+  - arz/العلاقات
+  - arz/صور
+  - arz/كسل
+  - arz/شباك
+  - arz/حط
+  - arz/لايتنج
+  - arz/اكتب
+  - arz/صلي
+  - arz/صلي-الفجر
+  - arz/جاء
+  - arz/وحي
+- start: 9.628
+  end: 21.002
+  text: على طول ليه الواحد ممكن يمسك في علاقه حب او صداقه وهو عارف ان هي مش كويسه ليه حاسه ان احنا لو حطينا ايدينا على السبب هنقدر كلنا نعمل موف اون الايباد فصل
+  translation: Why is it that someone can hold on to a romantic relationship or friendship even though they know it's not good? I feel like if we put our hands on the reason, we'll all be able to move on. End of discussion.
+  vocab:
+  - arz/علاقه
+  - arz/حب
+  - arz/صداقه
+  - arz/عرف
+  - arz/كويس
+  - arz/حاسه
+  - arz/حط
+  - arz/يد
+  - arz/سبب
+  - arz/قدر
+  - arz/عمل
+  - arz/موف-اون
+  core:
+  - arz/علاقه
+  - arz/حب
+  - arz/صداقه
+  - arz/عرف
+  - arz/كويس
+  - arz/حاسه
+  - arz/حط
+  - arz/يد
+  - arz/سبب
+  - arz/قدر
+  - arz/عمل
+  - arz/موف-اون
+- start: 21.002
+  end: 35.955
+  text: يتشحن واجي المهم نرجع لمرجوعنا ليه بمسك في حاجه عارفه ان هي مضره دي بتستنذفني لو وصلت كده لكاما بوينت حاسه ان دي هي دي هي دي الحل وهي دي الطريقه اللي انا مخي عامه
+  translation: I get charged up, so let's get back to our main point. Why do I hold on to something I know is harmful? It drains me. If it gets like this, I feel like it could lead to coma-point. I feel that this is the solution and this is the way my brain works overall.
+  vocab:
+  - arz/يتشحن
+  - arz/مهم
+  - arz/نرجع
+  - arz/مرجوع
+  - arz/امسك
+  - arz/حاجه
+  - arz/عارف
+  - arz/مضر
+  - arz/تستنذف
+  - arz/وصل
+  - arz/كاما
+  - arz/حاسه
+  - arz/حل
+  - arz/طريقه
+  - arz/مخ
+  - arz/عام
+  core:
+  - arz/يتشحن
+  - arz/مهم
+  - arz/نرجع
+  - arz/مرجوع
+  - arz/امسك
+  - arz/حاجه
+  - arz/عارف
+  - arz/مضر
+  - arz/تستنذف
+  - arz/وصل
+  - arz/كاما
+  - arz/حاسه
+  - arz/حل
+  - arz/طريقه
+  - arz/مخ
+- start: 35.955
+  end: 47.491
+  text: بيشتغل بيها بقىي كذا سنه الواحد بيبقى متعود ان هو يثبت نفسه اثبت نفسي في الدراسه فاذاكر اكت حاول اثبت نفسي لاهلي فاعمل لهم حاجات اكت عشان يحبوني اكت
+  translation: One works with it for several years, and a person gets used to proving himself. I proved myself in my studies by studying hard. Then I tried to prove myself to my family by doing things for them so that they would love me.
+  vocab:
+  - arz/يشتغل
+  - arz/سنة
+  - arz/واحد
+  - arz/يتعود
+  - arz/ثبت
+  - arz/نفسي
+  - arz/دراسة
+  - arz/ذاكر
+  - arz/حاول
+  - arz/عائل
+  - arz/عمل
+  - arz/حاجة
+  - arz/يحب
+  core:
+  - arz/يشتغل
+  - arz/سنة
+  - arz/واحد
+  - arz/يتعود
+  - arz/ثبت
+  - arz/نفسي
+  - arz/دراسة
+  - arz/ذاكر
+  - arz/حاول
+  - arz/عمل
+  - arz/حاجة
+  - arz/يحب
+- start: 47.491
+  end: 55.855
+  text: للاسف جيلنا كبر على كده اعمل حاجه فقصادها اتحب ما ينفعش اتحب وخلاص ما ينفعش انا اكون موجود
+  translation: Unfortunately, our generation has grown out of that. Do something against it, love won't work, you can't just love and that's it, it's not possible for me to be present.
+  vocab:
+  - arz/للأسف
+  - arz/جيل
+  - arz/كبر
+  - arz/كده
+  - arz/اعمل
+  - arz/حاجة
+  - arz/فقصاد
+  - arz/حب
+  - arz/ينفع
+  - arz/وخلاص
+  - arz/انا
+  - arz/يكون
+  - arz/موجود
+  core:
+  - arz/للأسف
+  - arz/جيل
+  - arz/كبر
+  - arz/اعمل
+  - arz/حاجة
+  - arz/فقصاد
+  - arz/حب
+  - arz/ينفع
+  - arz/انا
+  - arz/يكون
+  - arz/موجود
+- start: 55.855
+  end: 68.567
+  text: فاذا انا محبوب لازم اعمل حاجه فالحاجه دي تخلي اللي قصادي يحبني فلما اللي قصادي بيبطل يحبني او لما الصداقه دي بتيجي ان هي خلاص هتنتهي ببتدي احط مجهود كبير قوي
+  translation: So if I am loved, I must do something, and that something should make the person in front of me love me. So when the person in front of me stops loving me or when the friendship is about to end, I start putting in a lot of effort.
+  vocab:
+  - arz/حب
+  - arz/لازم
+  - arz/اعمل
+  - arz/حاجه
+  - arz/قصاد
+  - arz/يبطل
+  - arz/صداقه
+  - arz/تيجي
+  - arz/خلاص
+  - arz/ابدأ
+  - arz/احط
+  - arz/مجهود
+  - arz/كبير
+  core:
+  - arz/حب
+  - arz/لازم
+  - arz/اعمل
+  - arz/حاجه
+  - arz/قصاد
+  - arz/يبطل
+  - arz/صداقه
+  - arz/خلاص
+  - arz/ابدأ
+  - arz/احط
+  - arz/مجهود
+  - arz/كبير
+- start: 68.567
+  end: 81.193
+  text: وجزء من المجهود ده بيبقى مش مطلوب ولو قلت اللي قدامك انا عملت وسويت ورحت وجيت عشانك هيقول لك انا ما طلبتش منك اكت جمله واكت حاجه انا اتعلمتها في حياتي ان انا ما اروحش لحد واقول له انا عملت وعملت وعملت
+  translation: And part of this effort is not required, and if you tell the person in front of you that I did and did and came and went for you, he will say to you I didn't ask you to do anything. Something I learned in my life is that I don't go to anyone and tell them I did this and that and worked hard.
+  vocab:
+  - arz/جزء
+  - arz/مجهود
+  - arz/يبقى
+  - arz/مطلوب
+  - arz/يقول
+  - arz/شخص
+  - arz/قدام
+  - arz/عمل
+  - arz/روح
+  - arz/جاء
+  - arz/طلب
+  - arz/تعلم
+  - arz/حياة
+  - arz/اروح
+  - arz/اقول
+  core:
+  - arz/جزء
+  - arz/مجهود
+  - arz/يبقى
+  - arz/مطلوب
+  - arz/يقول
+  - arz/شخص
+  - arz/عمل
+  - arz/روح
+  - arz/جاء
+  - arz/طلب
+  - arz/تعلم
+  - arz/حياة
+  - arz/اروح
+  - arz/اقول
+- start: 81.193
+  end: 89.296
+  text: لو انا مضطره اقول ان انا عملت وعملت وعملت انا غير ان انا هسمع كلمه انا ما طلبتش منك يبقى كده كده اللي قدامي ده غير مقدر
+  translation: If I have to say that I did this and did that and did that, apart from hearing the phrase "I didn't ask you," then anyway, the person in front of me is ungrateful.
+  vocab:
+  - arz/اضطر
+  - arz/قال
+  - arz/عمل
+  - arz/غير
+  - arz/سمع
+  - arz/كلمة
+  - arz/طلب
+  - arz/قدام
+  - arz/ده
+  - arz/مقدر
+  core:
+  - arz/اضطر
+  - arz/قال
+  - arz/عمل
+  - arz/غير
+  - arz/سمع
+  - arz/كلمة
+  - arz/طلب
+  - arz/قدام
+  - arz/مقدر
+- start: 89.296
+  end: 103.252
+  text: يعني كده كده اللي قدامي ده غير مقدر ومش بقول من اول مره ساعات عادي الانسان بيبقى محتاج اللي قدامه الفت انتباهه اللي هو الحاجه اللي هو مش واخد باله منها ولكن لو ده العادي ان انا بعمل وبعمل وبعمل ومش بلاقي اي حاجه من اللي قدامي
+  translation: It means that this person in front of me is unappreciative, and I'm not saying this from the first time. Sometimes, it's normal that a person needs from those around them a wake-up call — something they're not paying attention to. But if it's the usual case that I keep doing and doing and doing and I don't find anything from the person in front of me...
+  vocab:
+  - arz/يعني
+  - arz/كده
+  - arz/قدام
+  - arz/غير
+  - arz/مقدر
+  - arz/قول
+  - arz/من
+  - arz/اول
+  - arz/مره
+  - arz/ساعات
+  - arz/عادي
+  - arz/انسان
+  - arz/يبقى
+  - arz/محتاج
+  - arz/اللي
+  - arz/فت-انتباه
+  - arz/حاجه
+  - arz/اخد-باله
+  - arz/ولكن
+  - arz/لو
+  - arz/اعمل
+  - arz/ومش
+  - arz/بلاقي
+  core:
+  - arz/يعني
+  - arz/قدام
+  - arz/غير
+  - arz/مقدر
+  - arz/قول
+  - arz/مره
+  - arz/ساعات
+  - arz/عادي
+  - arz/انسان
+  - arz/محتاج
+  - arz/فت-انتباه
+  - arz/حاجه
+  - arz/اخد-باله
+  - arz/ولكن
+  - arz/لو
+  - arz/اعمل
+  - arz/بلاقي
+- start: 103.252
+  end: 117.358
+  text: فطبيعي ان انا انسحب ثاني حاجه ان انا عندي تخيلات كان عندي تخيلات الحاجه اللي انا فيها دي هتروح فين كان عندي تخيلات ان الحاجه دي هتروح حته معينه هنروح وهنسافر وهنيجي ولو قصه حب هنتجوز وهنعمل
+  translation: It's natural that I withdraw; the second thing is that I had imaginations, I had imaginations about where this thing that I'm in would go. I had imaginations that this thing would go to a certain place, we would go, travel, and come back. And if it was a love story, we would get married and have a family.
+  vocab:
+  - arz/انسحب
+  - arz/تخيل
+  - arz/حاجه
+  - arz/روح
+  - arz/سافر
+  - arz/جاء
+  - arz/قصه-حب
+  - arz/تزوج
+  - arz/عمل
+  core:
+  - arz/انسحب
+  - arz/تخيل
+  - arz/حاجه
+  - arz/روح
+  - arz/سافر
+  - arz/جاء
+  - arz/قصه-حب
+  - arz/تزوج
+  - arz/عمل
+- start: 117.358
+  end: 130.944
+  text: وبيتنا نا وانا عارفه ومتاكده ان الواحد جيت اوفر الاماجينيشن بتاعه اللي هو الفانتزي اللي كان عامله للمستقبل اصعب بكتير قوي من ان هو يجيت اوفر الحاجه اللي حصلت قبل كده زمان او الذكريات او الميموريز
+  translation: And our situation, I know and I'm sure that when a person gets over their imagination, which is the fantasy they made for the future, it's much harder than getting over something that happened before or memories.
+  vocab:
+  - arz/واحد
+  - arz/جيت-اوفر
+  - arz/الاماجينيشن
+  - arz/فانتزي
+  - arz/مستقبل
+  - arz/اصعب
+  - arz/حصل
+  - arz/زمان
+  - arz/ذكريات
+  core:
+  - arz/واحد
+  - arz/جيت-اوفر
+  - arz/الاماجينيشن
+  - arz/فانتزي
+  - arz/مستقبل
+  - arz/اصعب
+  - arz/حصل
+  - arz/زمان
+  - arz/ذكريات
+- start: 130.944
+  end: 137.577
+  text: ثالث حاجه بقى الميموريز احنا عملنا ايه مع بعض رحنا فين جينا منين ودي بالنسبه لي انا كساره بحس ان هي
+  translation: 'Thirdly, the memories: what we did together, where we went, where we came from, and this for me is something special, I feel that she...'
+  vocab:
+  - arz/حاجه
+  - arz/ميموريز
+  - arz/عمل
+  - arz/مع
+  - arz/واحد
+  - arz/راح
+  - arz/فين
+  - arz/جاء
+  - arz/من
+  - arz/بالنسبه
+  - arz/انا
+  - arz/حس
+  core:
+  - arz/حاجه
+  - arz/ميموريز
+  - arz/عمل
+  - arz/واحد
+  - arz/راح
+  - arz/فين
+  - arz/جاء
+  - arz/انا
+  - arz/حس
+- start: 137.577
+  end: 148.204
+  text: لو انا بس ركزت على الحقائق ومش الفانتزي اللي انا اعملها في دماغي او لو ركزت فعلا ايه اللي كان بيحصل مش ايه اللي انا كان نفسي يحصل فمخي بيزين الواقع قع اللي حصل
+  translation: If I only focused on the facts and not the fantasies I make up in my head, or if I really focused on what was happening and not what I wished had happened, my mind would exaggerate the reality of what actually happened.
+  vocab:
+  - arz/ركز
+  - arz/حقيقة
+  - arz/فانتزي
+  - arz/اعمل
+  - arz/دماغ
+  - arz/فعل
+  - arz/يحصل
+  - arz/نفسي
+  - arz/زين
+  - arz/واقع
+  core:
+  - arz/ركز
+  - arz/حقيقة
+  - arz/فانتزي
+  - arz/اعمل
+  - arz/دماغ
+  - arz/فعل
+  - arz/يحصل
+  - arz/نفسي
+  - arz/واقع
+- start: 148.204
+  end: 159.292
+  text: لا اشوف الحاجه اشوف احنا فعلا اختلفنا في ايه اشوف فعلا الحاجه دي ما كملتش ليه اشوف فعلا المواقف اللي خلت الموضوع يؤول الى هذا ان احنا مش هنبقى
+  translation: I want to see what exactly we truly disagree on, I want to really see why this thing didn't continue, I want to really see the situations that led to this turning out that we won't be together anymore.
+  vocab:
+  - arz/اشوف
+  - arz/الحاجه
+  - arz/فعلا
+  - arz/اختلف
+  - arz/لي
+  - arz/كمل
+  - arz/ليه
+  - arz/الموقف
+  - arz/خلى
+  - arz/الموضوع
+  - arz/ؤول
+  - arz/ان
+  - arz/مش
+  - arz/نبقى
+  core:
+  - arz/اشوف
+  - arz/الحاجه
+  - arz/فعلا
+  - arz/اختلف
+  - arz/كمل
+  - arz/ليه
+  - arz/الموقف
+  - arz/خلى
+  - arz/الموضوع
+  - arz/ؤول
+  - arz/مش
+  - arz/نبقى
+- start: 159.292
+  end: 170.167
+  text: في حياه بعض اني مور لما ببص على الحقيقه بحس ان دي بتساعدني ان انا فعلا اموف اون من الحاجه دي رابع حاجه ان انا اكون السبب وانا اكون السبب ان احنا وصلنا للي احنا وصلنا
+  translation: In someone else's life, when I look at the truth, I feel that this helps me actually move on from that thing. The fourth thing is that I am the reason, and I am the reason that we have reached where we reached.
+  vocab:
+  - arz/حياه
+  - arz/بص
+  - arz/حقيقه
+  - arz/حاسه
+  - arz/يساعد
+  - arz/افع
+  - arz/موف-اون
+  - arz/حاجه
+  - arz/رابع
+  - arz/سبب
+  - arz/وصل
+  core:
+  - arz/حياه
+  - arz/بص
+  - arz/حقيقه
+  - arz/حاسه
+  - arz/يساعد
+  - arz/موف-اون
+  - arz/حاجه
+  - arz/رابع
+  - arz/سبب
+  - arz/وصل
+- start: 170.167
+  end: 175.758
+  text: له طيب لو انا السبب في حاجه بروح باكسبلين ماي سلف بعتذر بقول انا عملت كذا كذا
+  translation: He's a good person. If I'm the reason for something, I go and explain myself, apologize, and say I did such and such.
+  vocab:
+  - arz/طيب
+  - arz/لو
+  - arz/انا
+  - arz/سبب
+  - arz/حاجه
+  - arz/روح
+  - arz/باكسبلين
+  - arz/اي
+  - arz/سلف
+  - arz/بعتذر
+  - arz/قول
+  - arz/عمل
+  core:
+  - arz/طيب
+  - arz/لو
+  - arz/انا
+  - arz/سبب
+  - arz/حاجه
+  - arz/روح
+  - arz/باكسبلين
+  - arz/سلف
+  - arz/بعتذر
+  - arz/قول
+  - arz/عمل
+- start: 175.758
+  end: 186.755
+  text: عارف ان كذا كذا كان غلط وانا ام ويلينج ان انا اصلح ده لو اللي قدامي مش شايف ان انا ويرثت ومش شايف ان انا استاهل فرصه ثانيه او مش شايف ان انا استاهل ان احنا نقدر نروح حته
+  translation: I know that such and such was wrong, and I'm willing to fix it if the person in front of me doesn't see that I deserve it, and doesn't see that I deserve a second chance, or doesn't think that we can go somewhere.
+  vocab:
+  - arz/عارف
+  - arz/كان
+  - arz/غلط
+  - arz/انا
+  - arz/ام
+  - arz/اصلح
+  - arz/لو
+  - arz/اللي
+  - arz/قدام
+  - arz/مش
+  - arz/شايف
+  - arz/استاهل
+  - arz/فرصه
+  - arz/تاني
+  - arz/احنا
+  - arz/نقدر
+  - arz/نروح
+  - arz/حته
+  core:
+  - arz/عارف
+  - arz/كان
+  - arz/غلط
+  - arz/انا
+  - arz/ام
+  - arz/اصلح
+  - arz/لو
+  - arz/اللي
+  - arz/قدام
+  - arz/مش
+  - arz/شايف
+  - arz/استاهل
+  - arz/فرصه
+  - arz/تاني
+  - arz/احنا
+  - arz/نقدر
+  - arz/نروح
+  - arz/حته
+- start: 186.755
+  end: 195.621
+  text: او مش شايف ان انا استاهل ان احنا نقدر نجيت اوفر الحاجه دي وفعلا نكمل مع بعض يبقى خلاص انا كده عملت اللي عليا الغلط بيبقى قدامه اعتذار
+  translation: Or I don't see that I deserve for us to be able to get over this thing and actually continue together, so it's settled. I've done what I had to do; the fault is up to him to apologize.
+  vocab:
+  - arz/استاهل
+  - arz/نقدر
+  - arz/نروح
+  - arz/حته
+  - arz/نجي
+  - arz/اكمل
+  - arz/حاجة
+  - arz/ده
+  - arz/فعلا
+  - arz/عمل
+  - arz/على
+  - arz/غلط
+  - arz/يكون
+  - arz/قدام
+  - arz/اعتذار
+  core:
+  - arz/استاهل
+  - arz/نقدر
+  - arz/حته
+  - arz/نجي
+  - arz/اكمل
+  - arz/حاجة
+  - arz/ده
+  - arz/فعلا
+  - arz/عمل
+  - arz/غلط
+  - arz/اعتذار
+- start: 195.621
+  end: 209.413
+  text: وانا بقول على الغلطات العاديه مش بقول ان انا هروح اخون حد وبعد كده اقول له انا اسف ومش هعمل كده ثاني وانا ولو هو اروح اقول انا اسف ولو اللي قدامي ماقبلش الاعتذار يبقى انا خلاص لا انا بتكلم في العادي ايا كان السبب فلو فلو النتيجه ان احنا مش في حياه بعض اني مور
+  translation: And I'm talking about normal mistakes, not about me going and cheating on someone and then saying sorry and promising not to do it again. Even if I do go and say sorry, and the person in front of me doesn't accept the apology, then I'm done. No, I'm talking about normal things, regardless of the reason. So, if, if the result is that we're no longer part of each other's lives, then...
+  vocab:
+  - arz/قول
+  - arz/غلط
+  - arz/عادي
+  - arz/روح
+  - arz/اخون
+  - arz/حد
+  - arz/بعد
+  - arz/انا
+  - arz/اسف
+  - arz/عمل
+  - arz/ثاني
+  - arz/لو
+  - arz/واحد
+  - arz/قبل
+  - arz/اعتذار
+  - arz/يابطل
+  - arz/نتيجه
+  - arz/حياه
+  - arz/بعض
+  core:
+  - arz/قول
+  - arz/غلط
+  - arz/عادي
+  - arz/روح
+  - arz/اخون
+  - arz/حد
+  - arz/انا
+  - arz/اسف
+  - arz/عمل
+  - arz/ثاني
+  - arz/لو
+  - arz/واحد
+  - arz/قبل
+  - arz/اعتذار
+  - arz/نتيجه
+  - arz/حياه
+  - arz/بعض
+- start: 209.413
+  end: 220.024
+  text: انا لازم ابقى عارف ان هو مهما كان حصل ومهما كانت المواضيع اختلفت ومهما كانت الظروف حصلت هو في الاخر كده كده مكتوب لان انا بالنسبه لي انا شايفه
+  translation: I have to know that no matter what happened, no matter how much the topics differed, and no matter what circumstances occurred, in the end, it is all destined, because for me, I see it that way.
+  vocab:
+  - arz/لازم
+  - arz/عرف
+  - arz/مهم
+  - arz/حصل
+  - arz/موضوع
+  - arz/اختلط
+  - arz/ظرف
+  - arz/اخر
+  - arz/مكتوب
+  - arz/بالنسبة
+  - arz/شايف
+  core:
+  - arz/لازم
+  - arz/عرف
+  - arz/مهم
+  - arz/حصل
+  - arz/موضوع
+  - arz/اختلط
+  - arz/ظرف
+  - arz/اخر
+  - arz/مكتوب
+  - arz/بالنسبة
+  - arz/شايف
+- start: 220.024
+  end: 227.761
+  text: ان الصدقات والعلاقات دي نصيب فهو نصيبها كده نصيبنا لحد هنا ده كان اخرها ايا كان كان ايه اللي حصل قبل كده
+  translation: Friendships and relationships are fate, so this is their fate and ours. Up to this point, that was the end of it, whatever happened before.
+  vocab:
+  - arz/علاقات
+  - arz/نصيب
+  - arz/كده
+  - arz/حد
+  - arz/ده
+  - arz/آخر
+  - arz/أيا-كان
+  - arz/كان
+  - arz/اللي
+  - arz/حصل
+  - arz/قبل
+  core:
+  - arz/علاقات
+  - arz/نصيب
+  - arz/كده
+  - arz/حد
+  - arz/ده
+  - arz/آخر
+  - arz/أيا-كان
+  - arz/كان
+  - arz/اللي
+  - arz/حصل
+  - arz/قبل
+- start: 227.761
+  end: 237.99
+  text: ما فيش اي حاجه كان ممكن اعملها كانت هتغير النتيجه لان النتيجه كده مكتوبه وبسلم امري لله بقى لا خلاص ربنا عايز الحمد لله الحاجه دي خلصت لحد هنا
+  translation: There was nothing I could have done that would have changed the outcome because the outcome is already fate, and now I surrender my affairs to God, that's it. God wills it, thank God, this matter is over up to here.
+  vocab:
+  - arz/حاجه
+  - arz/عمل
+  - arz/كان
+  - arz/يغير
+  - arz/نتيجه
+  - arz/كده
+  - arz/مكتوب
+  - arz/سلم
+  - arz/امر
+  - arz/ربنا
+  - arz/عايز
+  - arz/الحمد-لله
+  - arz/خلص
+  - arz/حد
+  core:
+  - arz/حاجه
+  - arz/عمل
+  - arz/كان
+  - arz/يغير
+  - arz/نتيجه
+  - arz/كده
+  - arz/مكتوب
+  - arz/سلم
+  - arz/امر
+  - arz/ربنا
+  - arz/عايز
+  - arz/الحمد-لله
+  - arz/خلص
+  - arz/حد
+- start: 237.99
+  end: 247.635
+  text: وخلاص انا احاول اموف اون مع نفسي واشوف بعد كده في ايه ولو غلطت اشوف انا غلطت في ايه لو حد غلط فيا ابتدي بقى اعرف حاجه اسمها ستاندردز
+  translation: And that's it. I try to move on with myself and then see what happens. If I made a mistake, I see what mistake I made. If someone made a mistake against me, I start to understand the thing called standards.
+  vocab:
+  - arz/وخلاص
+  - arz/احاول
+  - arz/موف-اون
+  - arz/نفسي
+  - arz/اشوف
+  - arz/بعد
+  - arz/كده
+  - arz/غلط
+  - arz/شخص
+  - arz/ابتدي
+  - arz/اعرف
+  - arz/حاجه
+  - arz/اسم
+  - arz/ستاندردز
+  core:
+  - arz/وخلاص
+  - arz/احاول
+  - arz/موف-اون
+  - arz/نفسي
+  - arz/اشوف
+  - arz/بعد
+  - arz/غلط
+  - arz/شخص
+  - arz/ابتدي
+  - arz/اعرف
+  - arz/حاجه
+  - arz/ستاندردز
+- start: 247.635
+  end: 261.482
+  text: انا بيبقى عندي صفات معينه وبيبقى عندي اساسيات ومعايير للشخص اللي قدامي لازم تكون موجوده فيه لازم ابقى عارف ان انا استاهل حاجه كويسه انا ايم ورتد حتى لو انا مش بيرفكت انا مش شخص مثالي ولكن انا استحق
+  translation: I have certain traits, and I also have basics and standards for the person in front of me; they must be present in him. I need to know that I deserve something good. I am worthy, even if I'm not perfect, I'm not an ideal person, but I do deserve it.
+  vocab:
+  - arz/صفة
+  - arz/اساس
+  - arz/معيار
+  - arz/شخص
+  - arz/لي
+  - arz/موجود
+  - arz/عرف
+  - arz/انا
+  - arz/استاهل
+  - arz/حاجه
+  - arz/كويس
+  - arz/يكون
+  - arz/ايم
+  - arz/مش
+  - arz/بيرفكت
+  - arz/مثالي
+  - arz/ولكن
+  core:
+  - arz/صفة
+  - arz/اساس
+  - arz/معيار
+  - arz/شخص
+  - arz/لي
+  - arz/موجود
+  - arz/عرف
+  - arz/انا
+  - arz/استاهل
+  - arz/حاجه
+  - arz/كويس
+  - arz/يكون
+  - arz/ايم
+  - arz/مش
+  - arz/بيرفكت
+  - arz/مثالي
+  - arz/ولكن
+- start: 261.482
+  end: 272.186
+  text: ودي حاجه انا عارفه ان احنا كلنا صعب قوي ان احنا نصدق حاجه زي كده بس الواحد يستحق انا شخص طيب عايش انا شخص بيحاول اذا انا استحق
+  translation: And this is something I know we all find very hard to believe something like this, but a person deserves it. I am a good person living; I am a person who tries, so do I deserve it?
+  vocab:
+  - arz/حاجه
+  - arz/عارف
+  - arz/احنا
+  - arz/صعب
+  - arz/صدق
+  - arz/واحد
+  - arz/يستحق
+  - arz/شخص
+  - arz/طيب
+  - arz/عايش
+  - arz/يحاول
+  core:
+  - arz/حاجه
+  - arz/عارف
+  - arz/احنا
+  - arz/صعب
+  - arz/صدق
+  - arz/واحد
+  - arz/يستحق
+  - arz/شخص
+  - arz/طيب
+  - arz/عايش
+  - arz/يحاول
+- start: 272.186
+  end: 278.486
+  text: مش لازم اكون شخصيه ما حصلتش علشان ابقى مستحقه هو كلنا نستحق انا استحق انت تستحق
+  translation: I don't have to be a perfect person to be deserving. We all deserve it. I deserve it. You deserve it.
+  vocab:
+  - arz/شخصيه
+  - arz/مستحق
+  - arz/كلنا
+  - arz/انا
+  - arz/انت
+  - arz/لازم
+  core:
+  - arz/شخصيه
+  - arz/مستحق
+  - arz/كلنا
+  - arz/انا
+  - arz/انت
+  - arz/لازم
+- start: 278.486
+  end: 290.001
+  text: انت تستحقي كلنا نستحق حاجه كويسه في حياتنا ربنا خلقنا فاحنا نستحق العيشه يعني هو ما فيش دليل اكت من ان احنا اتخلقنا وربنا اصطفانا ونزلنا على الارض فاحنا كده نستحق هي دي
+  translation: You deserve it, we all deserve something good in our lives. God created us, so we deserve life. That means there's no other proof than that we were created and chosen by God and sent to earth, so we deserve it. That's it.
+  vocab:
+  - arz/تستحق
+  - arz/كلنا
+  - arz/حاجه
+  - arz/كويس
+  - arz/حياة
+  - arz/ربنا
+  - arz/خلق
+  - arz/نزل
+  - arz/ارض
+  core:
+  - arz/تستحق
+  - arz/كلنا
+  - arz/حاجه
+  - arz/كويس
+  - arz/حياة
+  - arz/ربنا
+  - arz/خلق
+  - arz/نزل
+  - arz/ارض
+- start: 290.001
+  end: 303.932
+  text: لازم اسال نفسي هل انا استحق ده هل ده اللي انا عايزه هل هو ده المستقبل اللي انا عايزه ولو كانت الاجابه لا فانا لازم امشي ايا كان الحاجه اللي انا فيها دي ايه لازم ابقى عارف بجد ازاي احط لنفسي ستاندردز
+  translation: I have to ask myself if I deserve this, if this is what I want, if this is the future I want. And if the answer is no, then I have to leave whatever situation I'm in. I really have to know how to set standards for myself.
+  vocab:
+  - arz/لازم
+  - arz/اسال
+  - arz/نفسي
+  - arz/انا
+  - arz/استحق
+  - arz/ده
+  - arz/هو
+  - arz/عايز
+  - arz/مستقبل
+  - arz/لو
+  - arz/كانت
+  - arz/اجابه
+  - arz/ف
+  - arz/امشي
+  - arz/حاجه
+  - arz/فيها
+  - arz/ازاي
+  - arz/امسك
+  - arz/بجد
+  - arz/احط
+  - arz/ستاندردز
+  core:
+  - arz/لازم
+  - arz/اسال
+  - arz/نفسي
+  - arz/انا
+  - arz/استحق
+  - arz/ده
+  - arz/هو
+  - arz/عايز
+  - arz/مستقبل
+  - arz/لو
+  - arz/اجابه
+  - arz/امشي
+  - arz/حاجه
+  - arz/ازاي
+  - arz/احط
+  - arz/ستاندردز
+- start: 303.932
+  end: 316.9
+  text: ستاندردز في الاخلاق ستاندردز في الدين ستاندردز في المعامله انا عايزه اتعامل ازاي انا عايزه حياتي تبقى عامله ازاي لان الناس اللي انا بدخلها حياتي ليها تاثير وليها امباكت كبير جدا على انا رايحه فين في حياتي
+  translation: Standards in morals, standards in religion, standards in dealings. How do I want to deal? How do I want my life to be? Because the people I let into my life have a very big impact on where I'm headed in life.
+  vocab:
+  - arz/ستاندردز
+  - arz/اخلاق
+  - arz/دين
+  - arz/معامله
+  - arz/عايز
+  - arz/تعامل
+  - arz/حياه
+  - arz/دخل
+  - arz/تأثير
+  - arz/رايح
+  core:
+  - arz/ستاندردز
+  - arz/اخلاق
+  - arz/دين
+  - arz/معامله
+  - arz/عايز
+  - arz/تعامل
+  - arz/حياه
+  - arz/دخل
+  - arz/تأثير
+  - arz/رايح
+- start: 316.9
+  end: 325.35
+  text: الناس الفشله الناس المتعبه الناس المؤذيه الناس اللي بتستنزفك كل ده هيوديك في حته حتى لو انت بتشتغل جامد قوي على نفسك لوحدك
+  translation: Failing people, tired people, and harmful people who drain you — all of this will lead you somewhere, even if you are working very hard on yourself alone.
+  vocab:
+  - arz/ناس
+  - arz/فشل
+  - arz/تعب
+  - arz/ؤذي
+  - arz/يستنزف
+  - arz/هينا
+  - arz/يودي
+  - arz/حتى-لو
+  - arz/يشتغل
+  - arz/جامد
+  - arz/نفس
+  - arz/لوحده
+  core:
+  - arz/ناس
+  - arz/فشل
+  - arz/تعب
+  - arz/ؤذي
+  - arz/يستنزف
+  - arz/يودي
+  - arz/حتى-لو
+  - arz/يشتغل
+  - arz/نفس
+  - arz/لوحده
+- start: 325.35
+  end: 336.047
+  text: بس الناس اللي في حياتك ليها تاثير جامد قوي قوي قوي على انت رايح فين؟ الانسان بيتعرض لعلاقات صدقات وحب وشغل وزاله فلازم ابقى عارفه الناس اللي انا
+  translation: But the people in your life have a very strong influence on where you're going. A person is exposed to relationships, friendships, love, work, and its difficulties, so I have to know the people I...
+  vocab:
+  - arz/الناس
+  - arz/حياة
+  - arz/تأثير
+  - arz/جامد
+  - arz/انت
+  - arz/روح
+  - arz/انسان
+  - arz/يتعرض
+  - arz/علاقات
+  - arz/صداقة
+  - arz/حب
+  - arz/شغل
+  - arz/صعب
+  - arz/لازم
+  - arz/اعرف
+  - arz/انا
+  core:
+  - arz/الناس
+  - arz/حياة
+  - arz/تأثير
+  - arz/جامد
+  - arz/انت
+  - arz/روح
+  - arz/انسان
+  - arz/يتعرض
+  - arz/علاقات
+  - arz/صداقة
+  - arz/حب
+  - arz/شغل
+  - arz/لازم
+  - arz/اعرف
+  - arz/انا
+- start: 336.047
+  end: 348.916
+  text: بدخلها في حياتي دي بدخلها الى اي مدى الشخص اللي قدامي ده يستحق ان هو يخش هل الشخص اللي قدامي ده يستحق السلام النفسي بتاعي هل انا ممكن ا ابذل مجهود مع الشخص ده هل الشخص ده يستحق
+  translation: I bring someone into my life based on how much the person in front of me deserves to be let in. Does this person deserve my peace of mind? Can I make an effort for this person? Does this person deserve it?
+  vocab:
+  - arz/يدخل
+  - arz/حياه
+  - arz/شخص
+  - arz/قدام
+  - arz/يستحق
+  - arz/سلام
+  - arz/نفسي
+  - arz/مجهود
+  core:
+  - arz/يدخل
+  - arz/حياه
+  - arz/شخص
+  - arz/قدام
+  - arz/يستحق
+  - arz/سلام
+  - arz/نفسي
+  - arz/مجهود
+- start: 348.916
+  end: 360.805
+  text: ان انا ابذل معاه مجهود لازم بجد ابقى عارف الاستاندردز بتاعتي كويس قوي موف اون وما تخليش مخك يقف في حته معينه مش عارف يتغلب عليها ومش عارف يعيش بعديها
+  translation: That I exert effort with him, I must truly know my standards well. Move on and don't let your mind get stuck in a place it can't overcome and can't live beyond it.
+  vocab:
+  - arz/ابذل
+  - arz/مجهود
+  - arz/لازم
+  - arz/بجد
+  - arz/اعرف
+  - arz/ستاندردز
+  - arz/كويس
+  - arz/موف-اون
+  - arz/مخ
+  - arz/يقف
+  - arz/حته
+  - arz/معلومش
+  - arz/يتغلب
+  - arz/يعيش
+  core:
+  - arz/ابذل
+  - arz/مجهود
+  - arz/لازم
+  - arz/بجد
+  - arz/اعرف
+  - arz/ستاندردز
+  - arz/كويس
+  - arz/موف-اون
+  - arz/مخ
+  - arz/يقف
+  - arz/حته
+  - arz/يتغلب
+  - arz/يعيش
+- start: 360.805
+  end: 371.968
+  text: الحاجه خلصت كان لازم تخلص هسامح نفسي هموف اون هموف اون ازاي ان انا ابطل اتخيل الفانتزي او اتخيل المستقبل اللي انا كنت راسمه
+  translation: The thing ended, it had to end. I will forgive myself and move on, move on. How can I stop imagining fantasies or imagining the future that I had envisioned?
+  vocab:
+  - arz/الحاجه
+  - arz/خلص
+  - arz/لازم
+  - arz/سامح
+  - arz/نفسي
+  - arz/موف-اون
+  - arz/ازاي
+  - arz/بطل
+  - arz/تخيل
+  - arz/فانتزي
+  - arz/مستقبل
+  - arz/راس
+  core:
+  - arz/الحاجه
+  - arz/خلص
+  - arz/لازم
+  - arz/سامح
+  - arz/نفسي
+  - arz/موف-اون
+  - arz/ازاي
+  - arz/بطل
+  - arz/تخيل
+  - arz/فانتزي
+  - arz/مستقبل
+  - arz/راس
+- start: 371.968
+  end: 382.477
+  text: في دماغي للعلاقه او للصداقه دي هي خلصت بس كده عارفين لما الفيلم بيخلص وبتيجي بلاك سكرين او شاشه سودا خلاص الفيلم خلص هو خلص كده
+  translation: In my mind, this relationship or friendship has just ended like that. You know when a movie ends and the black screen appears? That's it, the movie is over, it's finished just like that.
+  vocab:
+  - arz/دماغ
+  - arz/علاقه
+  - arz/صداقه
+  - arz/خلص
+  - arz/عارف
+  - arz/فيلم
+  - arz/بلاك
+  - arz/سكرين
+  - arz/شاشه
+  - arz/سودا
+  core:
+  - arz/دماغ
+  - arz/علاقه
+  - arz/صداقه
+  - arz/خلص
+  - arz/عارف
+  - arz/فيلم
+  - arz/شاشه
+  - arz/سودا
+- start: 382.477
+  end: 389.202
+  text: ما فيش اي حاجه في صوت بره هيجنني انا عارفه ان الموفينج اون
+  translation: There's no sound outside; I'm going crazy. I know that moving on...
+  vocab:
+  - arz/حاجه
+  - arz/صوت
+  - arz/بره
+  - arz/مجن
+  - arz/عارف
+  - arz/موف-اون
+  core:
+  - arz/حاجه
+  - arz/صوت
+  - arz/بره
+  - arz/مجن
+  - arz/عارف
+  - arz/موف-اون
+- start: 389.202
+  end: 395.702
+  text: وان الواحد يكمل حياته بتبقى من اصعب الحاجات بس وانس الواحد بيعملها مره بيعرف يعملها كل مره
+  translation: And for a person to continue their life is one of the hardest things, but once a person does it once, they know how to do it every time.
+  vocab:
+  - arz/واحد
+  - arz/يكم-ل
+  - arz/حياة
+  - arz/يكون
+  - arz/من
+  - arz/صعب
+  - arz/حاجة
+  - arz/بس
+  - arz/يعمل
+  - arz/مرة
+  - arz/يعرف
+  - arz/كل
+  core:
+  - arz/واحد
+  - arz/يكم-ل
+  - arz/حياة
+  - arz/يكون
+  - arz/من
+  - arz/صعب
+  - arz/حاجة
+  - arz/بس
+  - arz/يعمل
+  - arz/مرة
+  - arz/يعرف
+  - arz/كل
+- start: 395.702
+  end: 405.205
+  text: الحياه تستحق المحاوله والحياه تستحق ان احنا نتقبل نفسنا نحب نفسنا نعرف احنا نستحق ايه بجد لان فعلا فعلا الواحد
+  translation: Life is worth trying for, and life is worth that we accept ourselves, love ourselves, and know what we truly deserve, because really, truly, one...
+  vocab:
+  - arz/حياه
+  - arz/يستحق
+  - arz/محاوله
+  - arz/نتقبل
+  - arz/نحب
+  - arz/نفس
+  - arz/عرف
+  - arz/ايه
+  - arz/بجد
+  - arz/فعلا
+  - arz/واحد
+  core:
+  - arz/حياه
+  - arz/يستحق
+  - arz/محاوله
+  - arz/نتقبل
+  - arz/نحب
+  - arz/نفس
+  - arz/عرف
+  - arz/ايه
+  - arz/بجد
+  - arz/فعلا
+- start: 405.205
+  end: 419.829
+  text: لما بيعرف الحاجات دي حياته بتتغير 180 درجه اسالوني انا مهما كان معاك فلوس قد ايه مهما انت كنت امور قد ايه ما فيش حاجه بتفرق قد فعلا ان الواحد يكون بيحب نفسه ريجاردلس انا ايه الستويشن اللي انا فيه انا قابلاني زي ما انا
+  translation: When someone knows these things, their life changes completely. Ask me, no matter how much money you have or how good your situation is, nothing matters as much as truly loving yourself regardless of what situation you're in. They accepted me as I am.
+  vocab:
+  - arz/يعرف
+  - arz/حاجه
+  - arz/حياة
+  - arz/يتغير
+  - arz/درجة
+  - arz/اسال
+  - arz/معاك
+  - arz/فلوس
+  - arz/قد
+  - arz/كنت
+  - arz/امور
+  - arz/مافيش
+  - arz/يفرق
+  - arz/فعلا
+  - arz/واحد
+  - arz/يحب
+  - arz/نفس
+  - arz/ريجاردلس
+  - arz/ستويشن
+  - arz/قابل
+  - arz/زي
+  - arz/انا
+  core:
+  - arz/يعرف
+  - arz/حاجه
+  - arz/حياة
+  - arz/يتغير
+  - arz/درجة
+  - arz/اسال
+  - arz/فلوس
+  - arz/امور
+  - arz/مافيش
+  - arz/يفرق
+  - arz/فعلا
+  - arz/يحب
+  - arz/نفس
+  - arz/ستويشن
+  - arz/قابل
+  - arz/انا
+- start: 419.829
+  end: 427.759
+  text: قابلاني وانا متضايقه قابلاني وانا شكلي مش عاجبني قابلاني وانا في كل اوضاعي وعارفه ان انا في كل اوضاعي استحق حاجه كويسه
+  translation: They met me while I was upset, they met me even though they didn't like my appearance, they met me in all my states, knowing that I deserve something good in all my states.
+  vocab:
+  - arz/قابل
+  - arz/انا
+  - arz/متضايق
+  - arz/شك
+  - arz/عجب
+  - arz/وضع
+  - arz/عرف
+  - arz/استحق
+  - arz/حاجة
+  - arz/كويس
+  core:
+  - arz/قابل
+  - arz/انا
+  - arz/متضايق
+  - arz/شك
+  - arz/عجب
+  - arz/وضع
+  - arz/عرف
+  - arz/استحق
+  - arz/حاجة
+  - arz/كويس
+- start: 427.759
+  end: 439.259
+  text: وده اللي هيخليني ابقى عارف اقبل ايه وماقبلش ايه وده اللي هيبقى بيخليني اعرف اموف اون قولوا لي في الكومنتس عايزين الفيديو اللي جاي يكون عن ايه انا بحاول از ماتش از بوسيبل ان انا التزم في اليوتيوب زي ما انتم شايفين
+  translation: And this is what will make me know what to accept and what not to accept, and this is what will help me know how to move on. Tell me in the comments what you want the next video to be about. I'm trying my best to stay consistent on YouTube, as you can see.
+  vocab:
+  - arz/يعرف
+  - arz/يقبل
+  - arz/اموف-اون
+  - arz/قول
+  - arz/كومنتس
+  - arz/عايز
+  - arz/فيديو
+  - arz/جاي
+  - arz/يكون
+  - arz/حاول
+  - arz/از
+  - arz/التزم
+  - arz/يوتيوب
+  - arz/شايف
+  core:
+  - arz/يعرف
+  - arz/يقبل
+  - arz/اموف-اون
+  - arz/قول
+  - arz/كومنتس
+  - arz/عايز
+  - arz/فيديو
+  - arz/جاي
+  - arz/يكون
+  - arz/حاول
+  - arz/از
+  - arz/التزم
+  - arz/يوتيوب
+  - arz/شايف
+- start: 439.259
+  end: 454.196
+  text: بجد مبسوطه ان انا رجعت قوي وبحب الفيديوز دي اكت من الفلوجز الصراحه راحه فانا بحس الفيديوز دي بتفرق مع الناس وبتبقى فعلا مفيده ف قولولي عايزين نتكلم عن التوبك بتاعه الويك اند اللي جاي في ايه وبس
+  translation: I'm truly happy that I came back strong, and I love these videos. Honestly, these are the best of the vlogs; they're really soothing. I feel these videos make a difference for people and are truly helpful. So tell me, what topic do you want us to talk about for the upcoming weekend? That's it.
+  vocab:
+  - arz/بجد
+  - arz/مبسط
+  - arz/رجع
+  - arz/قوي
+  - arz/حب
+  - arz/فيديو
+  - arz/فلوج
+  - arz/راحة
+  - arz/حس
+  - arz/فرق
+  - arz/مفيد
+  - arz/قول
+  - arz/عايز
+  - arz/تكلم
+  - arz/توبك
+  - arz/ويك-اند
+  - arz/جاي
+  core:
+  - arz/بجد
+  - arz/مبسط
+  - arz/رجع
+  - arz/قوي
+  - arz/حب
+  - arz/فيديو
+  - arz/فلوج
+  - arz/راحة
+  - arz/حس
+  - arz/فرق
+  - arz/مفيد
+  - arz/قول
+  - arz/عايز
+  - arz/تكلم
+  - arz/توبك
+  - arz/ويك-اند
+  - arz/جاي

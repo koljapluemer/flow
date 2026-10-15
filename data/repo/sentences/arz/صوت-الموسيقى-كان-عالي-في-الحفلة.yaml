@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: صوت الموسيقى كان عالي في الحفلة.
+translation: The music sound was loud at the party.
+vocab:
+- arz/صوت

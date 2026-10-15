@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بتشارك الميموريز مع أصحابي عن أيام الجامعة.
+translation: I share memories with my friends about university days.
+vocab:
+- arz/ميموريز

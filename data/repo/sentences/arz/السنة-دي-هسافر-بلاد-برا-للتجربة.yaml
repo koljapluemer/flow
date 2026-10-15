@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: السنة دي هسافر بلاد برا للتجربة.
+translation: This year I will travel abroad for experience.
+vocab:
+- arz/سنة

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: فعلاً لازم نغير طريقة تفكيرنا للأفضل.
+translation: We really need to change our way of thinking for the better.
+vocab:
+- arz/فعلا

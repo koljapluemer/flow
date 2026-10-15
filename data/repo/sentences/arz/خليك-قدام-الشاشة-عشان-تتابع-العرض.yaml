@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: خليك قدام الشاشة عشان تتابع العرض.
+translation: Stay in front of the screen to follow the presentation.
+vocab:
+- arz/قدام

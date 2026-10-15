@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الله خلق الإنسان في أحسن صورة.
+translation: God created humans in the best form.
+vocab:
+- arz/خلق

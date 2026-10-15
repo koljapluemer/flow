@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اسافر مع صحابي ونقضي وقت حلو.
+translation: I travel with my friends and have a good time.
+vocab:
+- arz/مع

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الشركة حطت سكرين جديد للجهاز.
+translation: The company installed a new screen for the device.
+vocab:
+- arz/سكرين

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الكومنتس اللي جت على الصورة كانت كلها إيجابية.
+translation: The comments that came on the picture were all positive.
+vocab:
+- arz/كومنتس

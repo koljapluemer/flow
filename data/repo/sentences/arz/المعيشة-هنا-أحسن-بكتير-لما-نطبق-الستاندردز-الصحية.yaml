@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: المعيشة هنا أحسن بكتير لما نطبق الستاندردز الصحية.
+translation: Life here is much better when we apply the health standards.
+vocab:
+- arz/ستاندردز

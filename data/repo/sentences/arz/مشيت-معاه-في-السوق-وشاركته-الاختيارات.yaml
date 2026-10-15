@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: مشيت معاه في السوق وشاركته الاختيارات.
+translation: I walked with him in the market and shared the choices.
+vocab:
+- arz/مع

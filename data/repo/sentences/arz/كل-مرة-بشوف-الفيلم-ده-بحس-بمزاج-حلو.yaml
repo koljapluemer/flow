@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كل مرة بشوف الفيلم ده، بحس بمزاج حلو.
+translation: Every time I watch this movie, I feel good.
+vocab:
+- arz/مره

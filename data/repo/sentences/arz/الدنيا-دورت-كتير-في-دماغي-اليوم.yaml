@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الدنيا دورت كتير في دماغي اليوم.
+translation: Things have been running a lot in my mind today.
+vocab:
+- arz/دماغ

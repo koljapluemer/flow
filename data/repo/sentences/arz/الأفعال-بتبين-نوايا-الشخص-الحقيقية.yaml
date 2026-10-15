@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الأفعال بتبين نوايا الشخص الحقيقية.
+translation: Actions reveal a person's true intentions.
+vocab:
+- arz/فعل

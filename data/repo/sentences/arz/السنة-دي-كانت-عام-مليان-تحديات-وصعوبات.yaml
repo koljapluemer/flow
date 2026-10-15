@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: السنة دي كانت عام مليان تحديات وصعوبات.
+translation: This year was a year full of challenges and difficulties.
+vocab:
+- arz/عام

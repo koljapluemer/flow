@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: غيرت رأيي بعد ما سمعت رأي الصحاب.
+translation: I changed my opinion after hearing my friends' opinions.
+vocab:
+- arz/غير

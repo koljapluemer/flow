@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا قاعد قصاد المحل بستنى دورى.
+translation: I am sitting opposite the shop waiting for my turn.
+vocab:
+- arz/قصاد

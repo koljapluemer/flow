@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حياه بسيطة وسعيدة هي اللي نفسي فيها.
+translation: A simple and happy life is what I desire.
+vocab:
+- arz/حياه

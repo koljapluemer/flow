@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا مش عايز أؤذي حد بكلامي، بس لازم أتكلم.
+translation: I don't want to hurt anyone with my words, but I have to speak.
+vocab:
+- arz/ؤذي

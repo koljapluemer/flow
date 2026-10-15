@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الحقيقة إن الموضوع مش سهل زي ما فكرت.
+translation: The truth is that the matter is not as easy as I thought.
+vocab:
+- arz/حقيقة

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ما تزعلش لو كلامي أذاك.
+translation: Don't get upset if my words hurt you.
+vocab:
+- arz/ؤذي

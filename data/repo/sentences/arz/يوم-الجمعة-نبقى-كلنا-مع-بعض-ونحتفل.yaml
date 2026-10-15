@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: يوم الجمعة نبقى كلنا مع بعض ونحتفل.
+translation: On Friday, we all gather together and celebrate.
+vocab:
+- arz/نبقى

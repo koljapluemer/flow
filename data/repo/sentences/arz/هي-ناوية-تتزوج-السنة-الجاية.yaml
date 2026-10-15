@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هي ناوية تتزوج السنة الجاية.
+translation: She intends to get married next year.
+vocab:
+- arz/تزوج

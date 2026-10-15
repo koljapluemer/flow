@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الشارع ده يودي للسوق الكبير.
+translation: This street leads to the big market.
+vocab:
+- arz/يودي

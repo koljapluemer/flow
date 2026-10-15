@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: عايز أروح السينما مع أصحابي.
+translation: I want to go to the cinema with my friends.
+vocab:
+- arz/اروح

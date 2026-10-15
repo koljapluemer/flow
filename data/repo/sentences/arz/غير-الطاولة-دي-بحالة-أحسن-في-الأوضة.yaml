@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: غير الطاولة دي بحالة أحسن في الأوضة.
+translation: Replace this table with a better one in the room.
+vocab:
+- arz/غير

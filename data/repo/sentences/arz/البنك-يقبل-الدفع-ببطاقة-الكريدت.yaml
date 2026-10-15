@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: البنك يقبل الدفع ببطاقة الكريدت.
+translation: The bank accepts payment by credit card.
+vocab:
+- arz/يقبل

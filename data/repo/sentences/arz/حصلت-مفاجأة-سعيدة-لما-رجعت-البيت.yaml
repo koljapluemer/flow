@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حصلت مفاجأة سعيدة لما رجعت البيت.
+translation: A happy surprise happened when I came back home.
+vocab:
+- arz/حصل

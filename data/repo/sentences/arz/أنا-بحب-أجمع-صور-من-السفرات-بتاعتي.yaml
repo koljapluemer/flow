@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا بحب أجمع صور من السفرات بتاعتي.
+translation: I like to collect pictures from my trips.
+vocab:
+- arz/صور

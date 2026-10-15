@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الولد بيجلس على الكرسي.
+translation: The boy sits on the chair.
+vocab:
+- arz/على

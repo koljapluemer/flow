@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الطعام ده ليه طعم قوي ومميز.
+translation: This food has a strong and distinctive taste.
+vocab:
+- arz/قوي

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: درجة الحرارة النهاردة عالية جداً.
+translation: The temperature today is very high.
+vocab:
+- arz/درجة

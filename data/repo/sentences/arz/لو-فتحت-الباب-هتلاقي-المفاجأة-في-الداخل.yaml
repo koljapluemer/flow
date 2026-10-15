@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لو فتحت الباب، هتلاقي المفاجأة في الداخل.
+translation: If you open the door, you'll find the surprise inside.
+vocab:
+- arz/لو

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: انا عايش في القاهرة من خمس سنين.
+translation: I have been living in Cairo for five years.
+vocab:
+- arz/يعيش

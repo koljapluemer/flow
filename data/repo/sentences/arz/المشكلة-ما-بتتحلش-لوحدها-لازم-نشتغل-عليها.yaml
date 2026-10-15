@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: المشكلة ما بتتحلش لوحدها، لازم نشتغل عليها.
+translation: The problem doesn't solve itself; we must work on it.
+vocab:
+- arz/لوحده

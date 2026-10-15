@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: جاي أزورك بكرة لو ماعندكش مانع.
+translation: I'm coming to visit you tomorrow if you don't mind.
+vocab:
+- arz/جاي

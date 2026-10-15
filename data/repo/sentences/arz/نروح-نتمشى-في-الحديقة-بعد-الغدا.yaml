@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: نروح نتمشى في الحديقة بعد الغدا.
+translation: We go for a walk in the park after lunch.
+vocab:
+- arz/نروح

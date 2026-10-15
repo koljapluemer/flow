@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لو سمحت، اكمل قراءة الكتاب للآخر.
+translation: Please continue reading the book to the end.
+vocab:
+- arz/اكمل

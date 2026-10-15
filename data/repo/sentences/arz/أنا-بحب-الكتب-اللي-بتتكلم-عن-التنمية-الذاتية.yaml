@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا بحب الكتب اللي بتتكلم عن التنمية الذاتية.
+translation: I like books about self-development.
+vocab:
+- arz/يحب

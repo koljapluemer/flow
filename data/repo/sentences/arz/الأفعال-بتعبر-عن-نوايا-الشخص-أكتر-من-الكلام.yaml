@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الأفعال بتعبر عن نوايا الشخص أكتر من الكلام.
+translation: Actions express a person's intentions more than words.
+vocab:
+- arz/افع

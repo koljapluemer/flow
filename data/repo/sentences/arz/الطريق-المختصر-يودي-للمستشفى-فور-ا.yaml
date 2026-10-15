@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الطريق المختصر يودي للمستشفى فورًا.
+translation: The shortcut leads to the hospital immediately.
+vocab:
+- arz/يودي

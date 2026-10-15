@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: النتيجة بتوضح مدى تعبك.
+translation: The result shows how much you have worked.
+vocab:
+- arz/نتيجه

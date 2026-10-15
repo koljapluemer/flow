@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لازم تعرف تتصرف في الموقف الصعب ده.
+translation: You must know how to act in this difficult situation.
+vocab:
+- arz/الموقف

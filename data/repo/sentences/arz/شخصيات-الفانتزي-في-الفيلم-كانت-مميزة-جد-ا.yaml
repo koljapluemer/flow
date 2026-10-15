@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: شخصيات الفانتزي في الفيلم كانت مميزة جدًا.
+translation: The fantasy characters in the movie were very distinctive.
+vocab:
+- arz/فانتزي

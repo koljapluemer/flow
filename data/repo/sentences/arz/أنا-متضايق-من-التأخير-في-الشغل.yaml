@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا متضايق من التأخير في الشغل.
+translation: I am upset about the delay at work.
+vocab:
+- arz/متضايق

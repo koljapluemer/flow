@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حتى لو الأمور صعبة، حاول اموف اون وما تلتفتش للماضي.
+translation: Even if things are tough, try to move on and don’t look back at the past.
+vocab:
+- arz/اموف-اون

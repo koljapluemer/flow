@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حسيت إن الجو برد فجأة.
+translation: I felt that the weather suddenly became cold.
+vocab:
+- arz/حس

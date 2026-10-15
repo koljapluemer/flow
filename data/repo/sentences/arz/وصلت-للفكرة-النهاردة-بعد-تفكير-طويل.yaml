@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: وصلت للفكرة النهاردة بعد تفكير طويل.
+translation: I reached the idea today after a long thought.
+vocab:
+- arz/وصل

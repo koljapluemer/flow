@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: المطلوب في الوظيفة دي مهارات كتير.
+translation: The job requires many skills.
+vocab:
+- arz/مطلوب

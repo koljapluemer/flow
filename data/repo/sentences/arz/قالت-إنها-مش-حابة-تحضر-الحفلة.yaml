@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: قالت إنها مش حابة تحضر الحفلة.
+translation: She said that she doesn't want to attend the party.
+vocab:
+- arz/قال

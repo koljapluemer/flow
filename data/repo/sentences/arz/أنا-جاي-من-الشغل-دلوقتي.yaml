@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا جاي من الشغل دلوقتي.
+translation: I just came from work.
+vocab:
+- arz/من

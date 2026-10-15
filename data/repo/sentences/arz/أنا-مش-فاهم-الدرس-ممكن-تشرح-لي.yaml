@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا مش فاهم الدرس، ممكن تشرح لي؟
+translation: I don't understand the lesson, can you explain it to me?
+vocab:
+- arz/انا

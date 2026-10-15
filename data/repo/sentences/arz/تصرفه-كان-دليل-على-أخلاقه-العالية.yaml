@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: تصرفه كان دليل على أخلاقه العالية.
+translation: His behavior was a sign of his high morals.
+vocab:
+- arz/اخلاق

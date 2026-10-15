@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لما جاء الوقت، قررت أتعلم السواقة.
+translation: When the time came, I decided to learn driving.
+vocab:
+- arz/جاء

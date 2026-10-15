@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: خلاص، بس خلاص الكلام اللي عايز أقوله.
+translation: Enough, that's all the talk I want to say.
+vocab:
+- arz/بس

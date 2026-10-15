@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: خلصت شغلي ورحت بيت وخلاص.
+translation: I finished my work, went home, and that's it.
+vocab:
+- arz/وخلاص

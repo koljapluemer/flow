@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: انا مطلوب في الجامعة عشان أدفع المصروفات.
+translation: I am required at the university to pay the fees.
+vocab:
+- arz/مطلوب

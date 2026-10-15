@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: التدخين له تأثير سلبي على الصحة.
+translation: Smoking has a negative impact on health.
+vocab:
+- arz/تأثير

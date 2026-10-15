@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: السلام عليكم ورحمة الله وبركاته.
+translation: Peace be upon you and God's mercy and blessings.
+vocab:
+- arz/سلام

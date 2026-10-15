@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لو مش فاهم، باكسبلين الموضوع تاني بالله.
+translation: If you don't understand, please explain the topic again.
+vocab:
+- arz/باكسبلين

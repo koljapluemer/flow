@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هو حس بالسعادة لما شاف هديته.
+translation: He felt happy when he saw his gift.
+vocab:
+- arz/حس

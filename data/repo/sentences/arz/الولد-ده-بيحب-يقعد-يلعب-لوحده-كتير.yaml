@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الولد ده بيحب يقعد يلعب لوحده كتير.
+translation: This boy likes to play alone a lot.
+vocab:
+- arz/لوحده

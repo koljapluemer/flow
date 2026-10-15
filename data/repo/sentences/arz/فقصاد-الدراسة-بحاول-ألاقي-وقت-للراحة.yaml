@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: فقصاد الدراسة، بحاول ألاقي وقت للراحة.
+translation: Besides studying, I try to find time to rest.
+vocab:
+- arz/فقصاد

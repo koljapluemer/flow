@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: دخل القطار المحطة قبل ميعاد الوصول.
+translation: The train entered the station before the arrival time.
+vocab:
+- arz/دخل

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: امسك القلم وابدأ تكتب بسرعة قبل ما يخلص الدرس.
+translation: Hold the pen and start writing quickly before the lesson ends.
+vocab:
+- arz/امسك

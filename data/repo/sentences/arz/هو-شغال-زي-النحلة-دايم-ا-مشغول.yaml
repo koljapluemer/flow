@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هو شغال زي النحلة، دايمًا مشغول.
+translation: He works like a bee, always busy.
+vocab:
+- arz/زي

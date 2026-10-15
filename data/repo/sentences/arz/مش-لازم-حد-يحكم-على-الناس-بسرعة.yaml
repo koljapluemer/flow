@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: مش لازم حد يحكم على الناس بسرعة.
+translation: No one should judge people quickly.
+vocab:
+- arz/حد

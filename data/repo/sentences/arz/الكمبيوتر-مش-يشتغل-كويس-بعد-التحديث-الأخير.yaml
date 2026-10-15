@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الكمبيوتر مش يشتغل كويس بعد التحديث الأخير.
+translation: The computer doesn't work well after the last update.
+vocab:
+- arz/يشتغل

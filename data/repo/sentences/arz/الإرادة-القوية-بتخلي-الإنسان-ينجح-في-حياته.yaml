@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الإرادة القوية بتخلي الإنسان ينجح في حياته.
+translation: Strong willpower makes a person succeed in life.
+vocab:
+- arz/قوي

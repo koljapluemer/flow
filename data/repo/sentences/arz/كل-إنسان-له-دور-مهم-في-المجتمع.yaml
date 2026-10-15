@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كل إنسان له دور مهم في المجتمع.
+translation: Every person has an important role in society.
+vocab:
+- arz/انسان

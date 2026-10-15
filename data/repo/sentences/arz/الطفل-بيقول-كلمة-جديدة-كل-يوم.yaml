@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الطفل بيقول كلمة جديدة كل يوم.
+translation: The child says a new word every day.
+vocab:
+- arz/يقول

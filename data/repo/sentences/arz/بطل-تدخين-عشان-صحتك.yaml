@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بطل تدخين عشان صحتك.
+translation: Quit smoking for your health.
+vocab:
+- arz/بطل

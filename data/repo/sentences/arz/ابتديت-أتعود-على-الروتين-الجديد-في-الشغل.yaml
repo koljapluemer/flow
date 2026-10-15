@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ابتديت أتعود على الروتين الجديد في الشغل.
+translation: I started getting used to the new routine at work.
+vocab:
+- arz/ابتدي

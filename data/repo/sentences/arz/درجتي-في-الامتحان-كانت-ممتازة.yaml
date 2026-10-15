@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: درجتي في الامتحان كانت ممتازة.
+translation: My grade in the exam was excellent.
+vocab:
+- arz/درجة

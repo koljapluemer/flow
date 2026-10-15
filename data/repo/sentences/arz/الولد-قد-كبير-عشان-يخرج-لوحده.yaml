@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الولد قد كبير عشان يخرج لوحده.
+translation: The boy is big enough to go out alone.
+vocab:
+- arz/قد

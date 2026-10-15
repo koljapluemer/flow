@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: المخ بيحتاج راحة كويسة عشان يشتغل صح.
+translation: The brain needs good rest to work properly.
+vocab:
+- arz/مخ

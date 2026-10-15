@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: في حاجه جميلة حصلت النهاردة وعايز أقولك عليها.
+translation: Something nice happened today and I want to tell you about it.
+vocab:
+- arz/حاجه

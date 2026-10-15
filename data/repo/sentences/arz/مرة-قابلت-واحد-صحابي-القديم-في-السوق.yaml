@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: مرة قابلت واحد صحابي القديم في السوق.
+translation: Once, I met one of my old friends in the market.
+vocab:
+- arz/مرة

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: احنا بنساعد بعض في الشغل.
+translation: We help each other at work.
+vocab:
+- arz/بعض

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ابتدي المشروع الأسبوع اللي فات بنجاح.
+translation: The project started last week successfully.
+vocab:
+- arz/ابتدي

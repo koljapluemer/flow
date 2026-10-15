@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: صديقي خلاني أحس إني مش لوحدي.
+translation: My friend made me feel that I'm not alone.
+vocab:
+- arz/خلى

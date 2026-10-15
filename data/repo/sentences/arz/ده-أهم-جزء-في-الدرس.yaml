@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ده أهم جزء في الدرس.
+translation: This is the most important part of the lesson.
+vocab:
+- arz/ده

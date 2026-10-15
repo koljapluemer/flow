@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الموقف اللي حصل في الحفلة كان محرج.
+translation: The situation that happened at the party was embarrassing.
+vocab:
+- arz/الموقف

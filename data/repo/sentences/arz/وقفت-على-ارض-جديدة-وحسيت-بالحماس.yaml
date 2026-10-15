@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: وقفت على ارض جديدة وحسيت بالحماس.
+translation: I stood on new land and felt excited.
+vocab:
+- arz/ارض

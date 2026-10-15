@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: روح بسرعة البيت قبل ما يظلم.
+translation: Go home quickly before it gets dark.
+vocab:
+- arz/روح

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الفيلم ده بيحكي قصة حقيقية.
+translation: This film tells a true story.
+vocab:
+- arz/فيلم

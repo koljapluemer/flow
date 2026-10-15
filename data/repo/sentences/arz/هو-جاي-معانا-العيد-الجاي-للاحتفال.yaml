@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هو جاي معانا العيد الجاي للاحتفال.
+translation: He is coming with us next Eid to celebrate.
+vocab:
+- arz/جاي

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الدمار الطبيعي بيستنزف الموارد الموجودة في البيئة.
+translation: Natural disasters deplete the resources available in the environment.
+vocab:
+- arz/تستنذف

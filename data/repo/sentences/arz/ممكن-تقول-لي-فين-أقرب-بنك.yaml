@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ممكن تقول لي فين أقرب بنك؟
+translation: Can you tell me where the nearest bank is?
+vocab:
+- arz/فين

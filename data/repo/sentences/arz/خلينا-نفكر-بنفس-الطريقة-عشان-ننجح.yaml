@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: خلينا نفكر بنفس الطريقة عشان ننجح.
+translation: Let's think in the same way to succeed.
+vocab:
+- arz/نفس

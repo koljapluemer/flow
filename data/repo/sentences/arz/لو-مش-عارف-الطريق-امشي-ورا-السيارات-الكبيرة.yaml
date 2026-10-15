@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لو مش عارف الطريق، امشي ورا السيارات الكبيرة.
+translation: If you don't know the way, walk behind the big cars.
+vocab:
+- arz/امشي

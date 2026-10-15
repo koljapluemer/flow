@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الأطباء قالوا إنه خرجوا من الكاما يومين فاتوا.
+translation: The doctors said he came out of the coma two days ago.
+vocab:
+- arz/كاما

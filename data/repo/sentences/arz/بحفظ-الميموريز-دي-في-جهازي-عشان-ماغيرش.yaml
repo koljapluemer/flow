@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بحفظ الميموريز دي في جهازي عشان ماغيرش.
+translation: I keep these memories in my device so I don't lose them.
+vocab:
+- arz/ميموريز

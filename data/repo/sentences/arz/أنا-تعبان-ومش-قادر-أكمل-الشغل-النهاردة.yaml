@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا تعبان ومش قادر أكمل الشغل النهاردة.
+translation: I am tired and not able to continue work today.
+vocab:
+- arz/ومش

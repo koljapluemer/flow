@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: تابع Komments على البوست وشوف ردود الناس.
+translation: Check the comments on the post and see people’s reactions.
+vocab:
+- arz/كومنتس

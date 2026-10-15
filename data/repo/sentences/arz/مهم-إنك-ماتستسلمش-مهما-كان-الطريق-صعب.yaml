@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: مهم إنك ماتستسلمش مهما كان الطريق صعب.
+translation: It is important that you don't give up no matter how hard the path is.
+vocab:
+- arz/صعب

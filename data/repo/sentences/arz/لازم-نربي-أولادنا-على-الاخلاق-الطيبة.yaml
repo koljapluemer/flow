@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لازم نربي أولادنا على الاخلاق الطيبة.
+translation: We must raise our children with good morals.
+vocab:
+- arz/اخلاق

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اختلطت معلوماتي بين الدروس المختلفة.
+translation: My information got mixed up between different lessons.
+vocab:
+- arz/اختلط

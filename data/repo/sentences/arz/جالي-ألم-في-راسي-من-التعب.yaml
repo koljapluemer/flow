@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: جالي ألم في راسي من التعب.
+translation: I had a headache from tiredness.
+vocab:
+- arz/راس

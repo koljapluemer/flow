@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: انت لازم تركز في دراستك عشان تنجح.
+translation: You must focus on your studies to succeed.
+vocab:
+- arz/انت

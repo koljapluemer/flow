@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اشتريت آخر نسخة من الكتاب ده.
+translation: I bought the latest edition of this book.
+vocab:
+- arz/اخر

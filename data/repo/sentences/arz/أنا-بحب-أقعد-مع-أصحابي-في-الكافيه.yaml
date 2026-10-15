@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا بحب أقعد مع أصحابي في الكافيه.
+translation: I like to hang out with my friends at the cafe.
+vocab:
+- arz/انا

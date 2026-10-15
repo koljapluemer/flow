@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ماحبش أسلف فلوسي لأي حد حتى لو صاحبي.
+translation: I don't like to lend my money to anyone, even if it's my friend.
+vocab:
+- arz/سلف

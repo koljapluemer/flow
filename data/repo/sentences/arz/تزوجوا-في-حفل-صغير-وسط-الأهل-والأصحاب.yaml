@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: تزوجوا في حفل صغير وسط الأهل والأصحاب.
+translation: They got married in a small ceremony among family and friends.
+vocab:
+- arz/تزوج

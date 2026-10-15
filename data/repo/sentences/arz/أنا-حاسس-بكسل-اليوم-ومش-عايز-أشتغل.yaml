@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا حاسس بكسل اليوم ومش عايز أشتغل.
+translation: I feel lazy today and don't want to work.
+vocab:
+- arz/كسل

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هي سامحت أخوها رغم المشاكل اللي حصلت.
+translation: She forgave her brother despite the problems that happened.
+vocab:
+- arz/سامح

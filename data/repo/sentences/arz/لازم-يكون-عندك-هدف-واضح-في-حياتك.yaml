@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لازم يكون عندك هدف واضح في حياتك.
+translation: You must have a clear goal in your life.
+vocab:
+- arz/يكون

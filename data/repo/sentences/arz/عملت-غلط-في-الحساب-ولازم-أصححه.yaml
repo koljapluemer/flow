@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: عملت غلط في الحساب ولازم أصححه.
+translation: I made a mistake in the calculation and need to fix it.
+vocab:
+- arz/غلط

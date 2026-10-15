@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حاسه بالسعادة لما بشوفك.
+translation: I feel happy when I see you.
+vocab:
+- arz/حاسه

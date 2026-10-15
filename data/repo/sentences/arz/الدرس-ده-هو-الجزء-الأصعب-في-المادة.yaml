@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الدرس ده هو الجزء الأصعب في المادة.
+translation: This lesson is the hardest part in the subject.
+vocab:
+- arz/جزء

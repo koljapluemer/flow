@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هي لقيت حل بديل لما اتأخرت القطارات.
+translation: She found an alternative solution when the trains were late.
+vocab:
+- arz/حل

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الموضوع ده يعتبر مغامرة مجنونة.
+translation: This matter is considered a crazy adventure.
+vocab:
+- arz/مجن

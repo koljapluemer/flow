@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لو ضعت، ممكن نرجع مع بعض ونشوف المكان تاني.
+translation: If you get lost, we can go back together and look at the place again.
+vocab:
+- arz/نرجع

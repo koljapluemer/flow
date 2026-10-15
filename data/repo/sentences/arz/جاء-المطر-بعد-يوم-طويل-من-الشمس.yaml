@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: جاء المطر بعد يوم طويل من الشمس.
+translation: The rain came after a long day of sun.
+vocab:
+- arz/جاء

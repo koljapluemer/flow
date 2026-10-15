@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: المعلم أمر الطلاب يبدأوا الامتحان.
+translation: The teacher ordered the students to start the exam.
+vocab:
+- arz/امر

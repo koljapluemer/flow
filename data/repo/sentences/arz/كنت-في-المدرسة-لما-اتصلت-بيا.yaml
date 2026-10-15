@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كنت في المدرسة لما اتصلت بيا.
+translation: I was at school when you called me.
+vocab:
+- arz/كنت

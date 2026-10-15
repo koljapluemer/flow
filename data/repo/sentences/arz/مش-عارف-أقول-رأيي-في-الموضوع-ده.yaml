@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: مش عارف أقول رأيي في الموضوع ده.
+translation: I don't know how to express my opinion on this matter.
+vocab:
+- arz/اقول

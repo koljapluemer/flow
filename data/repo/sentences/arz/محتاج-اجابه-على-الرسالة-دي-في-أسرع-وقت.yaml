@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: محتاج اجابه على الرسالة دي في أسرع وقت.
+translation: I need an answer to this message as soon as possible.
+vocab:
+- arz/اجابه

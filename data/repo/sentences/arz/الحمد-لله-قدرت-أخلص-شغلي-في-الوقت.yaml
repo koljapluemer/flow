@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الحمد لله قدرت أخلص شغلي في الوقت.
+translation: Thank God I managed to finish my work on time.
+vocab:
+- arz/الحمد-لله

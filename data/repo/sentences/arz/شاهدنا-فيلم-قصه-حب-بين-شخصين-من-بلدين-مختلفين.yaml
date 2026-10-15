@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: شاهدنا فيلم قصه حب بين شخصين من بلدين مختلفين.
+translation: We watched a movie about a love story between two people from different countries.
+vocab:
+- arz/قصه-حب

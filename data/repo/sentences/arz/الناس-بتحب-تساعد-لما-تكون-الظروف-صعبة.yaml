@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الناس بتحب تساعد لما تكون الظروف صعبة.
+translation: People like to help when the circumstances are difficult.
+vocab:
+- arz/الناس

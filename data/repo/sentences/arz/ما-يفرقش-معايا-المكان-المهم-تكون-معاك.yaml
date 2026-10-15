@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ما يفرقش معايا المكان، المهم تكون معاك.
+translation: The place does not matter to me, the important thing is to be with you.
+vocab:
+- arz/يفرق

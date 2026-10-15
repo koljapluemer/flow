@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أيا كان الطريق اللي تختاره، لازم تكون واثق.
+translation: Whatever path you choose, you must be confident.
+vocab:
+- arz/أيا-كان

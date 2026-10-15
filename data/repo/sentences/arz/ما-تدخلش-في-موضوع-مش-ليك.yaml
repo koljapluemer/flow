@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ما تدخلش في موضوع مش ليك.
+translation: Don't get involved in a matter that is not yours.
+vocab:
+- arz/يدخل

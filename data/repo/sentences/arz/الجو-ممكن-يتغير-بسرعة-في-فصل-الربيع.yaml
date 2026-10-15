@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الجو ممكن يتغير بسرعة في فصل الربيع.
+translation: The weather can change quickly in the spring.
+vocab:
+- arz/يتغير

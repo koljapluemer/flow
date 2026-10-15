@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كان لازم أدرس أكتر عشان أنجح في الامتحان.
+translation: I had to study more to pass the exam.
+vocab:
+- arz/كان

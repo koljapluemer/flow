@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: عايش اللحظة ومش بيهتم بالماضي.
+translation: He is living in the moment and doesn't care about the past.
+vocab:
+- arz/عايش

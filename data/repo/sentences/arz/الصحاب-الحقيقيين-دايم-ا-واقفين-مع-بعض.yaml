@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الصحاب الحقيقيين دايمًا واقفين مع بعض.
+translation: True friends always stand by each other.
+vocab:
+- arz/بعض

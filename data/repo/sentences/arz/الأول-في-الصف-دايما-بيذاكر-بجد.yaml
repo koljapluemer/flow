@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الأول في الصف دايماً بيذاكر بجد.
+translation: The top student in the class always studies hard.
+vocab:
+- arz/اول

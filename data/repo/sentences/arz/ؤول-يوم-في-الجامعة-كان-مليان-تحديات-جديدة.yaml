@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ؤول يوم في الجامعة كان مليان تحديات جديدة.
+translation: The first day at university was full of new challenges.
+vocab:
+- arz/ؤول

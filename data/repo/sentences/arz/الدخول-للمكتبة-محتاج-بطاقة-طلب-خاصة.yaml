@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الدخول للمكتبة محتاج بطاقة طلب خاصة.
+translation: Entering the library requires a special request card.
+vocab:
+- arz/يدخل

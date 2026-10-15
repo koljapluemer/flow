@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الموقف دا محتاج حكمة وصبر.
+translation: This situation requires wisdom and patience.
+vocab:
+- arz/الموقف

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لو متضايق، احكيلي وأنا أسمعك.
+translation: If you are upset, tell me and I will listen to you.
+vocab:
+- arz/متضايق

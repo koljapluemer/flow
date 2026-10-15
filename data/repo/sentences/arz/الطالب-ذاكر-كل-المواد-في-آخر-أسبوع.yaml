@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الطالب ذاكر كل المواد في آخر أسبوع.
+translation: The student studied all subjects in the last week.
+vocab:
+- arz/ذاكر

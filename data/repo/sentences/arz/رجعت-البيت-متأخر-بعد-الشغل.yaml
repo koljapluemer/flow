@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: رجعت البيت متأخر بعد الشغل.
+translation: I returned home late after work.
+vocab:
+- arz/رجع

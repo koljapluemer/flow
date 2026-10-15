@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: انا مش عارف الطريق للمكتبة دي.
+translation: I don't know the way to that library.
+vocab:
+- arz/يعرف

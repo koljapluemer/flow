@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الشمس بتوقف تسطع بعد المغرب.
+translation: The sun stops shining after sunset.
+vocab:
+- arz/يقف

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: عايزين حل سريع لموضوع الكهرباء في المدرسة.
+translation: We want a quick solution for the electricity problem at school.
+vocab:
+- arz/حل

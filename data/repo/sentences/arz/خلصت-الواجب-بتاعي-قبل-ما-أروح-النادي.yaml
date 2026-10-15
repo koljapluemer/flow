@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: خلصت الواجب بتاعي قبل ما أروح النادي.
+translation: I finished my homework before going to the club.
+vocab:
+- arz/خلص

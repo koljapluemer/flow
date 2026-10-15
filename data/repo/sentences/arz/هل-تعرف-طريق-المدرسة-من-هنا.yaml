@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هل تعرف طريق المدرسة من هنا؟
+translation: Do you know the way to the school from here?
+vocab:
+- arz/اعرف

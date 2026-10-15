@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بيحب يبني علاقات قوية مع زمايله في الشغل.
+translation: He likes to build strong relationships with his colleagues at work.
+vocab:
+- arz/العلاقات

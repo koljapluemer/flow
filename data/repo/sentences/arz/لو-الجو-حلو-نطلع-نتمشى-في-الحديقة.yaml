@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لو الجو حلو، نطلع نتمشى في الحديقة.
+translation: If the weather is nice, we'll go for a walk in the park.
+vocab:
+- arz/لو

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: عرفت الخبر من صاحبي البارح.
+translation: I knew the news from my friend yesterday.
+vocab:
+- arz/عرف

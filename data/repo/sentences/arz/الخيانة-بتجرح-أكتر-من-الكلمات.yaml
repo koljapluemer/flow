@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الخيانة بتجرح أكتر من الكلمات.
+translation: Betrayal hurts more than words.
+vocab:
+- arz/اخون

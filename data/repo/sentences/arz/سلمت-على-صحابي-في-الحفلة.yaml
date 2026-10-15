@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: سلمت على صحابي في الحفلة.
+translation: I greeted my friends at the party.
+vocab:
+- arz/سلم

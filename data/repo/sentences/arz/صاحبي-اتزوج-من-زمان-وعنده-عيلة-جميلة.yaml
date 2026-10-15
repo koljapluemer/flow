@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: صاحبي اتزوج من زمان وعنده عيلة جميلة.
+translation: My friend got married long ago and has a beautiful family.
+vocab:
+- arz/تزوج

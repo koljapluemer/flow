@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: انا هكمل دراستي السنة الجاية في الجامعة.
+translation: I will continue my studies next year at the university.
+vocab:
+- arz/يكم-ل

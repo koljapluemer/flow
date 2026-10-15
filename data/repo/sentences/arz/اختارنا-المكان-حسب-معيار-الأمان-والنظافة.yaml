@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اختارنا المكان حسب معيار الأمان والنظافة.
+translation: We chose the place according to safety and cleanliness standards.
+vocab:
+- arz/معيار

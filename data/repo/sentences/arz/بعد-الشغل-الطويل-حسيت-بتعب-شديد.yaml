@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بعد الشغل الطويل، حسيت بتعب شديد.
+translation: After the long work, I felt very tired.
+vocab:
+- arz/تعب

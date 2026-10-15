@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كان في وحي خاص جاله وهو بيشتغل.
+translation: There was a special inspiration that came to him while he was working.
+vocab:
+- arz/وحي

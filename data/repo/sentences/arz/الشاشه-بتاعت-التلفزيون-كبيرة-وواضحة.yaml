@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الشاشه بتاعت التلفزيون كبيرة وواضحة.
+translation: The TV screen is big and clear.
+vocab:
+- arz/شاشه

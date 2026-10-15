@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: احط الكتب على الرف بسرعة.
+translation: Put the books on the shelf quickly.
+vocab:
+- arz/احط

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أسلوبه في الشغل بدأ يتغير مؤخراً.
+translation: His way of working has started to change recently.
+vocab:
+- arz/يتغير

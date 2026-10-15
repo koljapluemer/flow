@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: في مكتوب على الحيطة ماحدش يدخل هنا.
+translation: It's written on the wall 'No entry here'.
+vocab:
+- arz/مكتوب

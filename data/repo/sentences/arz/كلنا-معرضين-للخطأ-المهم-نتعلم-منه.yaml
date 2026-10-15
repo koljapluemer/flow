@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كلنا معرضين للخطأ، المهم نتعلم منه.
+translation: We are all prone to mistakes; the important thing is to learn from it.
+vocab:
+- arz/كلنا

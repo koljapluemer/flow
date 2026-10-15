@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ما فيش سبب لأني أزعل منك.
+translation: There is no reason for me to be upset with you.
+vocab:
+- arz/سبب

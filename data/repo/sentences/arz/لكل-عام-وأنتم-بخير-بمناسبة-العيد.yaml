@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لكل عام وأنتم بخير بمناسبة العيد.
+translation: Happy New Year on the occasion of the Eid.
+vocab:
+- arz/عام

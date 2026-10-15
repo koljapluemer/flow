@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ده الطريق الصح للمدرسة.
+translation: This is the right way to the school.
+vocab:
+- arz/ده

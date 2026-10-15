@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: نتيجة الامتحان ظهرت النهاردة.
+translation: The exam result appeared today.
+vocab:
+- arz/نتيجه

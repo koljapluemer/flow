@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ازاي اقدر أحجز تذاكر الحفلة؟
+translation: How can I book tickets for the party?
+vocab:
+- arz/از

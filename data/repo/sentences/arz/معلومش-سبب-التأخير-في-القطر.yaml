@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: معلومش سبب التأخير في القطر.
+translation: The reason for the delay of the train is unknown.
+vocab:
+- arz/معلومش

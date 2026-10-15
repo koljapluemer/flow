@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حاسه بنجاح كبير في حياتي.
+translation: I feel great success in my life.
+vocab:
+- arz/حاسه

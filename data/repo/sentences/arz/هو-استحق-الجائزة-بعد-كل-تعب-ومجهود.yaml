@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هو استحق الجائزة بعد كل تعب ومجهود.
+translation: He deserved the prize after all the effort and hard work.
+vocab:
+- arz/استحق

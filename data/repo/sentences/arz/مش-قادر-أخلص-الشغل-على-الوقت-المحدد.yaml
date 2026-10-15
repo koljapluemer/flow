@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: مش قادر أخلص الشغل على الوقت المحدد.
+translation: I can't finish the work on the scheduled time.
+vocab:
+- arz/مش

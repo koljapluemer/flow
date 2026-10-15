@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هو مثال مثالي للطالب المجتهد.
+translation: He is an ideal example of a diligent student.
+vocab:
+- arz/مثالي

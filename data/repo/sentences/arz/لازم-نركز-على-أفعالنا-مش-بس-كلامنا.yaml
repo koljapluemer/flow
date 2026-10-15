@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لازم نركز على أفعالنا مش بس كلامنا.
+translation: We must focus on our actions, not just our words.
+vocab:
+- arz/فعل

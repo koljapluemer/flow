@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الإنسان بيتعلم من أخطائه كل يوم.
+translation: A person learns from their mistakes every day.
+vocab:
+- arz/انسان

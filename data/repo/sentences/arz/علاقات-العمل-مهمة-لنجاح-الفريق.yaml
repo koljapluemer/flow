@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: علاقات العمل مهمة لنجاح الفريق.
+translation: Work relationships are important for team success.
+vocab:
+- arz/علاقات

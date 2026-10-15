@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كل الناس بتحب الأفراح والمناسبات.
+translation: All people love celebrations and occasions.
+vocab:
+- arz/كل

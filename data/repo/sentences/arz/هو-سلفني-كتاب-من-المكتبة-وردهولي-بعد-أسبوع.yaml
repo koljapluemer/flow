@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هو سلفني كتاب من المكتبة وردهولي بعد أسبوع.
+translation: He lent me a book from the library and I returned it after a week.
+vocab:
+- arz/سلف

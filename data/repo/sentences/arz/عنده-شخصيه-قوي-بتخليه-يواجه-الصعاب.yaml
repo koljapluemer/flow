@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: عنده شخصيه قوي بتخليه يواجه الصعاب.
+translation: He has a strong personality that helps him face difficulties.
+vocab:
+- arz/قوي

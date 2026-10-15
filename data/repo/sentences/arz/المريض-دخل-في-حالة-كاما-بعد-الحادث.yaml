@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: المريض دخل في حالة كاما بعد الحادث.
+translation: The patient entered a coma state after the accident.
+vocab:
+- arz/كاما

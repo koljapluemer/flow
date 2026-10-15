@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الشغل الكتير بيستنزف طاقتي بسرعة.
+translation: Too much work drains my energy quickly.
+vocab:
+- arz/يستنزف

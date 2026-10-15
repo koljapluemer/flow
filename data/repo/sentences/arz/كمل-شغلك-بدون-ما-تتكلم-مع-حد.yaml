@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كمل شغلك بدون ما تتكلم مع حد.
+translation: Continue your work without talking to anyone.
+vocab:
+- arz/كمل

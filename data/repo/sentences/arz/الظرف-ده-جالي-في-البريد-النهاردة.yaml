@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الظرف ده جالي في البريد النهاردة.
+translation: This envelope reached me in the mail today.
+vocab:
+- arz/ظرف

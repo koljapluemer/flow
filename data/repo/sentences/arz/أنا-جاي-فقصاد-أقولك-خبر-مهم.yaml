@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا جاي فقصاد أقولك خبر مهم.
+translation: I came just to tell you important news.
+vocab:
+- arz/فقصاد

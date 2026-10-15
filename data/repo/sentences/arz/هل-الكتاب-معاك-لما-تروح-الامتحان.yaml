@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هل الكتاب معاك لما تروح الامتحان؟
+translation: Do you have the book with you when you go to the exam?
+vocab:
+- arz/معاك

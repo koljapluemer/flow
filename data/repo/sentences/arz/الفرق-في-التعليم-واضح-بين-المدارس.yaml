@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الفرق في التعليم واضح بين المدارس.
+translation: The difference in education is clear between schools.
+vocab:
+- arz/فرق

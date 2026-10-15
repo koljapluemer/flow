@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الدراسة بتاخد وقت وتركيز كبير.
+translation: Studying takes a lot of time and concentration.
+vocab:
+- arz/دراسة

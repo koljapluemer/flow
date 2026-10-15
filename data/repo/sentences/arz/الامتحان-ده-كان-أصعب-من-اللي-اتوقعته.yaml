@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الامتحان ده كان أصعب من اللي اتوقعته.
+translation: This exam was harder than I expected.
+vocab:
+- arz/اصعب

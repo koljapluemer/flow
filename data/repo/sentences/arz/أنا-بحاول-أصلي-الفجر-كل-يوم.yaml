@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا بحاول أصلي الفجر كل يوم.
+translation: I try to pray Fajr every day.
+vocab:
+- arz/صلي-الفجر

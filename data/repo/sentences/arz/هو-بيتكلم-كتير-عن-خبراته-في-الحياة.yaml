@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هو بيتكلم كتير عن خبراته في الحياة.
+translation: He talks a lot about his life experiences.
+vocab:
+- arz/تكلم

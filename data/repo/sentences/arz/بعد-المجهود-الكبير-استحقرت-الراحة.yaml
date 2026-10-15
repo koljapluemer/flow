@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بعد المجهود الكبير، استحقرت الراحة.
+translation: After the big effort, I deserved rest.
+vocab:
+- arz/بعد

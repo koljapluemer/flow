@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: توبك المحاضرة كان تطوير المهارات الشخصية.
+translation: The topic of the lecture was personal skills development.
+vocab:
+- arz/توبك

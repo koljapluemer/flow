@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هو دايمًا بيحب يساعد أصحابه في كل حاجة.
+translation: He always likes to help his friends in everything.
+vocab:
+- arz/يساعد

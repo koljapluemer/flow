@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الفرق في الأسلوب ممكن يفرق في النتيجة.
+translation: The difference in style can affect the result.
+vocab:
+- arz/يفرق

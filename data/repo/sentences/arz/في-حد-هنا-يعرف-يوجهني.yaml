@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: في حد هنا يعرف يوجهني؟
+translation: Is there anyone here who can guide me?
+vocab:
+- arz/حد

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: سمع كلامك وفهم موقفك.
+translation: He listened to you and understood your situation.
+vocab:
+- arz/سمع

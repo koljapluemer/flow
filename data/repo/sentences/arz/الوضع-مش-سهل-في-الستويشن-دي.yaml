@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الوضع مش سهل في الستويشن دي.
+translation: The situation is not easy in this situation.
+vocab:
+- arz/ستويشن

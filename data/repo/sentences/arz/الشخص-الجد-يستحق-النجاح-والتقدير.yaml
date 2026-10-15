@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الشخص الجد يستحق النجاح والتقدير.
+translation: The hard-working person deserves success and appreciation.
+vocab:
+- arz/تستحق

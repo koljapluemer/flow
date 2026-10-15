@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: القمصان السودا دي على الموضة السنة دي.
+translation: These black shirts are in fashion this year.
+vocab:
+- arz/سودا

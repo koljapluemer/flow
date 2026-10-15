@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: قدم اعتذار رسمي عن التأخير.
+translation: He gave an official apology for the delay.
+vocab:
+- arz/اعتذار

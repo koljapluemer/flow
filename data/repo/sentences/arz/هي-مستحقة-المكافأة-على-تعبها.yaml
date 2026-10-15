@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هي مستحقة المكافأة على تعبها.
+translation: She deserves the reward for her efforts.
+vocab:
+- arz/مستحق

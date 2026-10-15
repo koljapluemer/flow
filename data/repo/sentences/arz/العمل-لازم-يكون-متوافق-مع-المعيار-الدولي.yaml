@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: العمل لازم يكون متوافق مع المعيار الدولي.
+translation: The work must comply with international standards.
+vocab:
+- arz/معيار

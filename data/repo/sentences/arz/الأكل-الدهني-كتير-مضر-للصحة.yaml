@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الأكل الدهني كتير مضر للصحة.
+translation: Eating a lot of fatty food is harmful to health.
+vocab:
+- arz/مضر

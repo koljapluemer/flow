@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا شايف إن الموضوع محتاج تركيز أكتر.
+translation: I see that the matter needs more focus.
+vocab:
+- arz/شايف

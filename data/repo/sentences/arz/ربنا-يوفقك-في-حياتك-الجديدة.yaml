@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ربنا يوفقك في حياتك الجديدة.
+translation: May God grant you success in your new life.
+vocab:
+- arz/ربنا

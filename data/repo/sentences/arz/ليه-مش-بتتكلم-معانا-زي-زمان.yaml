@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ليه مش بتتكلم معانا زي زمان؟
+translation: Why don't you talk to us like before?
+vocab:
+- arz/ليه

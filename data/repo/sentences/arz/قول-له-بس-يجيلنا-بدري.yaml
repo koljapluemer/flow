@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: قول له بس يجيلنا بدري.
+translation: Just tell him to come early to us.
+vocab:
+- arz/بس

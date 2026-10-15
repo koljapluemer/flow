@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الميموريز بينصحوني دايمًا أتذكر اللحظات السعيدة.
+translation: The memories always advise me to remember happy moments.
+vocab:
+- arz/ميموريز

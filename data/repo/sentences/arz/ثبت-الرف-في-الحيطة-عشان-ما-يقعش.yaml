@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ثبت الرف في الحيطة عشان ما يقعش.
+translation: Fix the shelf on the wall so it doesn't fall.
+vocab:
+- arz/ثبت

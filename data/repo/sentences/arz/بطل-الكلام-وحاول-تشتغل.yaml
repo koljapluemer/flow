@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بطل الكلام وحاول تشتغل.
+translation: Stop talking and try to work.
+vocab:
+- arz/بطل

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لازم نواجه الواقع ونتعامل معاه بحكمة.
+translation: We must face reality and deal with it wisely.
+vocab:
+- arz/واقع

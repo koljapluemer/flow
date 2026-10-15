@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: امتي حتروح تحضر الاجتماع؟
+translation: When will you go to attend the meeting?
+vocab:
+- arz/ام

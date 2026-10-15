@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الاسم بتاعي محمد وأنا من القاهرة.
+translation: My name is Mohamed and I am from Cairo.
+vocab:
+- arz/اسم

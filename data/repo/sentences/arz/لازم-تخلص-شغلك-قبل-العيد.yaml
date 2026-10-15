@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لازم تخلص شغلك قبل العيد.
+translation: You must finish your work before the holiday.
+vocab:
+- arz/لازم

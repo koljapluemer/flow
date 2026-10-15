@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بحب أخرج مع العيلة في الويك إند.
+translation: I like going out with the family on the weekend.
+vocab:
+- arz/عائل

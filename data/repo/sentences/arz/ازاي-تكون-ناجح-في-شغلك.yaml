@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ازاي تكون ناجح في شغلك؟
+translation: How can you be successful in your job?
+vocab:
+- arz/ازاي

@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Video",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["title", "youtube", "snippets"],
+  "properties": {
+    "title": { "type": "string", "minLength": 1 },
+    "youtube": { "description": "YouTube video id", "type": "string", "minLength": 1 },
+    "snippets": {
+      "description": "Clips in video order; a snippet's ref is <video ref>#<index>",
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["start", "end", "text", "translation", "vocab", "core"],
+        "properties": {
+          "start": { "description": "Seconds", "type": "number", "minimum": 0 },
+          "end": { "description": "Seconds", "type": "number", "minimum": 0 },
+          "text": { "type": "string", "minLength": 1 },
+          "translation": { "type": "string", "minLength": 1 },
+          "vocab": {
+            "description": "Vocab refs (<lang>/<slug>) in the snippet",
+            "type": "array",
+            "uniqueItems": true,
+            "items": { "type": "string", "pattern": "^[a-z]{3}/[^/]+$" }
+          },
+          "core": {
+            "description": "Vocab refs needed to grasp the snippet, a subset of vocab",
+            "type": "array",
+            "uniqueItems": true,
+            "items": { "type": "string", "pattern": "^[a-z]{3}/[^/]+$" }
+          }
+        }
+      }
+    }
+  }
+}

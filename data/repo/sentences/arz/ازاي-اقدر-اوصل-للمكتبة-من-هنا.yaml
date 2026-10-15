@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ازاي اقدر اوصل للمكتبة من هنا؟
+translation: How can I get to the library from here?
+vocab:
+- arz/ازاي

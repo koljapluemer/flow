@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الجلوس قدام التلفزيون لفترة طويلة مضر لعيونك.
+translation: Sitting in front of the TV for a long time is harmful to your eyes.
+vocab:
+- arz/مضر

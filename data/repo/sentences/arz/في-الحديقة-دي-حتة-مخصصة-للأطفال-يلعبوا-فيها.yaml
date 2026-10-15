@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: في الحديقة دي، حتة مخصصة للأطفال يلعبوا فيها.
+translation: In this garden, there is an area designated for children to play.
+vocab:
+- arz/حته

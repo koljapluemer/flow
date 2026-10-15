@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لو الجو بقى كويس، نبقى نروح البحر بكرة.
+translation: If the weather becomes nice, we'll go to the beach tomorrow.
+vocab:
+- arz/نبقى

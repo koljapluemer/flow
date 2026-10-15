@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: دي أول مرة أزور المدينة دي.
+translation: This is the first time I visit this city.
+vocab:
+- arz/اول

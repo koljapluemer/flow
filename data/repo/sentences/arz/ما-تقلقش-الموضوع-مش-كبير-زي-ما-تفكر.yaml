@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ما تقلقش، الموضوع مش كبير زي ما تفكر.
+translation: Don't worry, the matter isn't as big as you think.
+vocab:
+- arz/الموضوع

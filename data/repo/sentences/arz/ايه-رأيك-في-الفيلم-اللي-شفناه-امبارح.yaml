@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ايه رأيك في الفيلم اللي شفناه امبارح؟
+translation: What do you think about the movie we saw yesterday?
+vocab:
+- arz/ايه

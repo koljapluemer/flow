@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا حاسس إني كويس النهاردة.
+translation: I feel good today.
+vocab:
+- arz/كويس

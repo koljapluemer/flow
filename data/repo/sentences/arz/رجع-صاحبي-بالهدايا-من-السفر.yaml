@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: رجع صاحبي بالهدايا من السفر.
+translation: My friend returned with gifts from the trip.
+vocab:
+- arz/رجع

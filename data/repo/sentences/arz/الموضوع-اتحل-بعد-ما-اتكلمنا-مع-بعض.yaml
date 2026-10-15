@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الموضوع اتحل بعد ما اتكلمنا مع بعض.
+translation: The matter was resolved after we talked together.
+vocab:
+- arz/موضوع

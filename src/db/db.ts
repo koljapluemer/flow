@@ -1,18 +1,38 @@
 import Dexie, { type EntityTable } from 'dexie'
 import type { Card } from 'ts-fsrs'
 
-// Sentence and vocab ids are repo refs ("deu/der-tisch"), see data/repo.
-export type SentenceRow = { id: string; text: string; translation: string; vocabIds: string[]; topicIds: string[] }
+// Content ids are repo refs ("deu/der-tisch"); snippet ids are "<video ref>#<index>".
 export type VocabRow = { id: string; word: string; translation: string }
-export type SentenceCardRow = Card & { id: string; lastAnswerCorrect: boolean }
-export type VocabCardRow = Card & { id: string; level: 1 | 2 | 3 | 4; initialSentence: string }
+export type SentenceRow = { id: string; text: string; translation: string; vocabIds: string[] }
+export type SnippetRow = {
+  id: string
+  videoId: string
+  index: number
+  youtubeId: string
+  start: number
+  end: number
+  text: string
+  translation: string
+  vocabIds: string[]
+  coreVocabIds: string[]
+}
+
+// Gestalt ids are "<kind>:<content id>". `relatedIds` link composites to the gestalts they build on.
+export type GestaltKind = 'vocab' | 'sentence' | 'snippet'
+export type GestaltRow = { id: string; kind: GestaltKind; contentId: string; topicIds: string[]; relatedIds: string[] }
+export type GestaltCardRow = Card & { id: string }
+export type ExerciseCardRow = Card & { id: string }
+export type GoalRow = { id: string; kind: 'introduce' | 'repair'; target: string; createdAt: Date }
 export type SelectedTopicRow = { id: string }
 
 export const db = new Dexie('germanFlow') as Dexie & {
-  sentences: EntityTable<SentenceRow, 'id'>
   vocab: EntityTable<VocabRow, 'id'>
-  sentenceCards: EntityTable<SentenceCardRow, 'id'>
-  vocabCards: EntityTable<VocabCardRow, 'id'>
+  sentences: EntityTable<SentenceRow, 'id'>
+  snippets: EntityTable<SnippetRow, 'id'>
+  gestalts: EntityTable<GestaltRow, 'id'>
+  gestaltCards: EntityTable<GestaltCardRow, 'id'>
+  exerciseCards: EntityTable<ExerciseCardRow, 'id'>
+  goals: EntityTable<GoalRow, 'id'>
   selectedTopics: EntityTable<SelectedTopicRow, 'id'>
 }
 
@@ -35,3 +55,19 @@ db.version(2)
   .upgrade((tx) =>
     Promise.all(['sentences', 'vocab', 'sentenceCards', 'vocabCards'].map((table) => tx.table(table).clear()))
   )
+
+// Switch to gestalts and exercises: old content and progress are dropped, topic selection is kept.
+db.version(3)
+  .stores({
+    vocab: 'id',
+    sentences: 'id',
+    snippets: 'id',
+    gestalts: 'id, *topicIds',
+    gestaltCards: 'id',
+    exerciseCards: 'id',
+    goals: 'id',
+    selectedTopics: 'id',
+    sentenceCards: null,
+    vocabCards: null
+  })
+  .upgrade((tx) => Promise.all(['sentences', 'vocab'].map((table) => tx.table(table).clear())))

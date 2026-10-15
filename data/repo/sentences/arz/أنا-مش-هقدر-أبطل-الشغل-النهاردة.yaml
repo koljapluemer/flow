@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا مش هقدر أبطل الشغل النهاردة.
+translation: I won’t be able to stop working today.
+vocab:
+- arz/يبطل

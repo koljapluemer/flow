@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: المحاولة الأولى ما نجحتش، هاجرب تاني.
+translation: The first attempt didn't succeed, I'll try again.
+vocab:
+- arz/محاوله

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بحب أشوف فيديوهات تعليمية على يوتيوب.
+translation: I like watching educational videos on YouTube.
+vocab:
+- arz/يوتيوب

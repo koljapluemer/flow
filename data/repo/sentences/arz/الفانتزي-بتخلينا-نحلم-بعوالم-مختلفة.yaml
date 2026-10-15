@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الفانتزي بتخلينا نحلم بعوالم مختلفة.
+translation: Fantasy makes us dream of different worlds.
+vocab:
+- arz/فانتزي

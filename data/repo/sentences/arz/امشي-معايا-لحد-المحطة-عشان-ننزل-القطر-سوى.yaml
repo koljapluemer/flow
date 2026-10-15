@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: امشي معايا لحد المحطة عشان ننزل القطر سوى.
+translation: Walk with me to the station so we can get off the train together.
+vocab:
+- arz/امشي

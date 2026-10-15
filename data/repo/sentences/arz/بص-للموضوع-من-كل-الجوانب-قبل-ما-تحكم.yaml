@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بص للموضوع من كل الجوانب قبل ما تحكم.
+translation: Look at the issue from all sides before you judge.
+vocab:
+- arz/بص

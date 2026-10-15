@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: نفسي اشوف صحابي بعد غياب طويل.
+translation: I wish to see my friends after a long absence.
+vocab:
+- arz/اشوف

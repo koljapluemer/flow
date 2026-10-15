@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: المكان مكتوب في العنوان بالتفصيل.
+translation: The place is written in the address in detail.
+vocab:
+- arz/مكتوب

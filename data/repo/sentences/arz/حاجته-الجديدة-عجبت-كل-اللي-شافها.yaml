@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حاجته الجديدة عجبت كل اللي شافها.
+translation: His new thing pleased everyone who saw it.
+vocab:
+- arz/عجب

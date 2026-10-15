@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: المرض ده له سبب واضح.
+translation: This illness has a clear cause.
+vocab:
+- arz/سبب

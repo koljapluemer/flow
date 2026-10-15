@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لازم تذاكر كويس عشان تمتحن غداً.
+translation: You must study well because you have an exam tomorrow.
+vocab:
+- arz/لازم

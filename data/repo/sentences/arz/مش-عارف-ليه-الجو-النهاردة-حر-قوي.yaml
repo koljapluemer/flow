@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: مش عارف ليه الجو النهاردة حر قوي.
+translation: I don't know why the weather is very hot today.
+vocab:
+- arz/مش

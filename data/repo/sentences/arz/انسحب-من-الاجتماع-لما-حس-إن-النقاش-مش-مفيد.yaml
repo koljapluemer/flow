@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: انسحب من الاجتماع لما حس إن النقاش مش مفيد.
+translation: He withdrew from the meeting when he felt the discussion was not useful.
+vocab:
+- arz/انسحب

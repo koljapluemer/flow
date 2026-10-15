@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هو مقدر القيمة الحقيقية للصداقة؟
+translation: Does he appreciate the true value of friendship?
+vocab:
+- arz/مقدر

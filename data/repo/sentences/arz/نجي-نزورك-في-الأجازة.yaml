@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: نجي نزورك في الأجازة؟
+translation: Shall we come visit you during the vacation?
+vocab:
+- arz/نجي

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: سكرين الموبايل اتكسر ولازم يتغير.
+translation: The phone screen is broken and must be replaced.
+vocab:
+- arz/سكرين

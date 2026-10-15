@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: التعليم ليه تأثير كبير على مستقبل الإنسان.
+translation: Education has a great impact on a person's future.
+vocab:
+- arz/تأثير

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الويك اند ده عندي شغل مهم لازم أخلصه.
+translation: This weekend I have important work I must finish.
+vocab:
+- arz/ويك-اند

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ؤول ما دخل المحل، لاقى كل المنتجات مرتبة بشكل جميل.
+translation: As soon as he entered the shop, he found all the products nicely arranged.
+vocab:
+- arz/ؤول

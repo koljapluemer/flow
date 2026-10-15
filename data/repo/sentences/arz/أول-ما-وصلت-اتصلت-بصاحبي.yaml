@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أول ما وصلت، اتصلت بصاحبي.
+translation: As soon as I arrived, I called my friend.
+vocab:
+- arz/اول

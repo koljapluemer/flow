@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بعد الخيانة قررت موف اون وأبدأ حياتي من جديد.
+translation: After the betrayal, I decided to move on and start my life anew.
+vocab:
+- arz/موف-اون

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حاسس بالألم في إيدي بعد الشغل.
+translation: I feel pain in my hand after work.
+vocab:
+- arz/يد

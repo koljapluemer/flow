@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: مشاعري بتتغير حسب الظروف حواليه.
+translation: My feelings change according to the circumstances around me.
+vocab:
+- arz/يتغير

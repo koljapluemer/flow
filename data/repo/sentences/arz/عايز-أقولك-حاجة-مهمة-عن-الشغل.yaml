@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: عايز أقولك حاجة مهمة عن الشغل.
+translation: I want to tell you something important about work.
+vocab:
+- arz/اقول

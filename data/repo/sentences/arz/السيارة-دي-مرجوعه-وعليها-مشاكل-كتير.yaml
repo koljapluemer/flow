@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: السيارة دي مرجوعه وعليها مشاكل كتير.
+translation: This car is returned and it has many problems.
+vocab:
+- arz/مرجوع

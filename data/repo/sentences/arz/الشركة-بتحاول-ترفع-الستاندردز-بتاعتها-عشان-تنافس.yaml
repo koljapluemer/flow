@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الشركة بتحاول ترفع الستاندردز بتاعتها عشان تنافس.
+translation: The company is trying to raise its standards to compete.
+vocab:
+- arz/ستاندردز

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: العلاقات بين الناس بتتحسن مع الوقت.
+translation: Relationships between people improve over time.
+vocab:
+- arz/علاقات

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الفيلم ده كان جامد جدًا وعايز أشوفه تاني.
+translation: That movie was really great and I want to watch it again.
+vocab:
+- arz/جامد

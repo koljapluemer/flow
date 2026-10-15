@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هو رابع أخواته في العيلة ويحب يلعب مع الباقيين.
+translation: He is the fourth among his siblings and loves to play with the others.
+vocab:
+- arz/رابع

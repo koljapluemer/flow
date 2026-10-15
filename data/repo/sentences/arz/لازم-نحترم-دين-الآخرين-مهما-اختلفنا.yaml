@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لازم نحترم دين الآخرين مهما اختلفنا.
+translation: We must respect others' religion no matter how much we differ.
+vocab:
+- arz/دين

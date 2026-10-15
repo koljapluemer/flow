@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: المعاملات الاجتماعية مهمة لعلاقات ناجحة.
+translation: Social dealings are important for successful relationships.
+vocab:
+- arz/معامله

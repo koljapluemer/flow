@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: القصة دي مبنية على حقيقة حصلت فعلاً.
+translation: This story is based on a true event.
+vocab:
+- arz/حقيقة

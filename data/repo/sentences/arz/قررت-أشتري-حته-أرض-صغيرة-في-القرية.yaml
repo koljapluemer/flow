@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: قررت أشتري حته أرض صغيرة في القرية.
+translation: I decided to buy a small piece of land in the village.
+vocab:
+- arz/حته

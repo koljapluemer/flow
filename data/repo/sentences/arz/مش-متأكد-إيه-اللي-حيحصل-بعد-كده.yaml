@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: مش متأكد إيه اللي حيحصل بعد كده.
+translation: I'm not sure what will happen next.
+vocab:
+- arz/يحصل

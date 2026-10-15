@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الشغل في المشروع الجديد ممتع ومفيد.
+translation: Working on the new project is fun and beneficial.
+vocab:
+- arz/شغل

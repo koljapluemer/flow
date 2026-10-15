@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الكلمة دي مش مناسبة في الموقف دا.
+translation: That word is not suitable for this situation.
+vocab:
+- arz/كلمة

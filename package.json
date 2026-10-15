@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.3.2",
+    "debug": "4.4.3",
     "dexie": "^4.4.4",
     "lucide-vue-next": "^1.0.0",
     "tailwindcss": "^4.3.2",
@@ -23,6 +24,7 @@
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "@tsconfig/node18": "^18.2.6",
+    "@types/debug": "4.1.13",
     "@types/node": "^26.2.0",
     "@vitejs/plugin-vue": "^6.0.7",
     "@vue/tsconfig": "^0.9.1",

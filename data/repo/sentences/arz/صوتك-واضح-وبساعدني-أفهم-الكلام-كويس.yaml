@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: صوتك واضح وبساعدني أفهم الكلام كويس.
+translation: Your voice is clear and helps me understand the speech well.
+vocab:
+- arz/صوت

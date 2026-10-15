@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اكتب اسمك هنا من فضلك.
+translation: Write your name here please.
+vocab:
+- arz/اكتب

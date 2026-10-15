@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الفشل مش نهاية الطريق، ده درس للتعلم.
+translation: Failure is not the end of the road; it is a lesson to learn.
+vocab:
+- arz/فشل

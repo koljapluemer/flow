@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حسيت فرق كبير بعد ما بدأت أتمرن بانتظام.
+translation: I felt a big difference after I started exercising regularly.
+vocab:
+- arz/فرق

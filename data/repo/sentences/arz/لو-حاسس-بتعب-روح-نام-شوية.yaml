@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لو حاسس بتعب، روح نام شوية.
+translation: If you feel tired, go sleep a little.
+vocab:
+- arz/روح

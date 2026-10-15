@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اللاعب دخل كاما بعد الإصابة القوية في المباراة.
+translation: The player fell into a coma after the severe injury in the match.
+vocab:
+- arz/كاما

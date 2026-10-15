@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بنزل فلوج جديد كل أسبوع على قناتي.
+translation: I upload a new vlog every week on my channel.
+vocab:
+- arz/فلوج

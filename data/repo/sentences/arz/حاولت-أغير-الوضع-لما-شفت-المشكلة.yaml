@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حاولت أغير الوضع لما شفت المشكلة.
+translation: I tried to change the situation when I saw the problem.
+vocab:
+- arz/وضع

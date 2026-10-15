@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: خلصت الواجب قبل ميعاد التسليم.
+translation: I finished the homework before the deadline.
+vocab:
+- arz/قبل

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الملاعب الجديدة هتودي الشباب لفرص أفضل.
+translation: The new fields will lead the youth to better opportunities.
+vocab:
+- arz/يودي

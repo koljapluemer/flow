@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ليه دايمًا متأخر في الشغل؟
+translation: Why are you always late for work?
+vocab:
+- arz/ليه

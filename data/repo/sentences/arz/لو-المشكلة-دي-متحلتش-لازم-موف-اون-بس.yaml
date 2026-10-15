@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لو المشكلة دي متحلتش، لازم موف اون بس.
+translation: If this problem doesn't get solved, you have to move on.
+vocab:
+- arz/موف-اون

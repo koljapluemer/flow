@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هروح لك الحفلة حتى لو كنت تعبان.
+translation: I will go to the party even if I am tired.
+vocab:
+- arz/حتى-لو

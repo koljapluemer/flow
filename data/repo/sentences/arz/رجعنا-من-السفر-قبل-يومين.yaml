@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: رجعنا من السفر قبل يومين.
+translation: We came back from the trip two days ago.
+vocab:
+- arz/رجع

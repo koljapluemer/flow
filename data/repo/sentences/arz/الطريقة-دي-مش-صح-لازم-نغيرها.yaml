@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الطريقة دي مش صح، لازم نغيرها.
+translation: This way is not correct; we have to change it.
+vocab:
+- arz/طريقه

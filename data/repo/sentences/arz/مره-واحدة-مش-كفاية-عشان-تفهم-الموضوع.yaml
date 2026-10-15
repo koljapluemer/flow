@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: مره واحدة مش كفاية عشان تفهم الموضوع.
+translation: One time isn't enough to understand the topic.
+vocab:
+- arz/مره

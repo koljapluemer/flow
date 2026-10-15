@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ممكن تساعدني أاصلح الكمبيوتر بتاعي؟
+translation: Can you help me fix my computer?
+vocab:
+- arz/اصلح

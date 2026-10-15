@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: نفسي أتعلم لغة جديدة السنة دي.
+translation: I want to learn a new language this year.
+vocab:
+- arz/نفسي

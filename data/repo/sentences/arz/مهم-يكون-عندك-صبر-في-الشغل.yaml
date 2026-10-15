@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: مهم يكون عندك صبر في الشغل.
+translation: It's important to have patience at work.
+vocab:
+- arz/يكون

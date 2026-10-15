@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لو عملت كده، تستاهل الجزاء.
+translation: If you do that, you deserve the punishment.
+vocab:
+- arz/استاهل

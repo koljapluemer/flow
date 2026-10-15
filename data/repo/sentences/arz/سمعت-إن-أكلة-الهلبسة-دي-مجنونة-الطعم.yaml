@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: سمعت إن أكلة الهلبسة دي مجنونة الطعم.
+translation: I heard that that hillbesa dish is crazy delicious.
+vocab:
+- arz/مجن

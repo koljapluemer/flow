@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الشخص المناسب للوظيفة دي متواجد هنا.
+translation: The right person for this job is here.
+vocab:
+- arz/شخص

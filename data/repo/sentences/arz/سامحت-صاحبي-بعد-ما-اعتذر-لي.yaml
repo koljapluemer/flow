@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: سامحت صاحبي بعد ما اعتذر لي.
+translation: I forgave my friend after he apologized to me.
+vocab:
+- arz/سامح

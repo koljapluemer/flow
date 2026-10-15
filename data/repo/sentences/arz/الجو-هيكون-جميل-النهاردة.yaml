@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الجو هيكون جميل النهاردة.
+translation: The weather will be nice today.
+vocab:
+- arz/يكون

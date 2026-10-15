@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: التعب أثر على صحتي واللازم أرتاح.
+translation: The fatigue affected my health, so I need to rest.
+vocab:
+- arz/تعب

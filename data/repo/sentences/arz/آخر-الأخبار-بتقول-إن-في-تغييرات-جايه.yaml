@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: آخر الأخبار بتقول إن في تغييرات جايه.
+translation: The latest news says there are upcoming changes.
+vocab:
+- arz/آخر

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: صلي الفجر في الجامعة مع أصحابك.
+translation: Pray Fajr at the university with your friends.
+vocab:
+- arz/صلي-الفجر

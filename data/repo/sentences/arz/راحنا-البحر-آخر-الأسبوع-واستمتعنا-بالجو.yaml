@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: راحنا البحر آخر الأسبوع واستمتعنا بالجو.
+translation: We went to the sea last weekend and enjoyed the weather.
+vocab:
+- arz/راح

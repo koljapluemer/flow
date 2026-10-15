@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اختلطت الألوان في الرسم بالخطأ.
+translation: The colors got mixed up in the painting by mistake.
+vocab:
+- arz/اختلط

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ما ينفعش تستمر في الشغل ده والتعب ظاهر عليك.
+translation: You can't continue this work; the tiredness is obvious on you.
+vocab:
+- arz/تعب

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: مافيش فايدة من كلام فارغ.
+translation: There is no use in empty talk.
+vocab:
+- arz/مافيش

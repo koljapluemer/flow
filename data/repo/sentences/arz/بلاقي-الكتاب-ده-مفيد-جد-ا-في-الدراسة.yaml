@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بلاقي الكتاب ده مفيد جدًا في الدراسة.
+translation: I find this book very useful in studying.
+vocab:
+- arz/بلاقي

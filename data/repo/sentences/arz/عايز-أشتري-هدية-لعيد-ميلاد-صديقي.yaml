@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: عايز أشتري هدية لعيد ميلاد صديقي.
+translation: I want to buy a gift for my friend's birthday.
+vocab:
+- arz/عايز

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: كان في معامله حسنة بين الزملاء في الشغل.
+translation: There was good treatment among colleagues at work.
+vocab:
+- arz/معامله

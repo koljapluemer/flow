@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لازم تتعلم مهارات جديدة عشان تطور نفسك.
+translation: You must learn new skills to develop yourself.
+vocab:
+- arz/تعلم

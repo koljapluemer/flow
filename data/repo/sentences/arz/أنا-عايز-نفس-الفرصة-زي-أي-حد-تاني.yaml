@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: أنا عايز نفس الفرصة زي أي حد تاني.
+translation: I want the same opportunity as anyone else.
+vocab:
+- arz/نفس

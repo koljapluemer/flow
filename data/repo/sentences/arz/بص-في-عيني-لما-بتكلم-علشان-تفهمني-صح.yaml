@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بص في عيني لما بتكلم علشان تفهمني صح.
+translation: Look into my eyes when I speak so you understand me properly.
+vocab:
+- arz/بص

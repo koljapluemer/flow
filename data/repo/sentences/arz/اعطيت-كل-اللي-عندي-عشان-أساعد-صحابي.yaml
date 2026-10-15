@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اعطيت كل اللي عندي عشان أساعد صحابي.
+translation: I gave all I have to help my friends.
+vocab:
+- arz/كل

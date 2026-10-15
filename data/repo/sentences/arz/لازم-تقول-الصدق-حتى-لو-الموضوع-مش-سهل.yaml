@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لازم تقول الصدق حتى لو الموضوع مش سهل.
+translation: You have to tell the truth even if the matter is not easy.
+vocab:
+- arz/صدق

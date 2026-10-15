@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الحاجات البسيطة دي بتفرحني جداً.
+translation: These simple things make me very happy.
+vocab:
+- arz/الحاجه

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ليه ما جيتش معانا الرحلة؟
+translation: Why didn't you come with us on the trip?
+vocab:
+- arz/ليه

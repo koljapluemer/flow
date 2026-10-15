@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: صلي ركعتين في المسجد.
+translation: Pray two units of prayer in the mosque.
+vocab:
+- arz/صلي

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: ذاكر كويس عشان الامتحان الجاي.
+translation: Study well for the upcoming exam.
+vocab:
+- arz/ذاكر

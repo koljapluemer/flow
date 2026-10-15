@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الداعم الجيد يساعد في تحقيق النجاح بسهولة.
+translation: A good supporter helps to achieve success easily.
+vocab:
+- arz/يساعد

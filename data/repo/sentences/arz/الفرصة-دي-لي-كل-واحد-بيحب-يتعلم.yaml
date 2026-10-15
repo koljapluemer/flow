@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الفرصة دي لي كل واحد بيحب يتعلم.
+translation: This opportunity is for everyone who loves to learn.
+vocab:
+- arz/لي

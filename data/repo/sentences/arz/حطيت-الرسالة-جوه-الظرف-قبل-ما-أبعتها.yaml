@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: حطيت الرسالة جوه الظرف قبل ما أبعتها.
+translation: I put the letter inside the envelope before sending it.
+vocab:
+- arz/ظرف

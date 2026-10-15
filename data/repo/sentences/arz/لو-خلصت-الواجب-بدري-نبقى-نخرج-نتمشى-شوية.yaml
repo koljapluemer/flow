@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لو خلصت الواجب بدري، نبقى نخرج نتمشى شوية.
+translation: If you finish the homework early, we can go out for a walk.
+vocab:
+- arz/نبقى

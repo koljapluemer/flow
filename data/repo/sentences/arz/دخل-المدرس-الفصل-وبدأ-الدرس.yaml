@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: دخل المدرس الفصل وبدأ الدرس.
+translation: The teacher entered the class and started the lesson.
+vocab:
+- arz/دخل

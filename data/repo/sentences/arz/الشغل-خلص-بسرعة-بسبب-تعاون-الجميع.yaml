@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الشغل خلص بسرعة بسبب تعاون الجميع.
+translation: The work finished quickly due to everyone's cooperation.
+vocab:
+- arz/خلص

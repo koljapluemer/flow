@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: مش معايا فلوس كتير اليوم، بس حنجرب نتسلى.
+translation: I don't have much money today, but we will try to have fun.
+vocab:
+- arz/فلوس

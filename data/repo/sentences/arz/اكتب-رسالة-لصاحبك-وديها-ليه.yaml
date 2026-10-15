@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: اكتب رسالة لصاحبك وديها ليه.
+translation: Write a letter to your friend and give it to him.
+vocab:
+- arz/اكتب

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لازم يبقى عندك فعل مش بس كلام.
+translation: You must have action, not just talk.
+vocab:
+- arz/افع

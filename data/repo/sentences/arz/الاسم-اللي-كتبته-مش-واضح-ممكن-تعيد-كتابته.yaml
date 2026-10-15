@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الاسم اللي كتبته مش واضح، ممكن تعيد كتابته؟
+translation: The name you wrote is not clear, can you rewrite it?
+vocab:
+- arz/اسم

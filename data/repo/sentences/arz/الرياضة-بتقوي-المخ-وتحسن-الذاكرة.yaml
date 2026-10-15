@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الرياضة بتقوي المخ وتحسن الذاكرة.
+translation: Exercise strengthens the brain and improves memory.
+vocab:
+- arz/مخ

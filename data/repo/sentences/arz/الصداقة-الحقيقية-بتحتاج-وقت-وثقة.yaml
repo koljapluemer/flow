@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الصداقة الحقيقية بتحتاج وقت وثقة.
+translation: True friendship requires time and trust.
+vocab:
+- arz/صداقة

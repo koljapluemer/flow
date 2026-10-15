@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: العيلة دايماً سند في الأوقات الصعبة.
+translation: The family is always a support in difficult times.
+vocab:
+- arz/عائل

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لو تيجي بدري، حتلاقي الناس مستنية.
+translation: If you come early, you’ll find people waiting.
+vocab:
+- arz/تيجي

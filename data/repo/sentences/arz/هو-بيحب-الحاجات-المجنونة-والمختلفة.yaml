@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: هو بيحب الحاجات المجنونة والمختلفة.
+translation: He likes crazy and different things.
+vocab:
+- arz/مجن

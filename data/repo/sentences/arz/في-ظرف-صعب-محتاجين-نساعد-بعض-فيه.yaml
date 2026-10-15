@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: في ظرف صعب محتاجين نساعد بعض فيه.
+translation: In a difficult circumstance, we need to help each other.
+vocab:
+- arz/ظرف

@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: فيه حد موجود في البيت دلوقتي؟
+translation: Is there anyone at home right now?
+vocab:
+- arz/موجود

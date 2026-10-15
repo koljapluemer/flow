@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: لو غلط حد في حقك، أحسن حاجة تسامحه.
+translation: If someone wrongs you, the best thing is to forgive them.
+vocab:
+- arz/سامح

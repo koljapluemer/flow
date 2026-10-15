@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بخصوص موضوع الشغل، فيه تحديث مهم.
+translation: Regarding the work matter, there's an important update.
+vocab:
+- arz/موضوع

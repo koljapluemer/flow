@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: جيل التكنولوجيا أكبر تحدياته استخدام الإنترنت الصحيح.
+translation: The technology generation's biggest challenge is using the internet properly.
+vocab:
+- arz/جيل

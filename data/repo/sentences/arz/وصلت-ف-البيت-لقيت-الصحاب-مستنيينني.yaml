@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: وصلت ف البيت لقيت الصحاب مستنيينني.
+translation: I arrived home and found my friends waiting for me.
+vocab:
+- arz/ف

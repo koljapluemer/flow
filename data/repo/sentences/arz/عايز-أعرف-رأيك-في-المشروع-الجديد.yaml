@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: عايز أعرف رأيك في المشروع الجديد.
+translation: I want to know your opinion about the new project.
+vocab:
+- arz/اعرف

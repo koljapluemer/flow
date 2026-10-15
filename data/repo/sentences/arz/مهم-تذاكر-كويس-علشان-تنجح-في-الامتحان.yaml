@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: مهم تذاكر كويس علشان تنجح في الامتحان.
+translation: It's important to study well to pass the exam.
+vocab:
+- arz/مهم

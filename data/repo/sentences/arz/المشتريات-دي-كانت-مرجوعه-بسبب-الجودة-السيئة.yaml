@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: المشتريات دي كانت مرجوعه بسبب الجودة السيئة.
+translation: These purchases were returned because of poor quality.
+vocab:
+- arz/مرجوع

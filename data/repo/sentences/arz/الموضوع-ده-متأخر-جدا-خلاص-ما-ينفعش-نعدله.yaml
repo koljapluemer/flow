@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الموضوع ده متأخر جداً، خلاص ما ينفعش نعدله.
+translation: This matter is very late, it's over, we can't fix it.
+vocab:
+- arz/خلاص

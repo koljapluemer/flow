@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: بعد الشغل الطويل، محتاج راحة شوية.
+translation: After long work, I need some rest.
+vocab:
+- arz/راحة

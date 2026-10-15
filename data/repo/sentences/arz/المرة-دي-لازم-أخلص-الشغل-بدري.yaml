@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: المرة دي لازم أخلص الشغل بدري.
+translation: This time I have to finish work early.
+vocab:
+- arz/مره

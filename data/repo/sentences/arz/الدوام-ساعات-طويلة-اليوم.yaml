@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: الدوام ساعات طويلة اليوم.
+translation: The working hours are long today.
+vocab:
+- arz/ساعات

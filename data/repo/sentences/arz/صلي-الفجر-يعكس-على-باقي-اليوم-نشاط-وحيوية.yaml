@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: صلي الفجر يعكس على باقي اليوم نشاط وحيوية.
+translation: Praying Fajr reflects on the rest of the day with energy and vitality.
+vocab:
+- arz/صلي-الفجر

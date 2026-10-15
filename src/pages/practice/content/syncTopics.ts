@@ -1,45 +1,34 @@
-import type { SentenceRow, VocabRow } from '@/db/db'
 import { fetchJson } from '@/dumb/fetchJson'
-import { putTopicSentences } from '@/entities/sentence/sentence'
-import { putVocab } from '@/entities/vocab/vocab'
+import { logger } from '@/dumb/log'
+import { putTopicGestalts } from '@/entities/gestalt/gestalt'
+import { decodeSentences, putSentences, type SentenceTuple } from '@/entities/sentence/sentence'
+import { decodeVideos, putSnippets, type VideoTuple } from '@/entities/snippet/snippet'
+import { decodeVocab, putVocab, type VocabTuple } from '@/entities/vocab/vocab'
+import { mergeGestalts, topicGestalts, type TopicContent } from './topicGestalts'
 
-// Compact format rendered by cms/render.py; sentences reference vocab by index.
-type TopicFile = {
-  v: [id: string, word: string, translation: string][]
-  s: [id: string, text: string, translation: string, vocabIndexes: number[]][]
-}
+const log = logger('sync')
 
-function fetchTopic(topicId: string): Promise<TopicFile> {
-  return fetchJson<TopicFile>(`/data/topics/${topicId}.json`)
-}
+// Compact format rendered by cms/render.py.
+type TopicFile = { v: VocabTuple[]; s: SentenceTuple[]; y: VideoTuple[] }
 
-function decodeVocab(file: TopicFile): VocabRow[] {
-  return file.v.map(([id, word, translation]) => ({ id, word, translation }))
-}
-
-function decodeSentences(file: TopicFile, topicId: string): SentenceRow[] {
-  return file.s.map(([id, text, translation, vocabIndexes]) => ({
-    id,
-    text,
-    translation,
-    vocabIds: vocabIndexes.map((index) => file.v[index][0]),
-    topicIds: [topicId]
-  }))
-}
-
-// A sentence shared by several topics is stored once, listing all of them.
-function mergeSentences(rows: SentenceRow[]): SentenceRow[] {
-  const merged = new Map<string, SentenceRow>()
-  for (const row of rows) {
-    const existing = merged.get(row.id)
-    merged.set(row.id, { ...row, topicIds: [...(existing?.topicIds ?? []), ...row.topicIds] })
+async function fetchTopic(topicId: string): Promise<TopicContent> {
+  const file = await fetchJson<TopicFile>(`/data/topics/${topicId}.json`)
+  const vocabIds = file.v.map(([id]) => id)
+  const content = {
+    vocab: decodeVocab(file.v),
+    sentences: decodeSentences(file.s, vocabIds),
+    snippets: decodeVideos(file.y, vocabIds)
   }
-  return [...merged.values()]
+  log('%s: %d vocab, %d sentences, %d snippets', topicId, file.v.length, file.s.length, content.snippets.length)
+  return content
 }
 
 // Copies the current content of the given topics into Dexie.
 export async function syncTopics(topicIds: string[]): Promise<void> {
-  const files = await Promise.all(topicIds.map(fetchTopic))
-  await putVocab(files.flatMap(decodeVocab))
-  await putTopicSentences(topicIds, mergeSentences(files.flatMap((file, index) => decodeSentences(file, topicIds[index]))))
+  const contents = await Promise.all(topicIds.map(fetchTopic))
+  await putVocab(contents.flatMap((content) => content.vocab))
+  await putSentences(contents.flatMap((content) => content.sentences))
+  await putSnippets(contents.flatMap((content) => content.snippets))
+  const gestalts = contents.flatMap((content, index) => topicGestalts(content, topicIds[index]))
+  await putTopicGestalts(topicIds, mergeGestalts(gestalts))
 }
