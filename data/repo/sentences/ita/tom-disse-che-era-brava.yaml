@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Tom disse che era brava.
+translation: Tom said you were good.
+vocab:
+- ita/brava
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

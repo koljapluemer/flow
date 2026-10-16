@@ -10,3 +10,4 @@ How content is produced is in the root `README.md`. These docs cover the app:
 - `algorithm-details.md`: one queue step in detail, goals, tuning knobs.
 - `exercise-types.md`: the exercise types and how to add one.
 - `debugging.md`: logging and the exercise preview.
+- `credits.md`: attribution of third-party content.

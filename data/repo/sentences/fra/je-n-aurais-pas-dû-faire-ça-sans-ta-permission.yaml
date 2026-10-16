@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je n'aurais pas dû faire ça sans ta permission.
+translation: I shouldn't have done that without permission.
+vocab:
+- fra/je-2
+- fra/n-aurais
+- fra/pas
+- fra/dû
+- fra/faire
+- fra/ça
+- fra/sans
+- fra/ta
+- fra/permission
+credits:
+- author: Aiji
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

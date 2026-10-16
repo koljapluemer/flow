@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je ne supporte pas les gens qui sont gentils avec tout le monde.
+translation: Me, I hate people who are indiscriminately friendly.
+vocab:
+- fra/je-2
+- fra/ne
+- fra/supporte
+- fra/pas
+- fra/les
+- fra/gens
+- fra/qui
+- fra/sont
+- fra/gentils
+- fra/avec
+- fra/tout
+- fra/le
+- fra/monde
+credits:
+- author: gillux
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: peterius
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

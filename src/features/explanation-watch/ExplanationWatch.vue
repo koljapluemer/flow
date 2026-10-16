@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import type { ExplanationAnswer } from '@/db/db'
+import CreditList from '@/dumb/CreditList.vue'
 import VideoClip from '@/dumb/video/VideoClip.vue'
 import type { ExplanationView } from './explanationWatch'
 
@@ -19,6 +20,7 @@ const answers: { label: string; value: ExplanationAnswer }[] = [
     :platform="view.platform"
     :video-id="view.videoId"
   />
+  <CreditList :credits="view.credits" />
   <div class="grid w-full grid-cols-2 gap-2 sm:grid-cols-4">
     <button
       v-for="answer in answers"

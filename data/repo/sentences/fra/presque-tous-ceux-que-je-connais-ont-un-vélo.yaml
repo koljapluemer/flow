@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Presque tous ceux que je connais ont un vélo.
+translation: Almost everyone I know has a bicycle.
+vocab:
+- fra/presque
+- fra/tous
+- fra/ceux
+- fra/que
+- fra/je
+- fra/connais
+- fra/ont
+- fra/un
+- fra/vélo
+credits:
+- author: Aiji
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: È difficile restare calmi quando le scadenze vengono ignorate.
+translation: It's hard to stay calm when deadlines are ignored.
+vocab:
+- ita/quando
+credits:
+- author: Nuel
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

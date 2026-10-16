@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Quelles sont les limites de la connaissance humaine ?
+translation: What are the limits of human knowledge?
+vocab:
+- fra/quelles-2
+- fra/sont
+- fra/les
+- fra/limites
+- fra/de
+- fra/la
+- fra/connaissance
+- fra/humaine
+credits:
+- author: Micsmithel
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: Eccles17
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

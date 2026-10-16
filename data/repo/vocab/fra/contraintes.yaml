@@ -1,0 +1,3 @@
+# yaml-language-server: $schema=../../schema/vocab.schema.json
+lemma: contraintes
+translation: constraints/limitations/restrictions/requirements

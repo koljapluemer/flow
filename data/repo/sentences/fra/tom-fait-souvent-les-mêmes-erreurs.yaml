@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Tom fait souvent les mêmes erreurs.
+translation: Tom often makes the same mistakes.
+vocab:
+- fra/tom
+- fra/fait
+- fra/souvent
+- fra/les
+- fra/mêmes
+- fra/erreurs
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: Eccles17
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

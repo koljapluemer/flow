@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Tom regarde toujours la télévision.
+translation: Tom is always watching TV.
+vocab:
+- fra/tom
+- fra/regarde
+- fra/toujours
+- fra/la
+- fra/télévision
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: Eldad
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

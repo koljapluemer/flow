@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: I personal computer sono molto utili.
+translation: Personal computers are very useful.
+vocab:
+- ita/computer
+credits:
+- author: riccioberto
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

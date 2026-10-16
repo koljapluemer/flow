@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Les blessures de Tom ne sont pas considérées comme une menace pour sa vie.
+translation: Tom's injuries aren't considered life-threatening.
+vocab:
+- fra/les-2
+- fra/blessures
+- fra/de
+- fra/tom
+- fra/ne
+- fra/sont
+- fra/pas
+- fra/considérées
+- fra/comme
+- fra/une
+- fra/menace
+- fra/pour
+- fra/sa
+- fra/vie
+credits:
+- author: Aiji
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

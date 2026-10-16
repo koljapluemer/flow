@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Il s'entend bien avec toutes les personnes de sa classe.
+translation: He gets along with everyone in his class.
+vocab:
+- fra/il-2
+- fra/s-entend
+- fra/bien
+- fra/avec
+- fra/toutes
+- fra/les
+- fra/personnes
+- fra/de
+- fra/sa
+- fra/classe
+credits:
+- author: Aiji
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: tabular
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

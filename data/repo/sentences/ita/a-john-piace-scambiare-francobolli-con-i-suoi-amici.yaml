@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A John piace scambiare francobolli con i suoi amici.
+translation: John likes to trade stamps with his friends.
+vocab:
+- ita/a-2
+- ita/john
+- ita/piace
+- ita/scambiare
+- ita/francobolli
+- ita/con
+- ita/i
+- ita/suoi
+- ita/amici
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CN
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

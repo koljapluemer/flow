@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A Dio piacendo, lo farò domani.
+translation: God willing, I will do it tomorrow.
+vocab:
+- ita/a-2
+- ita/dio
+- ita/piacendo
+- ita/lo
+- ita/farò
+- ita/domani
+credits:
+- author: carlosalberto
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

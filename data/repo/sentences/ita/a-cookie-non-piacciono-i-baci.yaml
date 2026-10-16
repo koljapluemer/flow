@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A Cookie non piacciono i baci.
+translation: Cookie doesn't like kisses.
+vocab:
+- ita/a-2
+- ita/cookie
+- ita/non
+- ita/piacciono
+- ita/i
+- ita/baci
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: Miktsoanit
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

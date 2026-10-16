@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Cookie ha 15 anni.
+translation: Cookie is 15.
+vocab:
+- ita/15
+- ita/anni
+- ita/cookie
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Les tortues sont des reptiles.
+translation: Turtles are reptiles.
+vocab:
+- fra/les-2
+- fra/tortues
+- fra/sont
+- fra/des
+- fra/reptiles
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: cariito
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

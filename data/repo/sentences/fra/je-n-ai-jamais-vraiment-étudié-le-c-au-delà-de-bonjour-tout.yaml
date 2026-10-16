@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je n'ai jamais vraiment étudié le C++ au-delà de « Bonjour tout le monde ! »
+translation: I never really studied C++ beyond "Hello, world!"
+vocab:
+- fra/je-2
+- fra/n-ai
+- fra/jamais
+- fra/vraiment
+- fra/étudié
+- fra/le
+- fra/c
+- fra/au-delà
+- fra/de
+- fra/bonjour
+- fra/tout
+- fra/monde
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: FlamingTofu
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

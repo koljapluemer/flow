@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Il signor Jones crede nel duro lavoro e nei profitti.
+translation: Mr Jones believes in hard work and profits.
+vocab:
+- ita/lavoro
+- ita/e
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Tom chiese a Mary se lei si fidava di John.
+translation: Tom asked Mary if she trusted John.
+vocab:
+- ita/se
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

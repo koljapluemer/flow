@@ -3,6 +3,7 @@ import { logger } from '@/dumb/log'
 import { reviewExerciseCard, type Exercise, type ExerciseResult } from '@/entities/exercise/exercise'
 import { answerExplanation } from '@/entities/explanation/explanation'
 import { reviewGestaltCards } from '@/entities/gestalt-card/gestaltCard'
+import { markShown } from '@/entities/shown-gestalt/shownGestalt'
 import { maybeSpawnRepairGoals } from './goals/goalLifecycle'
 import type { QueueState } from './queueState'
 
@@ -17,9 +18,10 @@ async function rateExercise(exercise: Exercise, rating: Grade, state: QueueState
   if (rating === Rating.Again || rating === Rating.Hard) await maybeSpawnRepairGoals(state, exercise.gestaltIds, now)
 }
 
-// Grades go to FSRS; answers to explanatory videos are stored as they are.
+// Grades go to FSRS, ungraded showings are recorded, answers to explanatory videos are stored as they are.
 export async function recordResult(exercise: Exercise, result: ExerciseResult, state: QueueState): Promise<void> {
   if (typeof result === 'number') return rateExercise(exercise, result, state)
-  await answerExplanation(exercise.contentId, result)
+  if (result === 'shown') await markShown(exercise.gestaltIds)
+  else await answerExplanation(exercise.contentId, result)
   log('%s: %s', exercise.id, result)
 }

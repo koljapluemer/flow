@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Tom ha detto a Mary che sarebbe stato libero domani.
+translation: Tom told Mary that he'd be free tomorrow.
+vocab:
+- ita/mary
+- ita/sarebbe
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Les secteurs à haute concentration de capital ne sont pas nécessairement ceux à haute concentration de matière grise.
+translation: Capital-intensive industries are not necessarily knowledge-intensive industries.
+vocab:
+- fra/les-2
+- fra/secteurs
+- fra/à
+- fra/haute
+- fra/concentration
+- fra/de
+- fra/capital
+- fra/ne
+- fra/sont
+- fra/pas
+- fra/nécessairement
+- fra/ceux
+- fra/matière
+- fra/grise
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: \N
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

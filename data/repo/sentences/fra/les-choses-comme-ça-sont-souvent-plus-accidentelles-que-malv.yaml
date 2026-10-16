@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Les choses comme ça sont souvent plus accidentelles que malveillantes.
+translation: Such things are often accidental rather than malicious.
+vocab:
+- fra/les-2
+- fra/choses
+- fra/comme
+- fra/ça
+- fra/sont
+- fra/souvent
+- fra/plus
+- fra/accidentelles
+- fra/que
+- fra/malveillantes
+credits:
+- author: Aiji
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: AlanF_US
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

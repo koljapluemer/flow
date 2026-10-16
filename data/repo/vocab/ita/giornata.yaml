@@ -1,0 +1,3 @@
+# yaml-language-server: $schema=../../schema/vocab.schema.json
+lemma: giornata
+translation: day/workday/daily/daytime

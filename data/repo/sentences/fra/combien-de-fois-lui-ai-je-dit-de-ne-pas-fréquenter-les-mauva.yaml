@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Combien de fois lui ai-je dit de ne pas fréquenter les mauvaises personnes !
+translation: I keep telling them to avoid dubious company!
+vocab:
+- fra/combien
+- fra/de
+- fra/fois
+- fra/lui
+- fra/ai-je
+- fra/dit
+- fra/ne
+- fra/pas
+- fra/fréquenter
+- fra/les
+- fra/mauvaises
+- fra/personnes
+credits:
+- author: anzart
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: L'abbiamo perso di vista.
+translation: We lost sight of him.
+vocab:
+- ita/di
+- ita/abbiamo-2
+credits:
+- author: martin
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Ne lui en dis rien.
+translation: Don't tell her about it.
+vocab:
+- fra/ne-2
+- fra/lui
+- fra/en
+- fra/dis-2
+- fra/rien
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

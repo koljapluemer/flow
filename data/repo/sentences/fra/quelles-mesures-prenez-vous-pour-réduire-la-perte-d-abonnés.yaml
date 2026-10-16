@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Quelles mesures prenez-vous pour réduire la perte d'abonnés ?
+translation: What measures are you taking to reduce churn?
+vocab:
+- fra/quelles-2
+- fra/mesures
+- fra/prenez
+- fra/vous
+- fra/pour
+- fra/réduire
+- fra/la
+- fra/perte
+- fra/d-abonnés
+credits:
+- author: lbdx
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: bekindtoall
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

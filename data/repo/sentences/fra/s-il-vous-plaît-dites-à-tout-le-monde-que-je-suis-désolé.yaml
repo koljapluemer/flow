@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: S'il vous plaît, dites à tout le monde que je suis désolé.
+translation: Please tell everyone I'm sorry.
+vocab:
+- fra/s-il-2
+- fra/vous
+- fra/plaît
+- fra/dites-2
+- fra/à
+- fra/tout
+- fra/le
+- fra/monde
+- fra/que
+- fra/je
+- fra/suis
+- fra/désolé
+credits:
+- author: pititnatole
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

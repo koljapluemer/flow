@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A Mary mancavano le sue amiche.
+translation: Mary missed her friends.
+vocab:
+- ita/a-2
+- ita/mary
+- ita/mancavano
+- ita/le
+- ita/sue
+- ita/amiche
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: Hybrid
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Credit",
+  "description": "Attribution of a third-party work: author, source, license",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["author", "source", "license"],
+  "properties": {
+    "author": { "type": "string", "minLength": 1 },
+    "source": { "description": "Where the work comes from, e.g. Tatoeba", "type": "string", "minLength": 1 },
+    "source_url": { "type": "string", "format": "uri" },
+    "license": { "description": "e.g. CC BY 2.0 FR", "type": "string", "minLength": 1 },
+    "license_url": { "type": "string", "format": "uri" }
+  }
+}

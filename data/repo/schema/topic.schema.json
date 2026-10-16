@@ -6,11 +6,11 @@
   "required": ["title"],
   "properties": {
     "title": { "type": "string", "minLength": 1 },
-    "sentences": {
-      "description": "Sentence refs (<lang>/<slug>), in any languages",
+    "sets": {
+      "description": "Set ids",
       "type": "array",
       "uniqueItems": true,
-      "items": { "type": "string", "pattern": "^[a-z]{3}/[^/]+$" }
+      "items": { "type": "string", "minLength": 1 }
     },
     "videos": {
       "description": "Video refs (<lang>/<platform id>), in any languages",

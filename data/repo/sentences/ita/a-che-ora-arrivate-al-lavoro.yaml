@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A che ora arrivate al lavoro?
+translation: What time do you arrive at work?
+vocab:
+- ita/a-2
+- ita/che
+- ita/ora
+- ita/arrivate
+- ita/al
+- ita/lavoro
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: Amastan
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

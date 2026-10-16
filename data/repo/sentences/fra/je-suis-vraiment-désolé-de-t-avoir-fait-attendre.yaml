@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je suis vraiment désolé de t'avoir fait attendre.
+translation: I am so sorry to have kept you waiting.
+vocab:
+- fra/je-2
+- fra/suis
+- fra/vraiment
+- fra/désolé
+- fra/de
+- fra/t-avoir
+- fra/fait
+- fra/attendre
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: kolin2009
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

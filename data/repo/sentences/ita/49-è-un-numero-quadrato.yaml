@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: 49 è un numero quadrato.
+translation: 49 is a square number.
+vocab:
+- ita/49
+- ita/è
+- ita/un
+- ita/numero
+- ita/quadrato
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: araneo
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

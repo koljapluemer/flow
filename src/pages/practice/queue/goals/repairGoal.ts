@@ -4,7 +4,7 @@ import { relatedOf, type QueueState } from '../queueState'
 // Repair goal: after a composite gestalt was failed, practice each of its
 // related gestalts once.
 
-function reviewedSince(card: GestaltCardRow | undefined, since: Date): boolean {
+export function reviewedSince(card: GestaltCardRow | undefined, since: Date): boolean {
   return card?.last_review !== undefined && card.last_review >= since
 }
 

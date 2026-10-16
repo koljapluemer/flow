@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Arrêtez de faire celle qui n'est pas intéressée !
+translation: Stop playing hard to get.
+vocab:
+- fra/arrêtez
+- fra/de
+- fra/faire
+- fra/celle
+- fra/qui
+- fra/n-est
+- fra/pas
+- fra/intéressée
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

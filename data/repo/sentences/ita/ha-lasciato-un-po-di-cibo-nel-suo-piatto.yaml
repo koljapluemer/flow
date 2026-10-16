@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Ha lasciato un po' di cibo nel suo piatto.
+translation: He left some food on his plate.
+vocab:
+- ita/po
+- ita/suo
+- ita/cibo
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

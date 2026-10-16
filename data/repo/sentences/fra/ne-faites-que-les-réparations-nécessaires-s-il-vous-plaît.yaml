@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Ne faites que les réparations nécessaires, s'il vous plaît.
+translation: Just do the essential repairs, please.
+vocab:
+- fra/ne-2
+- fra/faites
+- fra/que
+- fra/les
+- fra/réparations
+- fra/nécessaires
+- fra/s-il
+- fra/vous
+- fra/plaît
+credits:
+- author: Tamy
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

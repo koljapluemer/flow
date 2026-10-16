@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Ma rédaction en kabyle contient beaucoup de fautes.
+translation: My composition in Kabyle contains many mistakes.
+vocab:
+- fra/ma-2
+- fra/rédaction
+- fra/en
+- fra/kabyle
+- fra/contient
+- fra/beaucoup
+- fra/de
+- fra/fautes
+credits:
+- author: anzart
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

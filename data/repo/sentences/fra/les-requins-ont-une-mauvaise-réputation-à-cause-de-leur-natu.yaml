@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Les requins ont une mauvaise réputation à cause de leur nature assoiffée de sang.
+translation: Sharks are infamous for their bloodthirsty natures.
+vocab:
+- fra/les-2
+- fra/requins
+- fra/ont
+- fra/une
+- fra/mauvaise
+- fra/réputation
+- fra/à
+- fra/cause
+- fra/de
+- fra/leur
+- fra/nature
+- fra/assoiffée
+- fra/sang
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: alpucca
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

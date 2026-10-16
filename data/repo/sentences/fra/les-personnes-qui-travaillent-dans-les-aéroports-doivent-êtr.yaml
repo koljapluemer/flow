@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Les personnes qui travaillent dans les aéroports doivent être capables de passer d'une langue à l'autre très rapidement.
+translation: Please don't distract me.
+vocab:
+- fra/les-2
+- fra/personnes
+- fra/qui
+- fra/travaillent
+- fra/dans
+- fra/les
+- fra/aéroports
+- fra/doivent
+- fra/être
+- fra/capables
+- fra/de
+- fra/passer
+- fra/d-une
+- fra/langue
+- fra/à
+- fra/l-autre
+- fra/très
+- fra/rapidement
+credits:
+- author: lbdx
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: AlanF_US
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

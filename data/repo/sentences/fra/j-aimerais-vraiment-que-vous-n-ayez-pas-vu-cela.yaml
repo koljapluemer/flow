@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: J'aimerais vraiment que vous n'ayez pas vu cela.
+translation: I really wish you hadn't seen that.
+vocab:
+- fra/j-aimerais
+- fra/vraiment
+- fra/que
+- fra/vous
+- fra/n-ayez
+- fra/pas
+- fra/vu
+- fra/cela
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

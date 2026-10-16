@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Combien de chansons Tom et Mary ont-ils chanté ensemble ?
+translation: How many songs did Tom and Mary sing together?
+vocab:
+- fra/combien
+- fra/de
+- fra/chansons
+- fra/tom
+- fra/et
+- fra/mary
+- fra/ont
+- fra/ils
+- fra/chanté
+- fra/ensemble
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Est-ce que quelqu'un ici est intéressé par l'étude du français ?
+translation: Is anyone here interested in studying French?
+vocab:
+- fra/est-ce
+- fra/que
+- fra/quelqu-un
+- fra/ici
+- fra/est
+- fra/intéressé
+- fra/par
+- fra/l-étude
+- fra/du
+- fra/français
+credits:
+- author: genes1s
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

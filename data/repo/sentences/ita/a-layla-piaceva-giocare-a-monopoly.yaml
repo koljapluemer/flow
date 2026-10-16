@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A Layla piaceva giocare a Monopoly.
+translation: Layla liked to play Monopoly.
+vocab:
+- ita/a-2
+- ita/layla
+- ita/piaceva
+- ita/giocare
+- ita/a
+- ita/monopoly
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: OsoHombre
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

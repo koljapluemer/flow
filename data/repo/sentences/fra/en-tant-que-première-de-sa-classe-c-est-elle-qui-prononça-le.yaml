@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: En tant que première de sa classe, c'est elle qui prononça le discours de remise des diplômes.
+translation: She was the valedictorian of her class.
+vocab:
+- fra/en-tant-que
+- fra/première
+- fra/de
+- fra/sa
+- fra/classe
+- fra/c-est-3
+- fra/elle-2
+- fra/qui
+- fra/prononça
+- fra/le
+- fra/discours
+- fra/remise
+- fra/des
+- fra/diplômes
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: Hybrid
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

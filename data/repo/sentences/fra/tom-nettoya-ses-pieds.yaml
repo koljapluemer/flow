@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Tom nettoya ses pieds.
+translation: Tom scrubbed his feet.
+vocab:
+- fra/tom
+- fra/nettoya
+- fra/ses
+- fra/pieds
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

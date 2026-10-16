@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A Layla piaceva la sua vita al Cairo.
+translation: Layla was enjoying her life in Cairo.
+vocab:
+- ita/a-2
+- ita/layla
+- ita/piaceva
+- ita/la
+- ita/sua
+- ita/vita
+- ita/al
+- ita/cairo
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: OsoHombre
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

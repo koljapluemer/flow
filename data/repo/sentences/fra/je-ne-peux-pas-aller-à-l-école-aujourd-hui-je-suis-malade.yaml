@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je ne peux pas aller à l'école aujourd'hui. Je suis malade.
+translation: I can't go to school today. I'm sick.
+vocab:
+- fra/je-2
+- fra/ne
+- fra/peux
+- fra/pas
+- fra/aller
+- fra/à
+- fra/l-école
+- fra/aujourd-hui-2
+- fra/suis
+- fra/malade
+credits:
+- author: lbdx
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

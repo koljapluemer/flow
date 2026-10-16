@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Quel musée aimerais-tu visiter en premier ?
+translation: Which museum would you like to visit first?
+vocab:
+- fra/quel
+- fra/musée
+- fra/aimerais
+- fra/tu
+- fra/visiter
+- fra/en
+- fra/premier
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

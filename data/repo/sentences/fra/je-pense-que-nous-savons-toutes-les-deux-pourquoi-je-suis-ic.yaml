@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je pense que nous savons toutes les deux pourquoi je suis ici.
+translation: I think we both know why I'm here.
+vocab:
+- fra/je-2
+- fra/pense
+- fra/que
+- fra/nous
+- fra/savons
+- fra/toutes
+- fra/les
+- fra/deux
+- fra/pourquoi
+- fra/je
+- fra/suis
+- fra/ici
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

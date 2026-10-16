@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Tom est rentré chez lui plus tard que d'habitude aujourd'hui.
+translation: Tom got home later than usual today.
+vocab:
+- fra/tom
+- fra/est
+- fra/rentré
+- fra/chez
+- fra/lui
+- fra/plus
+- fra/tard
+- fra/que
+- fra/d-habitude
+- fra/aujourd-hui-2
+credits:
+- author: Scorpionvenin14
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

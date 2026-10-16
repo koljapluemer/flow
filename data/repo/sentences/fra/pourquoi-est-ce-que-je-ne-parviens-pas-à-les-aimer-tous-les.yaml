@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Pourquoi est-ce que je ne parviens pas à les aimer tous les deux ?
+translation: Why can't I love them both?
+vocab:
+- fra/pourquoi-2
+- fra/est-ce-que
+- fra/je
+- fra/ne
+- fra/parviens
+- fra/pas
+- fra/à
+- fra/les
+- fra/aimer
+- fra/tous
+- fra/deux
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: Hybrid
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

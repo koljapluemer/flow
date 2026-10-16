@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je ferai tout ce que je peux pour encourager Tom à ne pas quitter l'école.
+translation: I'll do whatever I can to encourage Tom to stay in school.
+vocab:
+- fra/je-2
+- fra/ferai
+- fra/tout
+- fra/ce-2
+- fra/que
+- fra/je
+- fra/peux
+- fra/pour
+- fra/encourager
+- fra/tom
+- fra/à
+- fra/ne
+- fra/pas
+- fra/quitter
+- fra/l-école
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

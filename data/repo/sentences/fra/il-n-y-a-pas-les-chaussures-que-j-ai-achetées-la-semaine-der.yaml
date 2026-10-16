@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Il n'y a pas les chaussures que j'ai achetées la semaine dernière.
+translation: These aren't the shoes I bought last week.
+vocab:
+- fra/il-2
+- fra/n-y
+- fra/a
+- fra/pas
+- fra/les
+- fra/chaussures
+- fra/que
+- fra/j-ai
+- fra/achetées
+- fra/la
+- fra/semaine
+- fra/dernière
+credits:
+- author: GB3
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

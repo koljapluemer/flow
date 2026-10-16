@@ -1,11 +1,13 @@
 """Validates data/repo and renders it to compact JSON in public/data.
 
 topics.json:       [{"id", "title"}]
-topics/<id>.json:  {"v": [[ref, lemma, translation]],
-                    "s": [[ref, text, translation, [vocab index]]],
-                    "y": [[ref, title, platform, platform id, explanatory]],
+topics/<id>.json:  {"v": [[ref, lemma, translation, credits]],
+                    "s": [[ref, text, translation, [vocab index], [mode], credits]],
+                    "y": [[ref, title, platform, platform id, explanatory, credits]],
                     "n": [[video ref, [[start, end, text, translation, [vocab index], [core vocab index]]]]]}
+                   Sentences ("s") are those of the topic's sets, with every mode a set gives them.
                    Snippets ("n") are only rendered for immersion videos.
+credits:           [[author, source, source url | null, license, license url | null]]
 
 Usage: uv run render.py
 """
@@ -37,8 +39,26 @@ def render_snippet(snippet: dict, index: dict[str, int]) -> list:
     ]
 
 
-def render_topic(topic: dict, sentences: dict, vocab: dict, videos: dict) -> dict:
-    topic_sentences = {ref: sentences[ref] for ref in topic.get("sentences", [])}
+def render_credits(item: dict) -> list:
+    return [
+        [credit["author"], credit["source"], credit.get("source_url"), credit["license"], credit.get("license_url")]
+        for credit in item.get("credits", [])
+    ]
+
+
+def sentence_modes(topic: dict, sets: dict) -> dict[str, list[str]]:
+    modes: dict[str, list[str]] = {}
+    for set_id in topic.get("sets", []):
+        for entry in sets[set_id]["sentences"]:
+            ref_modes = modes.setdefault(entry["ref"], [])
+            if entry["mode"] not in ref_modes:
+                ref_modes.append(entry["mode"])
+    return modes
+
+
+def render_topic(topic: dict, sets: dict, sentences: dict, vocab: dict, videos: dict) -> dict:
+    modes = sentence_modes(topic, sets)
+    topic_sentences = {ref: sentences[ref] for ref in modes}
     topic_videos = {ref: videos[ref] for ref in topic.get("videos", [])}
     immersion_videos = {ref: video for ref, video in topic_videos.items() if video["immersion"]}
     vocab_refs = list(
@@ -49,13 +69,20 @@ def render_topic(topic: dict, sentences: dict, vocab: dict, videos: dict) -> dic
     )
     index = {ref: position for position, ref in enumerate(vocab_refs)}
     return {
-        "v": [[ref, vocab[ref]["lemma"], vocab[ref]["translation"]] for ref in vocab_refs],
+        "v": [[ref, vocab[ref]["lemma"], vocab[ref]["translation"], render_credits(vocab[ref])] for ref in vocab_refs],
         "s": [
-            [ref, sentence["text"], sentence["translation"], [index[vocab_ref] for vocab_ref in sentence["vocab"]]]
+            [
+                ref,
+                sentence["text"],
+                sentence["translation"],
+                [index[vocab_ref] for vocab_ref in sentence["vocab"]],
+                modes[ref],
+                render_credits(sentence),
+            ]
             for ref, sentence in topic_sentences.items()
         ],
         "y": [
-            [ref, video["title"], video["platform"], video["platform_id"], video["explanatory"]]
+            [ref, video["title"], video["platform"], video["platform_id"], video["explanatory"], render_credits(video)]
             for ref, video in topic_videos.items()
         ],
         "n": [
@@ -71,11 +98,11 @@ def main() -> None:
         print("\n".join(errors), file=sys.stderr)
         sys.exit(1)
 
-    topics, sentences, vocab, videos = (repo.read_pool(pool) for pool in repo.POOLS)
+    topics, sets, sentences, vocab, videos = (repo.read_pool(pool) for pool in repo.POOLS)
     shutil.rmtree(OUT / "topics", ignore_errors=True)
     write_json(OUT / "topics.json", [{"id": topic_id, "title": topic["title"]} for topic_id, topic in topics.items()])
     for topic_id, topic in topics.items():
-        write_json(OUT / "topics" / f"{topic_id}.json", render_topic(topic, sentences, vocab, videos))
+        write_json(OUT / "topics" / f"{topic_id}.json", render_topic(topic, sets, sentences, vocab, videos))
     print(f"Rendered {len(topics)} topics.")
 
 

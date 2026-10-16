@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je peux m'y rendre la semaine prochaine.
+translation: I can go next week.
+vocab:
+- fra/je-2
+- fra/peux
+- fra/m-y
+- fra/rendre
+- fra/la
+- fra/semaine
+- fra/prochaine
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: patgfisher
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A Mary non piace il suo nome.
+translation: Mary doesn't like her name.
+vocab:
+- ita/a-2
+- ita/mary
+- ita/non
+- ita/piace
+- ita/il
+- ita/suo
+- ita/nome
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CF
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

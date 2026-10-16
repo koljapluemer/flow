@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A Mary importa solo di se stessa.
+translation: Mary only cares about herself.
+vocab:
+- ita/a-2
+- ita/mary
+- ita/importa
+- ita/solo
+- ita/di
+- ita/se
+- ita/stessa
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CF
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Amitié des grands, soleil d'hiver et serments d'une femme, sont trois choses qui n'ont pas de durée.
+translation: A woman's mind and winter's wind change oft.
+vocab:
+- fra/amitié
+- fra/des
+- fra/grands
+- fra/soleil
+- fra/d-hiver
+- fra/et
+- fra/serments
+- fra/d-une
+- fra/femme
+- fra/sont
+- fra/trois
+- fra/choses
+- fra/qui
+- fra/n-ont
+- fra/pas
+- fra/de
+- fra/durée
+credits:
+- author: carlosalberto
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

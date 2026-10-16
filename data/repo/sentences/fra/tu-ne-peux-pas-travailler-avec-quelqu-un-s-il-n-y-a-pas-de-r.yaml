@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Tu ne peux pas travailler avec quelqu'un s'il n'y a pas de respect entre vous.
+translation: It's impossible to collaborate without mutual respect.
+vocab:
+- fra/tu-2
+- fra/ne
+- fra/peux
+- fra/pas
+- fra/travailler
+- fra/avec
+- fra/quelqu-un
+- fra/s-il
+- fra/n-y
+- fra/a
+- fra/de
+- fra/respect
+- fra/entre
+- fra/vous
+credits:
+- author: anzart
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

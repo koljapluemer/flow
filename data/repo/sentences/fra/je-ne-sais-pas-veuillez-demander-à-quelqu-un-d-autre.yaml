@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je ne sais pas. Veuillez demander à quelqu'un d'autre.
+translation: I don't know. Please ask someone else.
+vocab:
+- fra/je-2
+- fra/ne
+- fra/sais
+- fra/pas
+- fra/veuillez
+- fra/demander
+- fra/à
+- fra/quelqu-un
+- fra/d-autre
+credits:
+- author: lbdx
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

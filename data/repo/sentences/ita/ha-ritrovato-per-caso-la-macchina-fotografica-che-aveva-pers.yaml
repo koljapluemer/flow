@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Ha ritrovato per caso la macchina fotografica che aveva perso.
+translation: He found his lost camera by chance.
+vocab:
+- ita/macchina
+- ita/fotografica
+credits:
+- author: leonardo
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

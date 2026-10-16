@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Si trasferì a Madrid per prendere le redini degli affari di suo padre.
+translation: He moved to Madrid to take the reins of his father's business.
+vocab:
+- ita/degli
+- ita/padre
+- ita/suo
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Dis à Tom que je n'y serai pas.
+translation: Tell Tom that I won't be there.
+vocab:
+- fra/dis
+- fra/à
+- fra/tom
+- fra/que
+- fra/je
+- fra/n-y
+- fra/serai
+- fra/pas
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

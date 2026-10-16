@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Accendiamo qualche candela.
+translation: Let's light some candles.
+vocab:
+- ita/accendiamo
+- ita/qualche
+- ita/candela
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

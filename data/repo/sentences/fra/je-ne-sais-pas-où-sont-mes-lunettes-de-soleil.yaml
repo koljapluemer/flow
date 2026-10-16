@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je ne sais pas où sont mes lunettes de soleil.
+translation: I don't know where my sunglasses are.
+vocab:
+- fra/je-2
+- fra/ne
+- fra/sais
+- fra/pas
+- fra/où
+- fra/sont
+- fra/mes
+- fra/lunettes
+- fra/de
+- fra/soleil
+credits:
+- author: tras
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

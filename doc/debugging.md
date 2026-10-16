@@ -9,6 +9,8 @@ Exercise ids are `<type>:<variant>:<content id>`, e.g.
 - `/dev/exercise/vocab-practice:bare:deu/nett`
 - `/dev/exercise/explanation-watch:watch:arz/7495810055649004802`
 - `/dev/exercise/snippet-watch:watch:arz/ZoYMAQgRMUw%233` (`#` must be written as `%23`)
+- `/dev/exercise/sentence-challenge:once:fra/anne-aime-beaucoup-la-musique`
+- `/dev/exercise/vocab-prepare:understand:ita/<slug>` (`memorize`, `recall` likewise)
 
 The ids the queue picks are logged under `flow:exercise` (see below).
 

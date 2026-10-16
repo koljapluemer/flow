@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Tu me poses une question à laquelle je ne peux pas répondre.
+translation: You're asking me a question I can't answer.
+vocab:
+- fra/tu-2
+- fra/me
+- fra/poses
+- fra/une
+- fra/question
+- fra/à
+- fra/laquelle
+- fra/je
+- fra/ne
+- fra/peux
+- fra/pas
+- fra/répondre
+credits:
+- author: Lebensfreude
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

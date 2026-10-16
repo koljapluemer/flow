@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A Mary mancano sua madre e suo padre.
+translation: Mary misses her mother and father.
+vocab:
+- ita/a-2
+- ita/mary
+- ita/mancano
+- ita/sua
+- ita/madre-2
+- ita/e
+- ita/suo
+- ita/padre
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CF
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

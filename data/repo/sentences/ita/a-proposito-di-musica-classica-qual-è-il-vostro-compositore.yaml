@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A proposito di musica classica, qual è il vostro compositore preferito?
+translation: Talking of classical music, who is your favorite composer?
+vocab:
+- ita/a-2
+- ita/proposito
+- ita/di
+- ita/musica
+- ita/classica
+- ita/qual
+- ita/è
+- ita/il
+- ita/vostro
+- ita/compositore
+- ita/preferito
+credits:
+- author: riccioberto
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

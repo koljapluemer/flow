@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: « À combien de questions avez-vous répondu correctement ? » « À pas une seule. »
+translation: '"How many questions did you get right?" "Zilch."'
+vocab:
+- fra/à-2
+- fra/combien-2
+- fra/de
+- fra/questions
+- fra/avez-vous
+- fra/répondu
+- fra/correctement
+- fra/pas
+- fra/une
+- fra/seule
+credits:
+- author: Micsmithel
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: darinmex
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

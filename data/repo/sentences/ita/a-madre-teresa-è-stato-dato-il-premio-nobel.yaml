@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A Madre Teresa è stato dato il Premio Nobel.
+translation: Mother Teresa was given the Nobel prize.
+vocab:
+- ita/a-2
+- ita/madre
+- ita/teresa
+- ita/è
+- ita/stato
+- ita/dato
+- ita/il
+- ita/premio
+- ita/nobel
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CM
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

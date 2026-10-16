@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Elle est une personne, sans laquelle je ne peux pas vivre.
+translation: She is one person I can't live without.
+vocab:
+- fra/elle
+- fra/est
+- fra/une
+- fra/personne
+- fra/sans
+- fra/laquelle
+- fra/je
+- fra/ne
+- fra/peux
+- fra/pas
+- fra/vivre
+credits:
+- author: giiraffen
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: DostKaplan
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

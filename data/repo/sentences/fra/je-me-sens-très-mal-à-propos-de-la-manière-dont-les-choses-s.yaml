@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je me sens très mal à propos de la manière dont les choses se sont passées.
+translation: I feel terrible about the way things happened.
+vocab:
+- fra/je-2
+- fra/me
+- fra/sens
+- fra/très
+- fra/mal
+- fra/à
+- fra/propos
+- fra/de
+- fra/la
+- fra/manière
+- fra/dont
+- fra/les
+- fra/choses
+- fra/se
+- fra/sont
+- fra/passées
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Tout le monde sait que Tom ne peut pas faire cela.
+translation: Everyone knows Tom can't do that.
+vocab:
+- fra/tout-2
+- fra/le
+- fra/monde
+- fra/sait
+- fra/que
+- fra/tom
+- fra/ne
+- fra/peut
+- fra/pas
+- fra/faire
+- fra/cela
+credits:
+- author: zarisi
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

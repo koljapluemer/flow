@@ -1,10 +1,11 @@
+import { decodeCredits, type CreditTuple } from '../../dumb/credit'
 import { db, type VocabRow } from '../../db/db'
 
 // Compact format rendered by cms/render.py.
-export type VocabTuple = [id: string, word: string, translation: string]
+export type VocabTuple = [id: string, word: string, translation: string, credits: CreditTuple[]]
 
 export function decodeVocab(tuples: VocabTuple[]): VocabRow[] {
-  return tuples.map(([id, word, translation]) => ({ id, word, translation }))
+  return tuples.map(([id, word, translation, credits]) => ({ id, word, translation, credits: decodeCredits(credits) }))
 }
 
 export async function getVocab(): Promise<Map<string, VocabRow>> {

@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: . È molto brava a risolvere enigmi.
+translation: She's very good at solving puzzles.
+vocab:
+- ita/è-2
+- ita/molto
+- ita/brava
+- ita/a
+- ita/risolvere
+- ita/enigmi
+credits:
+- author: Nuel
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

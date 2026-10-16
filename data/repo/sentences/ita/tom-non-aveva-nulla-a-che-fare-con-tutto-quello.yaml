@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Tom non aveva nulla a che fare con tutto quello.
+translation: Tom had nothing to do with any of that.
+vocab:
+- ita/tutto
+- ita/nulla
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

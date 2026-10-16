@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Ciò che si fa è più importante di ciò che si dice.
+translation: What you do is more important than what you say.
+vocab:
+- ita/fa
+- ita/ciò
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

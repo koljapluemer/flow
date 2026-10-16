@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Nous utilisons souvent des gestes pour communiquer des messages simples.
+translation: We often use gestures to convey simple messages.
+vocab:
+- fra/nous-2
+- fra/utilisons
+- fra/souvent
+- fra/des
+- fra/gestes
+- fra/pour
+- fra/communiquer
+- fra/messages
+- fra/simples
+credits:
+- author: lbdx
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

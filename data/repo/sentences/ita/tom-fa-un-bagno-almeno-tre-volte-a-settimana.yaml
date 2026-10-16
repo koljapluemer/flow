@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Tom fa un bagno almeno tre volte a settimana.
+translation: Tom takes a bath at least three times a week.
+vocab:
+- ita/fa
+- ita/volte
+- ita/tre
+credits:
+- author: Shadd
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

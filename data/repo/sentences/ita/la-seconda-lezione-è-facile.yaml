@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: La seconda lezione è facile.
+translation: Lesson Two is easy.
+vocab:
+- ita/seconda
+credits:
+- author: bruno_b
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

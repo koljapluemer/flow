@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: J'ignore pourquoi vous êtes tous tellement contrariés.
+translation: I don't know why you're all so upset.
+vocab:
+- fra/j
+- fra/ignore
+- fra/pourquoi
+- fra/vous
+- fra/êtes
+- fra/tous
+- fra/tellement
+- fra/contrariés
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

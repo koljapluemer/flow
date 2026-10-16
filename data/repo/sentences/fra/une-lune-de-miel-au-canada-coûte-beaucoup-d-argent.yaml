@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Une lune de miel au Canada coûte beaucoup d'argent.
+translation: A honeymoon in Canada is expensive.
+vocab:
+- fra/une-2
+- fra/lune
+- fra/de
+- fra/miel
+- fra/au
+- fra/canada
+- fra/coûte
+- fra/beaucoup
+- fra/d-argent
+credits:
+- author: sysko
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

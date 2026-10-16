@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Io intendo andare a Kumamoto domani per trovare il signor Aoi.
+translation: I plan to go to Kumamoto tomorrow to see Mr. Aoi.
+vocab:
+- ita/domani
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

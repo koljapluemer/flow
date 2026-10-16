@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Vieni in Albania, dove trovi sempre del caffè ottimo.
+translation: Come to Albania, where we always make good coffee.
+vocab:
+- ita/caffè
+credits:
+- author: graphite
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

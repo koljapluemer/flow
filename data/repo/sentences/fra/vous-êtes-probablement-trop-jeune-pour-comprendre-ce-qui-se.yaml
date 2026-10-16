@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Vous êtes probablement trop jeune pour comprendre ce qui se passe.
+translation: You're probably too young to understand what's happening.
+vocab:
+- fra/vous-2
+- fra/êtes
+- fra/probablement
+- fra/trop
+- fra/jeune
+- fra/pour
+- fra/comprendre
+- fra/ce-2
+- fra/qui
+- fra/se
+- fra/passe
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

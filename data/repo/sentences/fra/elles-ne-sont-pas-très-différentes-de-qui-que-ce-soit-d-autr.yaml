@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Elles ne sont pas très différentes de qui que ce soit d'autre.
+translation: They are not very different from anybody else.
+vocab:
+- fra/elles-2
+- fra/ne
+- fra/sont
+- fra/pas
+- fra/très
+- fra/différentes
+- fra/de
+- fra/qui
+- fra/que
+- fra/ce-2
+- fra/soit
+- fra/d-autre
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: Source_Benedict_1921
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

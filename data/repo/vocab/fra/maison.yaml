@@ -1,0 +1,3 @@
+# yaml-language-server: $schema=../../schema/vocab.schema.json
+lemma: maison
+translation: house/home/building/dwelling

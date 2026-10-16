@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Les traductions automatiques ne sont pas toujours exactes.
+translation: Machine translations are not always precise.
+vocab:
+- fra/les-2
+- fra/traductions
+- fra/automatiques
+- fra/ne
+- fra/sont
+- fra/pas
+- fra/toujours
+- fra/exactes
+credits:
+- author: lbdx
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: Ergulis
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

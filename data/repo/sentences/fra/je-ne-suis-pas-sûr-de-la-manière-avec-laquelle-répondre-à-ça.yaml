@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je ne suis pas sûr de la manière avec laquelle répondre à ça.
+translation: I'm not sure how to answer this.
+vocab:
+- fra/je-2
+- fra/ne
+- fra/suis
+- fra/pas
+- fra/sûr
+- fra/de
+- fra/la
+- fra/manière
+- fra/avec
+- fra/laquelle
+- fra/répondre
+- fra/à
+- fra/ça
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CM
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

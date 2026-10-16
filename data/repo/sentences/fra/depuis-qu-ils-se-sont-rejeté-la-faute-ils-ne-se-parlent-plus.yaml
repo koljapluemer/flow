@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Depuis qu'ils se sont rejeté la faute, ils ne se parlent plus.
+translation: After blaming each other, they stopped talking.
+vocab:
+- fra/depuis
+- fra/qu-ils
+- fra/se
+- fra/sont
+- fra/rejeté
+- fra/la
+- fra/faute
+- fra/ils
+- fra/ne
+- fra/parlent
+- fra/plus
+credits:
+- author: Aghanim
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

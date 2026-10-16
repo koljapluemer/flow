@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A Jack interessa la pittura.
+translation: Jack is interested in painting.
+vocab:
+- ita/a-2
+- ita/jack
+- ita/interessa
+- ita/la
+- ita/pittura
+credits:
+- author: matsuteo
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CN
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

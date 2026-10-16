@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: 40 dollari per sette giorni.
+translation: 40 dollars for seven days.
+vocab:
+- ita/40
+- ita/dollari
+- ita/per
+- ita/sette
+- ita/giorni
+credits:
+- author: rado
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: papabear
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

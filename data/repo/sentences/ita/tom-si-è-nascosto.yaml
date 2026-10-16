@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Tom si è nascosto.
+translation: Tom hid.
+vocab:
+- ita/è
+- ita/si
+- ita/tom
+credits:
+- author: alexmarcelo
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

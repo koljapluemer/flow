@@ -1,0 +1,3 @@
+# yaml-language-server: $schema=../../schema/vocab.schema.json
+lemma: me
+translation: myself/to me/for me

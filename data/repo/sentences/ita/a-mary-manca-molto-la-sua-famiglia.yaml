@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A Mary manca molto la sua famiglia.
+translation: Mary misses her family a lot.
+vocab:
+- ita/a-2
+- ita/mary
+- ita/manca
+- ita/molto
+- ita/la
+- ita/sua
+- ita/famiglia
+credits:
+- author: dnnywld
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CF
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

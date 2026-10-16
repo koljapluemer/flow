@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Une occasion comme celle-ci, il faut que je la saisisse.
+translation: It's too good an opportunity to miss.
+vocab:
+- fra/une
+- fra/occasion
+- fra/comme
+- fra/celle-ci
+- fra/il
+- fra/faut
+- fra/que
+- fra/je
+- fra/la
+- fra/saisisse
+credits:
+- author: Rovo
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: sundown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

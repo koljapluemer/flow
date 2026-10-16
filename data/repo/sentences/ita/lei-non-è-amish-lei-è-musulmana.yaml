@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: (Lei) non è Amish. (Lei) è musulmana.
+translation: She's not Amish. She's Muslim.
+vocab:
+- ita/lei-2
+- ita/non
+- ita/è
+- ita/amish
+- ita/musulmana
+credits:
+- author: ryu
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: Amastan
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

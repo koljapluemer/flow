@@ -6,7 +6,6 @@ from itertools import islice
 from flowcms import repo
 from flowcms.generate_examples import generate_examples
 from flowcms.languages import Language
-from flowcms.validate import MIN_EXAMPLES
 
 EXAMPLE_BATCH = 20
 EXAMPLE_ROUNDS = 3
@@ -38,8 +37,10 @@ class Pools:
             self.lemma_refs[lemma] = self.add("vocab", lemma, {"lemma": lemma, "translation": translation})
         return self.lemma_refs[lemma]
 
-    def add_sentence(self, text: str, translation: str, vocab_refs: list[str]) -> str:
+    def add_sentence(self, text: str, translation: str, vocab_refs: list[str], credits: list[dict] | None = None) -> str:
         item = {"text": text, "translation": translation, "vocab": list(dict.fromkeys(vocab_refs))}
+        if credits:
+            item["credits"] = credits
         return self.add("sentences", text, item)
 
     def save(self) -> None:
@@ -55,17 +56,17 @@ def batches(items: dict, size: int):
         yield batch
 
 
-def missing_examples(pools: Pools) -> dict[str, int]:
+def missing_examples(pools: Pools, minimum: int) -> dict[str, int]:
     counts = Counter(ref for item in pools.own("sentences").values() for ref in item["vocab"])
-    return {lemma: MIN_EXAMPLES - counts[ref] for lemma, ref in pools.lemma_refs.items() if counts[ref] < MIN_EXAMPLES}
+    return {lemma: minimum - counts[ref] for lemma, ref in pools.lemma_refs.items() if counts[ref] < minimum}
 
 
 def add_examples(pools: Pools, language: Language) -> list[str]:
-    """Adds generated sentences until every vocab item of the language has MIN_EXAMPLES. Returns their refs.
-    Retries for a few rounds, since replies sometimes skip requested lemmas."""
+    """Adds generated sentences until every vocab item of the language has its minimum of examples. Returns their
+    refs. Retries for a few rounds, since replies sometimes skip requested lemmas."""
     refs = []
     for _ in range(EXAMPLE_ROUNDS):
-        missing = missing_examples(pools)
+        missing = missing_examples(pools, language.min_examples)
         if not missing:
             break
         texts = {item["text"] for item in pools.own("sentences").values()}
@@ -77,8 +78,20 @@ def add_examples(pools: Pools, language: Language) -> list[str]:
     return refs
 
 
+def add_to_set(set_id: str, title: str, refs: list[str], mode: str) -> None:
+    """Appends sentence refs with the given mode to a set, creating the set if needed."""
+    set_ids = repo.read_index("sets")
+    if set_id in set_ids:
+        item = repo.read_item("sets", set_id)
+    else:
+        item = {"title": title, "sentences": []}
+        repo.write_index("sets", set_ids + [set_id])
+    item["sentences"] += [{"ref": ref, "mode": mode} for ref in refs]
+    repo.write_item("sets", set_id, item)
+
+
 def add_to_topic(topic_id: str, title: str, refs_by_pool: dict[str, list[str]]) -> None:
-    """Appends refs to a topic's pool lists, creating the topic if needed."""
+    """Appends set ids or video refs to a topic's lists (skipping ones already there), creating the topic if needed."""
     topic_ids = repo.read_index("topics")
     if topic_id in topic_ids:
         topic = repo.read_item("topics", topic_id)
@@ -86,6 +99,7 @@ def add_to_topic(topic_id: str, title: str, refs_by_pool: dict[str, list[str]]) 
         topic = {"title": title}
         repo.write_index("topics", topic_ids + [topic_id])
     for pool, refs in refs_by_pool.items():
-        if refs:
-            topic[pool] = topic.get(pool, []) + refs
+        new = [ref for ref in refs if ref not in topic.get(pool, [])]
+        if new:
+            topic[pool] = topic.get(pool, []) + new
     repo.write_item("topics", topic_id, topic)

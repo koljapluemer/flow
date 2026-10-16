@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import type { Grade } from 'ts-fsrs'
 import FlashcardShell from '@/dumb/FlashcardShell.vue'
-import ExampleList from './ExampleList.vue'
+import ExampleList from '@/dumb/ExampleList.vue'
 import type { VocabView } from './vocabPractice'
 
 defineProps<{ view: VocabView }>()

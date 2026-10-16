@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Pourquoi est-ce que les produits de beauté ont-ils une date d'expiration ?
+translation: Why do cosmetics have an expiration date?
+vocab:
+- fra/pourquoi-2
+- fra/est-ce-que
+- fra/les
+- fra/produits
+- fra/de
+- fra/beauté
+- fra/ont-ils
+- fra/une
+- fra/date
+- fra/d-expiration
+credits:
+- author: Aiji
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: AlanF_US
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

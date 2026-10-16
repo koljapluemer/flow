@@ -16,26 +16,37 @@ import {
 // An exercise belongs to one or more gestalts; rating it reviews all of them.
 export type Exercise = { id: string; type: string; variant: string; contentId: string; gestaltIds: string[] }
 
-// What an exercise emits when done: a grade for FSRS, or the answer to an explanatory video.
-export type ExerciseResult = Grade | ExplanationAnswer
+// What an exercise emits when done: a grade for FSRS, the answer to an explanatory video,
+// or `shown` for an exercise without a grade.
+export type ExerciseResult = Grade | ExplanationAnswer | 'shown'
 
-// Stored content plus the gestalts of the selected topics.
+// The flow a gestalt is practiced in: regular flashcards, or preparing a guess-once sentence.
+export type ExerciseStyle = 'flashcard' | 'guess-once'
+
+// Stored content plus the gestalts of the selected topics. `exampleSentenceIds` are their sentences that
+// may illustrate vocab: all but guess-once sentences not guessed yet, which examples would give away.
 export type ExerciseContext = {
   vocab: Map<string, VocabRow>
   sentences: Map<string, SentenceRow>
   videos: Map<string, VideoRow>
   snippets: Map<string, SnippetRow>
   gestalts: Map<string, GestaltRow>
+  exampleSentenceIds: Set<string>
 }
+
+// The learner's progress on a gestalt, as far as exercises care.
+export type GestaltProgress = { card: GestaltCardRow | undefined; shown: boolean }
 
 // One kind of exercise. `component` takes a `view` prop and emits `done` with an `ExerciseResult`.
 export type ExerciseType<View = unknown> = {
   type: string
   gestaltKind: GestaltKind
+  // The flow the type serves; `any` serves both.
+  style: ExerciseStyle | 'any'
   requiresOnline: boolean
   variants: (gestalt: GestaltRow) => Exercise[]
   // How appropriate a variant is for the gestalt's current state; 0 = not at all.
-  fit: (exercise: Exercise, gestaltCard: GestaltCardRow | undefined) => number
+  fit: (exercise: Exercise, progress: GestaltProgress, context: ExerciseContext) => number
   resolve: (exercise: Exercise, context: ExerciseContext) => View
   component: Component
 }

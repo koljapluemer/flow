@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Sono stanco di ascoltare incessantemente i problemi degli altri.
+translation: I'm tired of listening incessantly to other people's problems.
+vocab:
+- ita/i
+credits:
+- author: Nuel
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

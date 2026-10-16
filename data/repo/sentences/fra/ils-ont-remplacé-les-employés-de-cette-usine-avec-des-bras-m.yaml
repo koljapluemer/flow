@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Ils ont remplacé les employés de cette usine avec des bras mécaniques.
+translation: They replaced that factory's employees with mechanical arms.
+vocab:
+- fra/ils-2
+- fra/ont
+- fra/remplacé
+- fra/les
+- fra/employés
+- fra/de
+- fra/cette
+- fra/usine
+- fra/avec
+- fra/des
+- fra/bras
+- fra/mécaniques
+credits:
+- author: Scott
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: marcelostockle
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

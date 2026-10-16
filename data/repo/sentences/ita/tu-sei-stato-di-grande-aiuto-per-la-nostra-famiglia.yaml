@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Tu sei stato di grande aiuto per la nostra famiglia.
+translation: You've been a great help to our family.
+vocab:
+- ita/sei
+- ita/famiglia
+- ita/grande
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

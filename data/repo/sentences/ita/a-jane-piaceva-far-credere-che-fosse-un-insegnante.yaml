@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A Jane piaceva far credere che fosse un insegnante.
+translation: Jane liked to make believe she was a teacher.
+vocab:
+- ita/a-2
+- ita/jane
+- ita/piaceva
+- ita/far
+- ita/credere
+- ita/che
+- ita/fosse
+- ita/un
+- ita/insegnante
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CN
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

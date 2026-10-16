@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: La chaise en plastique coûte quatre pounds.
+translation: The plastic chair costs four pounds.
+vocab:
+- fra/la-2
+- fra/chaise
+- fra/en
+- fra/plastique
+- fra/coûte
+- fra/quatre
+- fra/pounds
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: deniko
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

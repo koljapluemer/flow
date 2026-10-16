@@ -9,7 +9,8 @@ Config (data/in/videos/<name>.yaml):
 
 Audio, subtitles and silence detection are cached in data/in/videos/<video_id>/. Writes
 data/repo/videos/<lang>/<video_id>.yaml and new vocab, adds generated example sentences until every
-vocab item of the language has enough, and adds the video and these sentences to the topic.
+vocab item of the language has enough, and adds the video to the topic and these sentences as flashcards to
+the set of the same id, which the topic references.
 
 Usage: uv run misc_scripts/001_import-video.py <config>
 """
@@ -19,7 +20,7 @@ from pathlib import Path
 
 from flowcms import repo
 from flowcms.languages import LANGUAGES
-from flowcms.pools import Pools, add_examples, add_to_topic
+from flowcms.pools import Pools, add_examples, add_to_set, add_to_topic
 from flowcms.video.analyze import analyze
 from flowcms.video.download import download_audio, download_subtitles, video_info
 from flowcms.video.split import split_snippets
@@ -75,7 +76,8 @@ def main(config_path: Path) -> None:
     pools.put("videos", ref, video)
     sentence_refs = add_examples(pools, language)
     pools.save()
-    add_to_topic(config["topic"], config["topic_title"], {"videos": [ref], "sentences": sentence_refs})
+    add_to_set(config["topic"], config["topic_title"], sentence_refs, "flashcard")
+    add_to_topic(config["topic"], config["topic_title"], {"videos": [ref], "sets": [config["topic"]]})
     print(
         f"Added {len(snippets)} snippets, {len(pools.added['vocab'])} vocab items "
         f"and {len(sentence_refs)} example sentences."

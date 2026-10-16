@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Quando si viaggia in bus o in treno, si deve pagare il biglietto.
+translation: When riding a bus or a train, you need to pay the fare.
+vocab:
+- ita/deve
+credits:
+- author: WM3DAS
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

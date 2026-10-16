@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A Bilbao il sesso non è un peccato, ma un miracolo.
+translation: In Bilbao sex isn't a sin but a miracle.
+vocab:
+- ita/a-2
+- ita/bilbao
+- ita/il
+- ita/sesso
+- ita/non
+- ita/è
+- ita/un
+- ita/peccato
+- ita/ma
+- ita/miracolo
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: wallebot
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

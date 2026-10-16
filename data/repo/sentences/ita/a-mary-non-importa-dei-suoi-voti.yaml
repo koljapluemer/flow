@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A Mary non importa dei suoi voti.
+translation: Mary doesn't care about her grades.
+vocab:
+- ita/a-2
+- ita/mary
+- ita/non
+- ita/importa
+- ita/dei
+- ita/suoi
+- ita/voti
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CF
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

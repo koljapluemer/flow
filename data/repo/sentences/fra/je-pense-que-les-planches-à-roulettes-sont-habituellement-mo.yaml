@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je pense que les planches à roulettes sont habituellement moins chères que les patins en ligne.
+translation: I think skateboards are usually cheaper than rollerblades.
+vocab:
+- fra/je-2
+- fra/pense
+- fra/que
+- fra/les
+- fra/planches
+- fra/à
+- fra/roulettes
+- fra/sont
+- fra/habituellement
+- fra/moins
+- fra/chères
+- fra/patins
+- fra/en
+- fra/ligne
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

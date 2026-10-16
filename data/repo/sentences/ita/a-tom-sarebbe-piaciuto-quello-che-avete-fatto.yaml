@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A Tom sarebbe piaciuto quello che avete fatto.
+translation: Tom would've liked what you did.
+vocab:
+- ita/a-2
+- ita/tom
+- ita/sarebbe
+- ita/piaciuto
+- ita/quello
+- ita/che
+- ita/avete
+- ita/fatto
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

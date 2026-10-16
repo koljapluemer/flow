@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A Mary non piace quando Tom lascia i suoi vestiti sporchi sul pavimento.
+translation: Mary doesn't like it when Tom leaves his dirty clothes on the floor.
+vocab:
+- ita/a-2
+- ita/mary
+- ita/non
+- ita/piace
+- ita/quando
+- ita/tom
+- ita/lascia
+- ita/i
+- ita/suoi
+- ita/vestiti
+- ita/sporchi
+- ita/sul
+- ita/pavimento
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

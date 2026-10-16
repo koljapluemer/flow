@@ -1,0 +1,3 @@
+# yaml-language-server: $schema=../../schema/vocab.schema.json
+lemma: insegnante
+translation: teacher/instructor/educator/tutor

@@ -1,3 +1,4 @@
+import { decodeCredits, type CreditTuple } from '../../dumb/credit'
 import { db, type VideoRow } from '../../db/db'
 
 // Compact format rendered by cms/render.py.
@@ -6,11 +7,19 @@ export type VideoTuple = [
   title: string,
   platform: VideoRow['platform'],
   platformId: string,
-  explanatory: boolean
+  explanatory: boolean,
+  credits: CreditTuple[]
 ]
 
 export function decodeVideos(tuples: VideoTuple[]): VideoRow[] {
-  return tuples.map(([id, title, platform, platformId, explanatory]) => ({ id, title, platform, platformId, explanatory }))
+  return tuples.map(([id, title, platform, platformId, explanatory, credits]) => ({
+    id,
+    title,
+    platform,
+    platformId,
+    explanatory,
+    credits: decodeCredits(credits)
+  }))
 }
 
 export async function getVideos(): Promise<Map<string, VideoRow>> {

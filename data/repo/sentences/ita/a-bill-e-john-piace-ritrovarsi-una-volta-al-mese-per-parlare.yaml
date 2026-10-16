@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A Bill e John piace ritrovarsi una volta al mese per parlare.
+translation: Bill and John like to get together once a month to talk.
+vocab:
+- ita/a-2
+- ita/bill
+- ita/e
+- ita/john
+- ita/piace
+- ita/ritrovarsi
+- ita/una
+- ita/volta
+- ita/al
+- ita/mese
+- ita/per
+- ita/parlare
+credits:
+- author: Heracleum
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CN
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

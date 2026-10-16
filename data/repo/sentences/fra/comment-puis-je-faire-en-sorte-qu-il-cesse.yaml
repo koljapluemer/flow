@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Comment puis-je faire en sorte qu'il cesse ?
+translation: How can I make him stop?
+vocab:
+- fra/comment
+- fra/puis-je
+- fra/faire
+- fra/en
+- fra/sorte
+- fra/qu-il
+- fra/cesse
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

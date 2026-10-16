@@ -1,9 +1,9 @@
 import { fetchJson } from '@/dumb/fetchJson'
 import { logger } from '@/dumb/log'
 import { putTopicGestalts } from '@/entities/gestalt/gestalt'
-import { decodeSentences, putSentences, type SentenceTuple } from '@/entities/sentence/sentence'
+import { decodeSentenceModes, decodeSentences, putSentences, type SentenceTuple } from '@/entities/sentence/sentence'
 import { decodeSnippets, putSnippets, type VideoSnippetsTuple } from '@/entities/snippet/snippet'
-import { getSelectedTopicIds } from '@/entities/topic/topic'
+import { getSelectedTopicIds, putTopicSentences } from '@/entities/topic/topic'
 import { decodeVideos, putVideos, type VideoTuple } from '@/entities/video/video'
 import { decodeVocab, putVocab, type VocabTuple } from '@/entities/vocab/vocab'
 import { mergeGestalts, topicGestalts, type TopicContent } from './topicGestalts'
@@ -19,6 +19,7 @@ async function fetchTopic(topicId: string): Promise<TopicContent> {
   const content = {
     vocab: decodeVocab(file.v),
     sentences: decodeSentences(file.s, vocabIds),
+    sentenceModes: decodeSentenceModes(file.s),
     videos: decodeVideos(file.y),
     snippets: decodeSnippets(file.n, vocabIds)
   }
@@ -40,6 +41,9 @@ export async function syncTopics(topicIds: string[]): Promise<void> {
   await putSentences(contents.flatMap((content) => content.sentences))
   await putVideos(contents.flatMap((content) => content.videos))
   await putSnippets(contents.flatMap((content) => content.snippets))
+  await putTopicSentences(
+    contents.map((content, index) => ({ id: topicIds[index], sentenceIds: content.sentences.map((row) => row.id) }))
+  )
   const gestalts = contents.flatMap((content, index) => topicGestalts(content, topicIds[index]))
   await putTopicGestalts(topicIds, mergeGestalts(gestalts))
 }

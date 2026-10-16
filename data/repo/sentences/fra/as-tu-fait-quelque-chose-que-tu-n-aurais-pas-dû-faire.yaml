@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: As-tu fait quelque chose que tu n'aurais pas dû faire ?
+translation: Did you do something you shouldn't have?
+vocab:
+- fra/as-tu
+- fra/fait
+- fra/quelque
+- fra/chose
+- fra/que
+- fra/tu
+- fra/n-aurais
+- fra/pas
+- fra/dû
+- fra/faire
+credits:
+- author: Rockaround
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

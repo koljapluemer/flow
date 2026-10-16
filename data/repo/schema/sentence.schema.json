@@ -13,6 +13,11 @@
       "minItems": 1,
       "uniqueItems": true,
       "items": { "type": "string", "pattern": "^[a-z]{3}/[^/]+$" }
+    },
+    "credits": {
+      "description": "Attribution, required for third-party content",
+      "type": "array",
+      "items": { "$ref": "credit.schema.json" }
     }
   }
 }

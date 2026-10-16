@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Ça aurait pu être n'importe laquelle d'entre nous.
+translation: It could've been any one of us.
+vocab:
+- fra/ça-2
+- fra/aurait
+- fra/pu
+- fra/être
+- fra/n-importe-2
+- fra/laquelle
+- fra/d-entre
+- fra/nous
+credits:
+- author: Aiji
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

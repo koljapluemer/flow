@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Cette entreprise jouit d'une excellente réputation dans le monde entier.
+translation: This company has a sterling reputation worldwide.
+vocab:
+- fra/cette-2
+- fra/entreprise
+- fra/jouit
+- fra/d-une
+- fra/excellente
+- fra/réputation
+- fra/dans
+- fra/le
+- fra/monde
+- fra/entier
+credits:
+- author: lbdx
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

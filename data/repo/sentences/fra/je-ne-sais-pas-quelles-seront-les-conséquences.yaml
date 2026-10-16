@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je ne sais pas quelles seront les conséquences.
+translation: I don't know what the consequences will be.
+vocab:
+- fra/je-2
+- fra/ne
+- fra/sais
+- fra/pas
+- fra/quelles
+- fra/seront
+- fra/les
+- fra/conséquences
+credits:
+- author: KotobaNiko
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

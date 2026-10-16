@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: C'est la raison pour laquelle je ne suis pas d'accord avec toi.
+translation: This is the reason I disagree with you.
+vocab:
+- fra/c-est
+- fra/la
+- fra/raison
+- fra/pour
+- fra/lequel
+- fra/je
+- fra/ne
+- fra/suis
+- fra/pas
+- fra/d-accord
+- fra/avec
+- fra/toi
+credits:
+- author: sysko
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CM
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

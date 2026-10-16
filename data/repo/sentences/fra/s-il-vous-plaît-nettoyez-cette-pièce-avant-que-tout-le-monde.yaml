@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: S'il vous plaît, nettoyez cette pièce avant que tout le monde n'arrive.
+translation: Please clean up this room before everyone arrives.
+vocab:
+- fra/s-il-2
+- fra/vous
+- fra/plaît
+- fra/nettoyez
+- fra/cette
+- fra/pièce
+- fra/avant
+- fra/que
+- fra/tout
+- fra/le
+- fra/monde
+- fra/n-arrive
+credits:
+- author: GB3
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

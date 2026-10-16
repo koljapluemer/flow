@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je pensais que tu ne lui dirais pas que nous n'avions pas fait nos devoirs.
+translation: I thought you wouldn't tell her that we hadn't done our homework.
+vocab:
+- fra/je-2
+- fra/pensais
+- fra/que
+- fra/tu
+- fra/ne
+- fra/lui
+- fra/dirais
+- fra/pas
+- fra/nous
+- fra/n-avions
+- fra/fait
+- fra/nos
+- fra/devoirs
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

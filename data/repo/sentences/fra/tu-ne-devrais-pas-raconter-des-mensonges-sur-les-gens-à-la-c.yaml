@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Tu ne devrais pas raconter des mensonges sur les gens à la cantonade.
+translation: You shouldn't go around telling lies about people.
+vocab:
+- fra/tu-2
+- fra/ne
+- fra/devrais
+- fra/pas
+- fra/raconter
+- fra/des
+- fra/mensonges
+- fra/sur
+- fra/les
+- fra/gens
+- fra/à
+- fra/la
+- fra/cantonade
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

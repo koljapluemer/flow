@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: È più freddo di quello che solitamente sperimentiamo.
+translation: It's colder than what we usually experience.
+vocab:
+- ita/quello
+credits:
+- author: Nuel
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

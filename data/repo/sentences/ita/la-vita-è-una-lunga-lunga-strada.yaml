@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: La vita è una lunga, lunga strada.
+translation: Life is a long, long road.
+vocab:
+- ita/vita
+credits:
+- author: Pharamp
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

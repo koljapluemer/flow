@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: La chirurgie laser peut corriger certains problèmes de la vision.
+translation: Laser surgery can fix some kinds of vision problems.
+vocab:
+- fra/la-2
+- fra/chirurgie
+- fra/laser
+- fra/peut
+- fra/corriger
+- fra/certains
+- fra/problèmes
+- fra/de
+- fra/la
+- fra/vision
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: orcrist
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

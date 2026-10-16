@@ -38,7 +38,7 @@ function firstUnseenSnippets(state: QueueState): Set<string> {
 }
 
 // Composite gestalts and explanations that are not introduced and not yet targeted.
-function introduceCandidates(state: QueueState): GestaltRow[] {
+function newTargetCandidates(state: QueueState): GestaltRow[] {
   const targeted = new Set(state.goals.map((goal) => goal.target))
   const firstSnippets = firstUnseenSnippets(state)
   return [...state.context.gestalts.values()]
@@ -46,9 +46,9 @@ function introduceCandidates(state: QueueState): GestaltRow[] {
     .filter((gestalt) => gestalt.kind !== 'snippet' || firstSnippets.has(gestalt.id))
 }
 
-// Picks a random kind first, so rare kinds (few snippets, many sentences) get their turn.
-export function pickIntroduceTarget(state: QueueState): string | undefined {
-  const candidates = introduceCandidates(state)
+// Target of a new goal. Picks a random kind first, so rare kinds (few snippets, many sentences) get their turn.
+export function pickNewTarget(state: QueueState): GestaltRow | undefined {
+  const candidates = newTargetCandidates(state)
   const kind = pickRandom([...new Set(candidates.map((gestalt) => gestalt.kind))])
-  return pickRandom(candidates.filter((gestalt) => gestalt.kind === kind))?.id
+  return pickRandom(candidates.filter((gestalt) => gestalt.kind === kind))
 }

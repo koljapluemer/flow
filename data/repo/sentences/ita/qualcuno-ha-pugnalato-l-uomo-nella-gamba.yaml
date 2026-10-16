@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Qualcuno ha pugnalato l'uomo nella gamba.
+translation: Someone stabbed the man in the leg.
+vocab:
+- ita/gamba
+credits:
+- author: mervert1
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

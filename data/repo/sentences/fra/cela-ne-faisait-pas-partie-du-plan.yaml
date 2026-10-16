@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Cela ne faisait pas partie du plan.
+translation: That wasn't part of the plan.
+vocab:
+- fra/cela-2
+- fra/ne
+- fra/faisait
+- fra/pas
+- fra/partie
+- fra/du
+- fra/plan
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

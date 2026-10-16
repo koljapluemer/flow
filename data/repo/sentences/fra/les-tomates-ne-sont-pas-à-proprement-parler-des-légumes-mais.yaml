@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Les tomates ne sont pas à proprement parler des légumes, mais plutôt des fruits.
+translation: Strictly speaking, tomatoes aren't vegetables, but rather fruits.
+vocab:
+- fra/les-2
+- fra/tomates
+- fra/ne
+- fra/sont
+- fra/pas
+- fra/à
+- fra/proprement
+- fra/parler
+- fra/des
+- fra/légumes
+- fra/mais
+- fra/plutôt
+- fra/fruits
+credits:
+- author: lbdx
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: marcj794
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

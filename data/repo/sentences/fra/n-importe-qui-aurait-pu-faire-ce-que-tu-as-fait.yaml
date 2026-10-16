@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: N'importe qui aurait pu faire ce que tu as fait.
+translation: Anyone could've done what you did.
+vocab:
+- fra/n-importe
+- fra/qui
+- fra/aurait
+- fra/pu
+- fra/faire
+- fra/ce-2
+- fra/que
+- fra/tu
+- fra/as-2
+- fra/fait
+credits:
+- author: megamanenm
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: 2.200 dollari sono stati stanziati per le spese.
+translation: 2200 dollars have been allocated for expenses.
+vocab:
+- ita/2-200
+- ita/dollari
+- ita/sono
+- ita/stati
+- ita/stanziati
+- ita/per
+- ita/le
+- ita/spese
+credits:
+- author: bruno_b
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: blay_paul
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

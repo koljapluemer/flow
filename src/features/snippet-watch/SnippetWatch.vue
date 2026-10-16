@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { Rating, type Grade } from 'ts-fsrs'
+import CreditList from '@/dumb/CreditList.vue'
 import VideoClip from '@/dumb/video/VideoClip.vue'
 import type { SnippetView } from './snippetWatch'
 
@@ -14,6 +15,7 @@ const emit = defineEmits<{ done: [rating: Grade] }>()
     :start="view.start"
     :end="view.end"
   />
+  <CreditList :credits="view.credits" />
   <button
     type="button"
     class="btn btn-primary"

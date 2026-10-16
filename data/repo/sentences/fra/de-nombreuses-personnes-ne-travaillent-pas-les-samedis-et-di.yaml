@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: De nombreuses personnes ne travaillent pas les samedis et dimanches.
+translation: Many people don't work on Saturdays and Sundays.
+vocab:
+- fra/de-2
+- fra/nombreuses
+- fra/personnes
+- fra/ne
+- fra/travaillent
+- fra/pas
+- fra/les
+- fra/samedis
+- fra/et
+- fra/dimanches
+credits:
+- author: AutoBot
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: calypsow
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

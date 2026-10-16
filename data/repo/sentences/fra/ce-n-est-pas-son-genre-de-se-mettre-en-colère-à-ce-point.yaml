@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Ce n'est pas son genre de se mettre en colère à ce point.
+translation: It's unlike him to get so angry.
+vocab:
+- fra/ce
+- fra/n-est
+- fra/pas
+- fra/son
+- fra/genre
+- fra/de
+- fra/se
+- fra/mettre
+- fra/en
+- fra/colère
+- fra/à
+- fra/ce-2
+- fra/point
+credits:
+- author: TRANG
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

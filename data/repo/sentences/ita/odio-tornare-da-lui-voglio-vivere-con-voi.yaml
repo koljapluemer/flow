@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Odio tornare da lui. Voglio vivere con voi.
+translation: I hate going back to him. I want to live with you.
+vocab:
+- ita/voi
+- ita/vivere
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

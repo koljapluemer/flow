@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: La saggezza spesso cresce con le esperienze che accumuli.
+translation: Wisdom often grows with the experiences you accumulate.
+vocab:
+- ita/le
+credits:
+- author: Nuel
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

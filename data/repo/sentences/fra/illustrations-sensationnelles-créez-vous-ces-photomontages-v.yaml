@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Illustrations sensationnelles ! Créez-vous ces photomontages vous-mêmes ?
+translation: Sensational pictures! Do you create these photomontages yourself?
+vocab:
+- fra/illustrations
+- fra/sensationnelles
+- fra/créez-vous
+- fra/ces
+- fra/photomontages
+- fra/vous-mêmes
+credits:
+- author: marioo
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

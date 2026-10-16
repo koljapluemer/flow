@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Il sushi va bene, però io preferirei del cibo thailandese.
+translation: Sushi is OK, but I'd prefer Thai food.
+vocab:
+- ita/però
+- ita/io-2
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

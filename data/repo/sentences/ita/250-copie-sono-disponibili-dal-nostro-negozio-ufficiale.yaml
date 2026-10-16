@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: 250 copie sono disponibili dal nostro negozio ufficiale.
+translation: 250 copies are available from our official shop.
+vocab:
+- ita/250
+- ita/copie
+- ita/sono
+- ita/disponibili
+- ita/dal
+- ita/nostro
+- ita/negozio
+- ita/ufficiale
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CM
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

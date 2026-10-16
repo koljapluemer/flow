@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Pour ma part, je ne pense pas que ce soit correct et c'est ce qui me dérange personnellement.
+translation: I find that both incorrect and personally bothering.
+vocab:
+- fra/pour-2
+- fra/ma
+- fra/part
+- fra/je
+- fra/ne
+- fra/pense
+- fra/pas
+- fra/que
+- fra/ce-2
+- fra/soit
+- fra/correct
+- fra/et
+- fra/c-est-3
+- fra/qui
+- fra/me
+- fra/dérange
+- fra/personnellement
+credits:
+- author: Micsmithel
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: SunnyMoon
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

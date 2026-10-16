@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Le travail à temps partiel de ma femme ramène un peu d'argent supplémentaire.
+translation: My wife's part-time job brings in a little extra money.
+vocab:
+- fra/le-2
+- fra/travail
+- fra/à
+- fra/temps
+- fra/partiel
+- fra/de
+- fra/ma
+- fra/femme
+- fra/ramène
+- fra/un
+- fra/peu
+- fra/d-argent
+- fra/supplémentaire
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

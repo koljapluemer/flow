@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: '«Et pour Monsieur ?» «Allez ! Une fois n''est pas coutume : Une blanquette de veau !»'
+translation: '"And for you sir?" "A veal stew!"'
+vocab:
+- fra/et-2
+- fra/pour
+- fra/monsieur
+- fra/allez-2
+- fra/une-2
+- fra/fois
+- fra/n-est
+- fra/pas
+- fra/coutume
+- fra/blanquette
+- fra/de
+- fra/veau
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: zogwarg
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

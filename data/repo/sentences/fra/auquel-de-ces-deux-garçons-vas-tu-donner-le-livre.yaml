@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Auquel de ces deux garçons vas-tu donner le livre ?
+translation: Which of these two boys are you going to give the book to?
+vocab:
+- fra/auquel
+- fra/de
+- fra/ces
+- fra/deux
+- fra/garçons
+- fra/vas
+- fra/tu
+- fra/donner
+- fra/le
+- fra/livre
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: sundown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

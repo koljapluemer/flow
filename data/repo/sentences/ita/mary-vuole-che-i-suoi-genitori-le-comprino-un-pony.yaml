@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Mary vuole che i suoi genitori le comprino un pony.
+translation: Mary wants her parents to buy her a pony.
+vocab:
+- ita/suoi
+- ita/mary
+- ita/genitori
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

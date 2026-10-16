@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Mary era circondata dalle sue amiche.
+translation: Mary was surrounded by her friends.
+vocab:
+- ita/sue
+- ita/amiche
+- ita/mary
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

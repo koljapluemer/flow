@@ -1,4 +1,5 @@
 import { State } from 'ts-fsrs'
+import type { Credit } from '@/dumb/credit'
 import { makeExercise, type ExerciseType } from '@/entities/exercise/exercise'
 import SentencePractice from './SentencePractice.vue'
 
@@ -9,6 +10,7 @@ export type SentenceView = {
   translation: string
   vocab: VocabEntry[]
   showVocabOnFront: boolean
+  credits: Credit[]
 }
 
 const TYPE = 'sentence-practice'
@@ -16,10 +18,11 @@ const TYPE = 'sentence-practice'
 export const sentencePractice: ExerciseType<SentenceView> = {
   type: TYPE,
   gestaltKind: 'sentence',
+  style: 'any',
   requiresOnline: false,
   variants: (gestalt) => (['with-vocab', 'plain'] as const).map((variant) => makeExercise(TYPE, variant, gestalt)),
   // Vocab is shown on the front while the sentence is new or being (re)learned.
-  fit: (exercise, card) => {
+  fit: (exercise, { card }) => {
     const learning = !card || card.state !== State.Review
     return learning === (exercise.variant === 'with-vocab') ? 1 : 0
   },
@@ -32,7 +35,8 @@ export const sentencePractice: ExerciseType<SentenceView> = {
         word: context.vocab.get(id)?.word ?? '',
         translation: context.vocab.get(id)?.translation ?? ''
       })),
-      showVocabOnFront: exercise.variant === 'with-vocab'
+      showVocabOnFront: exercise.variant === 'with-vocab',
+      credits: sentence?.credits ?? []
     }
   },
   component: SentencePractice

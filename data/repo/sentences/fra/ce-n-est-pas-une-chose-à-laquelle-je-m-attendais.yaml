@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Ce n'est pas une chose à laquelle je m'attendais.
+translation: That wasn't something I expected.
+vocab:
+- fra/ce
+- fra/n-est
+- fra/pas
+- fra/une
+- fra/chose
+- fra/à
+- fra/laquelle
+- fra/je
+- fra/m-attendais
+credits:
+- author: Aiji
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

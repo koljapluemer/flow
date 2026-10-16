@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Qu'est-ce que les Italiens mangent habituellement à déjeuner ?
+translation: What do Italians usually eat for lunch?
+vocab:
+- fra/qu-est-ce
+- fra/que
+- fra/les
+- fra/italiens
+- fra/mangent
+- fra/habituellement
+- fra/à
+- fra/déjeuner
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CN
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

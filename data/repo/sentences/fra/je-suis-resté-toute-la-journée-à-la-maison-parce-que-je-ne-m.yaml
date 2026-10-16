@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je suis resté toute la journée à la maison parce que je ne me sentais pas bien.
+translation: Feeling unwell, I stayed at home all day.
+vocab:
+- fra/je-2
+- fra/suis
+- fra/resté
+- fra/toute
+- fra/la
+- fra/journée
+- fra/à
+- fra/maison
+- fra/parce
+- fra/que
+- fra/je
+- fra/ne
+- fra/me
+- fra/sentais
+- fra/pas
+- fra/bien
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: sundown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Ne penses-tu pas que ça manque d'un peu de profondeur ?
+translation: Don't you think that's a little shallow?
+vocab:
+- fra/ne-2
+- fra/penses-tu
+- fra/pas
+- fra/que
+- fra/ça
+- fra/manque
+- fra/d-un
+- fra/peu
+- fra/de
+- fra/profondeur
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

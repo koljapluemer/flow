@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Il treno sta partendo e non abbiamo ancora comprato i nostri biglietti!
+translation: The train is taking off and we haven't bought our tickets!
+vocab:
+- ita/e
+- ita/i
+credits:
+- author: carlosalberto
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

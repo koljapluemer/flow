@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: J'ai pensé que ça serait chouette que nous passions un peu de temps ensemble.
+translation: I thought that I knew them.
+vocab:
+- fra/j-ai-2
+- fra/pensé
+- fra/que
+- fra/ça
+- fra/serait
+- fra/chouette
+- fra/nous
+- fra/passions
+- fra/un
+- fra/peu
+- fra/de
+- fra/temps
+- fra/ensemble
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

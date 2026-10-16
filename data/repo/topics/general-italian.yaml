@@ -1,0 +1,4 @@
+# yaml-language-server: $schema=../schema/topic.schema.json
+title: General Italian
+sets:
+- general-italian

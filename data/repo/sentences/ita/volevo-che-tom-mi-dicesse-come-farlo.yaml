@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Volevo che Tom mi dicesse come farlo.
+translation: I wanted Tom to tell me how to do that.
+vocab:
+- ita/farlo
+credits:
+- author: Bethanielle
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

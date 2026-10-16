@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Avevo gli occhi pieni di lacrime e riescivo a vederlo a malapena.
+translation: My eyes were full of tears and I could barely see him.
+vocab:
+- ita/gli
+credits:
+- author: Nuel
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

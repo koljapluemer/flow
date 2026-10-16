@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: È un ghostwriter.
+translation: He's a ghostwriter.
+vocab:
+- ita/è-2
+- ita/un
+credits:
+- author: riccioberto
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

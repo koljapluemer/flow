@@ -6,6 +6,11 @@
   "required": ["lemma", "translation"],
   "properties": {
     "lemma": { "type": "string", "minLength": 1 },
-    "translation": { "type": "string", "minLength": 1 }
+    "translation": { "type": "string", "minLength": 1 },
+    "credits": {
+      "description": "Attribution, required for third-party content",
+      "type": "array",
+      "items": { "$ref": "credit.schema.json" }
+    }
   }
 }

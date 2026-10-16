@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Les choses n'ont pas pris la tournure à laquelle Tom s'attendait.
+translation: Things didn't turn out the way Tom expected.
+vocab:
+- fra/les-2
+- fra/choses
+- fra/n-ont
+- fra/pas
+- fra/pris
+- fra/la
+- fra/tournure
+- fra/à
+- fra/laquelle
+- fra/tom
+- fra/s-attendait
+credits:
+- author: GB3
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

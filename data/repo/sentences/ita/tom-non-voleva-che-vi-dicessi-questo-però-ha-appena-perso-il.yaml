@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Tom non voleva che vi dicessi questo, però ha appena perso il suo lavoro.
+translation: Tom didn't want me to tell you this, but he just lost his job.
+vocab:
+- ita/però
+- ita/suo
+- ita/lavoro
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

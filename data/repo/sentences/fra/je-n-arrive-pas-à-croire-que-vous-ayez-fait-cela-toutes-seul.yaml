@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je n'arrive pas à croire que vous ayez fait cela toutes seules.
+translation: I can't believe you did that by yourself.
+vocab:
+- fra/je-2
+- fra/n-arrive
+- fra/pas
+- fra/à
+- fra/croire
+- fra/que
+- fra/vous
+- fra/ayez
+- fra/fait
+- fra/cela
+- fra/toutes
+- fra/seules
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

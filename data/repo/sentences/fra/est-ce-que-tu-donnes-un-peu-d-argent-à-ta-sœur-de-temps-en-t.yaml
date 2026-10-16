@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Est-ce que tu donnes un peu d'argent à ta sœur de temps en temps ?
+translation: Do you sometimes give your sister money?
+vocab:
+- fra/est-ce
+- fra/que
+- fra/tu
+- fra/donnes
+- fra/un
+- fra/peu
+- fra/d-argent
+- fra/à
+- fra/ta
+- fra/sœur
+- fra/de
+- fra/temps
+- fra/en
+credits:
+- author: rene1596
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

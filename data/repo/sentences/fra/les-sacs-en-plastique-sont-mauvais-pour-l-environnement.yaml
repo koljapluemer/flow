@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Les sacs en plastique sont mauvais pour l'environnement.
+translation: Plastic bags are bad for the environment.
+vocab:
+- fra/les-2
+- fra/sacs
+- fra/en
+- fra/plastique
+- fra/sont
+- fra/mauvais
+- fra/pour
+- fra/l-environnement
+credits:
+- author: Petrus
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CM
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

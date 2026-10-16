@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Nous voulons des traductions qui semblent naturelles dans la langue d'origine, pas des traductions mot-à-mot.
+translation: We want natural-sounding translations, not word-for-word direct translations.
+vocab:
+- fra/nous-2
+- fra/voulons
+- fra/des
+- fra/traductions
+- fra/qui
+- fra/semblent
+- fra/naturelles
+- fra/dans
+- fra/la
+- fra/langue
+- fra/d-origine
+- fra/pas
+- fra/mot-à-mot
+credits:
+- author: qdii
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CN
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

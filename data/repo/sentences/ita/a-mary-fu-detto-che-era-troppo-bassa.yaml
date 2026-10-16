@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A Mary fu detto che era troppo bassa.
+translation: Mary was told she was too short.
+vocab:
+- ita/a-2
+- ita/mary
+- ita/fu
+- ita/detto
+- ita/che
+- ita/era
+- ita/troppo
+- ita/bassa
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CF
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

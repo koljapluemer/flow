@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Ha ripreso a lavorare con fisioterapisti.
+translation: He went back to work with physiotherapists.
+vocab:
+- ita/lavorare
+credits:
+- author: marco87
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

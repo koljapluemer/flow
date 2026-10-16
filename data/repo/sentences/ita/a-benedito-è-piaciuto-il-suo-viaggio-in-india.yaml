@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A Benedito è piaciuto il suo viaggio in India.
+translation: Benedito enjoyed his trip to India.
+vocab:
+- ita/a-2
+- ita/benedito
+- ita/è
+- ita/piaciuto
+- ita/il
+- ita/suo
+- ita/viaggio
+- ita/in
+- ita/india
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: Amastan
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Mais non ! Tu n'es pas si vieille que ça !
+translation: Come on. You're not that old.
+vocab:
+- fra/mais-2
+- fra/non
+- fra/tu-2
+- fra/n-es
+- fra/pas
+- fra/si
+- fra/vieille
+- fra/que
+- fra/ça
+credits:
+- author: Hikari
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

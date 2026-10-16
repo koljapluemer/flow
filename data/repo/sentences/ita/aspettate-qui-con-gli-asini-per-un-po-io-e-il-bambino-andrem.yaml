@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: '''Aspettate qui con gli asini per un po''. Io e il bambino andremo a pregare e torneremo da voi immediatamente.'''
+translation: '''You wait here with the donkeys for a while. I and the child will go to pray and we will come again immediately to you.'''
+vocab:
+- ita/aspettate
+- ita/qui
+- ita/con
+- ita/gli
+- ita/asini
+- ita/per
+- ita/un
+- ita/po
+- ita/io
+- ita/e
+- ita/il
+- ita/bambino
+- ita/andremo
+- ita/a
+- ita/pregare
+- ita/torneremo
+- ita/da
+- ita/voi
+- ita/immediatamente
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: cntrational
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

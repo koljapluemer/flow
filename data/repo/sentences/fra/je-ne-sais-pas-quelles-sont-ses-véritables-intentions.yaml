@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je ne sais pas quelles sont ses véritables intentions.
+translation: I don't know what his real intentions are.
+vocab:
+- fra/je-2
+- fra/ne
+- fra/sais
+- fra/pas
+- fra/quelles
+- fra/sont
+- fra/ses
+- fra/véritables
+- fra/intentions
+credits:
+- author: lbdx
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: AlanF_US
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

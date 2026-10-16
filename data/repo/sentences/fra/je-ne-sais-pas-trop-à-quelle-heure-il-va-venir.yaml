@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je ne sais pas trop à quelle heure il va venir.
+translation: I'm not sure when he'll come.
+vocab:
+- fra/je-2
+- fra/ne
+- fra/sais
+- fra/pas
+- fra/trop
+- fra/à
+- fra/quelle
+- fra/heure
+- fra/il
+- fra/va
+- fra/venir
+credits:
+- author: superbolo
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

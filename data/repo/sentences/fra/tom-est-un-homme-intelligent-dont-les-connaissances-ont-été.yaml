@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Tom est un homme intelligent, dont les connaissances ont été acquises à la fois grâce à des études universitaires et par sa propre expérience.
+translation: Tom is both book smart and street smart.
+vocab:
+- fra/tom
+- fra/est
+- fra/un
+- fra/homme
+- fra/intelligent
+- fra/dont
+- fra/les
+- fra/connaissances
+- fra/ont
+- fra/été
+- fra/acquises
+- fra/à
+- fra/la
+- fra/fois
+- fra/grâce
+- fra/des
+- fra/études
+- fra/universitaires
+- fra/et
+- fra/par
+- fra/sa
+- fra/propre
+- fra/expérience
+credits:
+- author: carlosalberto
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: Adelpa
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Ne pensez-vous pas que ce soit un peu bizarre ?
+translation: Don't you think that's a bit odd?
+vocab:
+- fra/ne-2
+- fra/pensez-vous
+- fra/pas
+- fra/que
+- fra/ce-2
+- fra/soit
+- fra/un
+- fra/peu
+- fra/bizarre
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Tom ne sait pas conduire une voiture à vitesses manuelles.
+translation: Tom doesn't know how to drive a manual.
+vocab:
+- fra/tom
+- fra/ne
+- fra/sait
+- fra/pas
+- fra/conduire
+- fra/une
+- fra/voiture
+- fra/à
+- fra/vitesses
+- fra/manuelles
+credits:
+- author: Lulantis
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: Hybrid
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

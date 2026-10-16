@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je n'aime pas la maison dans laquelle il demeure.
+translation: I don't like the house he lives in.
+vocab:
+- fra/je-2
+- fra/n-aime
+- fra/pas
+- fra/la
+- fra/maison
+- fra/dans
+- fra/laquelle
+- fra/il
+- fra/demeure
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: bluepie88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

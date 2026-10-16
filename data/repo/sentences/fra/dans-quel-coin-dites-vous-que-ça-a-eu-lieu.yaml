@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Dans quel coin dites-vous que ça a eu lieu ?
+translation: Whereabouts did you say this happened?
+vocab:
+- fra/dans-2
+- fra/quel-2
+- fra/coin
+- fra/dites-vous
+- fra/que
+- fra/ça
+- fra/a
+- fra/eu
+- fra/lieu
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

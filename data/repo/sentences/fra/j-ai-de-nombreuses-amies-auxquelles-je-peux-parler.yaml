@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: J'ai de nombreuses amies auxquelles je peux parler.
+translation: I have many friends I can talk to.
+vocab:
+- fra/j-ai-2
+- fra/de
+- fra/nombreuses
+- fra/amies
+- fra/auxquelles
+- fra/je
+- fra/peux
+- fra/parler
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

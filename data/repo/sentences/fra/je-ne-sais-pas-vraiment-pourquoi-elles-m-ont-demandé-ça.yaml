@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je ne sais pas vraiment pourquoi elles m'ont demandé ça.
+translation: I'm not sure why they asked me that.
+vocab:
+- fra/je-2
+- fra/ne
+- fra/sais
+- fra/pas
+- fra/vraiment
+- fra/pourquoi
+- fra/elles
+- fra/m-ont
+- fra/demandé
+- fra/ça
+credits:
+- author: Yemana
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: mailohilohi
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

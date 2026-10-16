@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Ses frères se sont mis en colère les uns contre les autres.
+translation: His brothers got angry with each other.
+vocab:
+- fra/ses-2
+- fra/frères
+- fra/se
+- fra/sont
+- fra/mis
+- fra/en
+- fra/colère
+- fra/les
+- fra/uns
+- fra/contre
+- fra/autres
+credits:
+- author: anzart
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A Mary mancano suo marito e i suoi figli.
+translation: Mary misses her husband and children.
+vocab:
+- ita/a-2
+- ita/mary
+- ita/mancano
+- ita/suo
+- ita/marito
+- ita/e
+- ita/i
+- ita/suoi
+- ita/figli
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Nous devons nous assurer que ceci est vrai.
+translation: We need to make sure that this is true.
+vocab:
+- fra/nous-2
+- fra/devons
+- fra/nous
+- fra/assurer
+- fra/que
+- fra/ceci
+- fra/est
+- fra/vrai
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A Hong Kong, l'inglese è una seconda lingua.
+translation: In Hong Kong, English is the second language.
+vocab:
+- ita/a-2
+- ita/hong
+- ita/kong
+- ita/l-inglese
+- ita/è
+- ita/una
+- ita/seconda
+- ita/lingua
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

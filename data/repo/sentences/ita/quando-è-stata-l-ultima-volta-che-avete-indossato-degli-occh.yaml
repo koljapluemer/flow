@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Quando è stata l'ultima volta che avete indossato degli occhiali da sole?
+translation: When was the last time you wore sunglasses?
+vocab:
+- ita/volta
+- ita/degli
+- ita/stata
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

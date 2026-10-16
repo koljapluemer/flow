@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Les germes ne sont visibles qu'au microscope.
+translation: Germs are visible only under the microscope.
+vocab:
+- fra/les-2
+- fra/germes
+- fra/ne
+- fra/sont
+- fra/visibles
+- fra/qu
+- fra/au
+- fra/microscope
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: Eccles17
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

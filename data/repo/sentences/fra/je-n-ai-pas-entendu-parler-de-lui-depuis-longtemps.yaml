@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je n'ai pas entendu parler de lui depuis longtemps.
+translation: I have not heard from him for a long time.
+vocab:
+- fra/je-2
+- fra/n-ai
+- fra/pas
+- fra/entendu
+- fra/parler
+- fra/de
+- fra/lui
+- fra/depuis-2
+- fra/longtemps
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CH
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

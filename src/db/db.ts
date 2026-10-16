@@ -1,11 +1,21 @@
 import Dexie, { type EntityTable } from 'dexie'
-import type { Card } from 'ts-fsrs'
+import type { Card, Grade } from 'ts-fsrs'
+import type { Credit } from '../dumb/credit'
 import type { VideoPlatform } from '../dumb/video/videoPlatforms'
 
 // Content ids are repo refs ("deu/der-tisch"); snippet ids are "<video ref>#<index>".
-export type VocabRow = { id: string; word: string; translation: string }
-export type SentenceRow = { id: string; text: string; translation: string; vocabIds: string[] }
-export type VideoRow = { id: string; title: string; platform: VideoPlatform; platformId: string; explanatory: boolean }
+export type VocabRow = { id: string; word: string; translation: string; credits: Credit[] }
+export type SentenceRow = { id: string; text: string; translation: string; vocabIds: string[]; credits: Credit[] }
+// How a set has a sentence practiced: repeated flashcards, guessed once after its vocab, or only as a vocab example.
+export type SentenceMode = 'flashcard' | 'guess-once' | 'example'
+export type VideoRow = {
+  id: string
+  title: string
+  platform: VideoPlatform
+  platformId: string
+  explanatory: boolean
+  credits: Credit[]
+}
 export type SnippetRow = {
   id: string
   videoId: string
@@ -19,12 +29,18 @@ export type SnippetRow = {
 }
 
 // Gestalt ids are "<kind>:<content id>". `relatedIds` link composites to the gestalts they build on.
-export type GestaltKind = 'vocab' | 'sentence' | 'snippet' | 'explanation'
+// A `challenge` is a guess-once sentence.
+export type GestaltKind = 'vocab' | 'sentence' | 'challenge' | 'snippet' | 'explanation'
 export type GestaltRow = { id: string; kind: GestaltKind; contentId: string; topicIds: string[]; relatedIds: string[] }
-export type GestaltCardRow = Card & { id: string }
+// `lastRating` is missing on cards reviewed before it was tracked.
+export type GestaltCardRow = Card & { id: string; lastRating?: Grade }
 export type ExerciseCardRow = Card & { id: string }
-export type GoalRow = { id: string; kind: 'introduce' | 'repair'; target: string; createdAt: Date }
+// Gestalts shown by an exercise without a grade (vocab intros, challenges).
+export type ShownGestaltRow = { id: string; shownAt: Date }
+export type GoalRow = { id: string; kind: 'introduce' | 'repair' | 'challenge'; target: string; createdAt: Date }
 export type SelectedTopicRow = { id: string }
+// All sentences of a topic, whatever their mode, as of its last sync.
+export type TopicSentencesRow = { id: string; sentenceIds: string[] }
 // Progress of an explanatory video, keyed by video ref. Only `later` brings it back, when due.
 export type ExplanationAnswer = 'notInterested' | 'knewIt' | 'gotIt' | 'later'
 export type ExplanationProgressRow = { id: string; answer: ExplanationAnswer; shownCount: number; due: Date }
@@ -40,6 +56,8 @@ export const db = new Dexie('germanFlow') as Dexie & {
   goals: EntityTable<GoalRow, 'id'>
   selectedTopics: EntityTable<SelectedTopicRow, 'id'>
   explanationProgress: EntityTable<ExplanationProgressRow, 'id'>
+  shownGestalts: EntityTable<ShownGestaltRow, 'id'>
+  topicSentences: EntityTable<TopicSentencesRow, 'id'>
 }
 
 db.version(1).stores({
@@ -82,3 +100,10 @@ db.version(3)
 db.version(4)
   .stores({ videos: 'id', explanationProgress: 'id' })
   .upgrade((tx) => tx.table('snippets').clear())
+
+// Content gets credits; guess-once sentences and their ungraded showings get tables.
+db.version(5)
+  .stores({ shownGestalts: 'id', topicSentences: 'id' })
+  .upgrade((tx) =>
+    Promise.all(['vocab', 'sentences', 'videos'].map((table) => tx.table(table).toCollection().modify({ credits: [] })))
+  )

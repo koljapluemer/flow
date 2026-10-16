@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Aujourd'hui, Noël est fêté dans de nombreuses régions du monde.
+translation: Today, Christmas is celebrated in many parts of the world.
+vocab:
+- fra/aujourd-hui
+- fra/noël
+- fra/est
+- fra/fêté
+- fra/dans
+- fra/de
+- fra/nombreuses
+- fra/régions
+- fra/du
+- fra/monde
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: Miktsoanit
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

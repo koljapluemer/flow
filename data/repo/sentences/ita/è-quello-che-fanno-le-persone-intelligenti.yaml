@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: È quello che fanno le persone intelligenti.
+translation: That's what smart people do.
+vocab:
+- ita/persone
+- ita/fanno
+- ita/quello
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

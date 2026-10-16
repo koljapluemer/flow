@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Vous êtes la seule personne à laquelle je puisse me fier.
+translation: You're the only person I can trust.
+vocab:
+- fra/vous-2
+- fra/êtes
+- fra/la
+- fra/seule
+- fra/personne
+- fra/à
+- fra/laquelle
+- fra/je
+- fra/puisse
+- fra/me
+- fra/fier
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

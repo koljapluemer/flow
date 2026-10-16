@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Ma femme ne va pas très bien.
+translation: My wife isn't doing very well.
+vocab:
+- fra/ma-2
+- fra/femme
+- fra/ne
+- fra/va
+- fra/pas
+- fra/très
+- fra/bien
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: Eccles17
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

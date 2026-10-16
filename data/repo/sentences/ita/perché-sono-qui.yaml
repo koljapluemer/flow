@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Perché sono qui?
+translation: Why am I here?
+vocab:
+- ita/qui
+- ita/sono
+credits:
+- author: Shadd
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

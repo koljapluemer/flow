@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Tom n'est pas si vieux que ça, n'est-ce pas ?
+translation: Tom isn't really that old, is he?
+vocab:
+- fra/tom
+- fra/n-est
+- fra/pas
+- fra/si
+- fra/vieux
+- fra/que
+- fra/ça
+- fra/n-est-ce
+credits:
+- author: lbdx
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

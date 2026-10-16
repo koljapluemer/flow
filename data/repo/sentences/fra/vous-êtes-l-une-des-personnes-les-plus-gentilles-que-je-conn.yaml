@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Vous êtes l'une des personnes les plus gentilles que je connaisse.
+translation: You're one of the nicest people I know.
+vocab:
+- fra/vous-2
+- fra/êtes
+- fra/l-une
+- fra/des
+- fra/personnes
+- fra/les
+- fra/plus
+- fra/gentilles
+- fra/que
+- fra/je
+- fra/connaisse
+credits:
+- author: Borbie
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

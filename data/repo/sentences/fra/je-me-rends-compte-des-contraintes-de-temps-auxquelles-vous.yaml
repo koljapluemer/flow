@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je me rends compte des contraintes de temps auxquelles vous êtes soumis.
+translation: I appreciate the time constraints you're under.
+vocab:
+- fra/je-2
+- fra/me
+- fra/rends
+- fra/compte
+- fra/des
+- fra/contraintes
+- fra/de
+- fra/temps
+- fra/auxquelles
+- fra/vous
+- fra/êtes
+- fra/soumis
+credits:
+- author: lbdx
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CM
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

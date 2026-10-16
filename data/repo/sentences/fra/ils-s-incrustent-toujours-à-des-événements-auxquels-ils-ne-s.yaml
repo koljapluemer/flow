@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Ils s'incrustent toujours à des événements auxquels ils ne sont pas invités.
+translation: They always gatecrash events they're not invited to.
+vocab:
+- fra/ils-2
+- fra/s-incrustent
+- fra/toujours
+- fra/à
+- fra/des
+- fra/événements
+- fra/auxquels
+- fra/ils
+- fra/ne
+- fra/sont
+- fra/pas
+- fra/invités
+credits:
+- author: lbdx
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: rul
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

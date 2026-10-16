@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: J'ai vraiment faim. Je n'ai pas mangé de toute la semaine.
+translation: I'm really hungry. I haven't eaten all week.
+vocab:
+- fra/j-ai-2
+- fra/vraiment
+- fra/faim
+- fra/je-2
+- fra/n-ai
+- fra/pas
+- fra/mangé
+- fra/de
+- fra/toute
+- fra/la
+- fra/semaine
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

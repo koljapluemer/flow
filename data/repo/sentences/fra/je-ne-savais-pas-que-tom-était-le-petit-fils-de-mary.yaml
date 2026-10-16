@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je ne savais pas que Tom était le petit-fils de Mary.
+translation: I didn't know that Tom was Mary's grandson.
+vocab:
+- fra/je-2
+- fra/ne
+- fra/savais
+- fra/pas
+- fra/que
+- fra/tom
+- fra/était
+- fra/le
+- fra/petit-fils
+- fra/de
+- fra/mary
+credits:
+- author: Rockaround
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

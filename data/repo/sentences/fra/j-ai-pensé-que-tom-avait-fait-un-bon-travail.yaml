@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: J'ai pensé que Tom avait fait un bon travail.
+translation: I thought that Tom did a nice job.
+vocab:
+- fra/j-ai-2
+- fra/pensé
+- fra/que
+- fra/tom
+- fra/avait
+- fra/fait
+- fra/un
+- fra/bon
+- fra/travail
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

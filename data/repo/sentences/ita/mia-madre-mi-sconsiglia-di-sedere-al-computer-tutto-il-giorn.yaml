@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Mia madre mi sconsiglia di sedere al computer tutto il giorno.
+translation: My mother advises me against sitting at my computer all day long.
+vocab:
+- ita/tutto
+- ita/giorno
+- ita/computer
+- ita/madre-2
+credits:
+- author: Nuel
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

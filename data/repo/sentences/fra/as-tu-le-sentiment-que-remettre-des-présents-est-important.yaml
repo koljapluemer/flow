@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: As-tu le sentiment que remettre des présents est important ?
+translation: Do you feel giving gifts is important?
+vocab:
+- fra/as-tu
+- fra/le
+- fra/sentiment
+- fra/que
+- fra/remettre
+- fra/des
+- fra/présents
+- fra/est
+- fra/important
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

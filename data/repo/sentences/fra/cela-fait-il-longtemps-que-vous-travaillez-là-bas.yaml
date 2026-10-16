@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Cela fait-il longtemps que vous travaillez là-bas ?
+translation: Have you been working there for long?
+vocab:
+- fra/cela
+- fra/fait
+- fra/il
+- fra/longtemps
+- fra/que
+- fra/vous
+- fra/travaillez
+- fra/là-bas
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: User66640
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

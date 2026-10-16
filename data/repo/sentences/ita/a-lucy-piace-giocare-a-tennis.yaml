@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A Lucy piace giocare a tennis.
+translation: Lucy likes playing tennis.
+vocab:
+- ita/a-2
+- ita/lucy
+- ita/piace
+- ita/giocare
+- ita/a
+- ita/tennis
+credits:
+- author: Pharamp
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CN
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

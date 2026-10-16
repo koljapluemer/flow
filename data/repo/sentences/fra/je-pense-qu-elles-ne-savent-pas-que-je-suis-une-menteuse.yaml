@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je pense qu'elles ne savent pas que je suis une menteuse.
+translation: I think they don't know I'm a liar.
+vocab:
+- fra/je-2
+- fra/pense
+- fra/qu-elles
+- fra/ne
+- fra/savent
+- fra/pas
+- fra/que
+- fra/je
+- fra/suis
+- fra/une
+- fra/menteuse
+credits:
+- author: Aiji
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: AlanF_US
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

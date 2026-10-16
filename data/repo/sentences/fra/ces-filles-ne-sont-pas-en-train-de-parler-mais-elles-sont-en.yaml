@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Ces filles ne sont pas en train de parler mais elles sont en train de chanter.
+translation: These girls are not speaking but singing.
+vocab:
+- fra/ces-2
+- fra/filles
+- fra/ne
+- fra/sont
+- fra/pas
+- fra/en
+- fra/train
+- fra/de
+- fra/parler
+- fra/mais
+- fra/elles
+- fra/chanter
+credits:
+- author: carlosalberto
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

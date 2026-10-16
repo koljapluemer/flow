@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Faites-nous savoir si vous êtes disponible la semaine prochaine.
+translation: Let us know if you're available next week.
+vocab:
+- fra/faites-2
+- fra/nous
+- fra/savoir
+- fra/si
+- fra/vous
+- fra/êtes
+- fra/disponible
+- fra/la
+- fra/semaine
+- fra/prochaine
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: patgfisher
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

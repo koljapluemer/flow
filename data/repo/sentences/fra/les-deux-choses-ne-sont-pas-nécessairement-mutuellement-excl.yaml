@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Les deux choses ne sont pas nécessairement mutuellement exclusives.
+translation: The two things aren't necessarily mutually exclusive.
+vocab:
+- fra/les-2
+- fra/deux
+- fra/choses
+- fra/ne
+- fra/sont
+- fra/pas
+- fra/nécessairement
+- fra/mutuellement
+- fra/exclusives
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: irrationale
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

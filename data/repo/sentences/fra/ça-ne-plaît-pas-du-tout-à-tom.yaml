@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Ça ne plaît pas du tout à Tom.
+translation: Tom doesn't like that at all.
+vocab:
+- fra/ça-2
+- fra/ne
+- fra/plaît
+- fra/pas
+- fra/du
+- fra/tout
+- fra/à
+- fra/tom
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

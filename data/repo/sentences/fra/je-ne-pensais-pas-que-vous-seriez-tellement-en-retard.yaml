@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je ne pensais pas que vous seriez tellement en retard.
+translation: I didn't think you'd be so late.
+vocab:
+- fra/je-2
+- fra/ne
+- fra/pensais
+- fra/pas
+- fra/que
+- fra/vous
+- fra/seriez
+- fra/tellement
+- fra/en
+- fra/retard
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

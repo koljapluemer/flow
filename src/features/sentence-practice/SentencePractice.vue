@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import type { Grade } from 'ts-fsrs'
+import CreditList from '@/dumb/CreditList.vue'
 import FlashcardShell from '@/dumb/FlashcardShell.vue'
 import type { SentenceView } from './sentencePractice'
 import VocabList from './VocabList.vue'
@@ -30,6 +31,7 @@ const emit = defineEmits<{ done: [rating: Grade] }>()
         v-if="!view.showVocabOnFront"
         :vocab="view.vocab"
       />
+      <CreditList :credits="view.credits" />
     </template>
   </FlashcardShell>
 </template>

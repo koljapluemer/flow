@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je n'arrive pas à croire que vous n'ayez jamais entendu parler de nous.
+translation: I can't believe you've never heard of us.
+vocab:
+- fra/je-2
+- fra/n-arrive
+- fra/pas
+- fra/à
+- fra/croire
+- fra/que
+- fra/vous
+- fra/n-ayez
+- fra/jamais
+- fra/entendu
+- fra/parler
+- fra/de
+- fra/nous
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

@@ -3,7 +3,7 @@ import { logger } from '@/dumb/log'
 import { useOnline } from '@/dumb/useOnline'
 import type { Exercise, ExerciseResult, ExerciseType } from '@/entities/exercise/exercise'
 import { syncSelectedTopics } from '../content/syncTopics'
-import { fillIntroduceGoals, settleGoals } from './goals/goalLifecycle'
+import { fillGoals, settleGoals } from './goals/goalLifecycle'
 import { pickExercise } from './pickExercise'
 import { pickGestalt, type GestaltPick } from './pickGestalt'
 import { loadQueueState, type QueueState } from './queueState'
@@ -21,9 +21,9 @@ async function nextGestalt(state: QueueState): Promise<GestaltPick | null> {
   const [introduced] = await settleGoals(state)
   if (introduced) {
     log('→ %s (goal done)', introduced)
-    return { id: introduced, branch: 'goal done' }
+    return { id: introduced, branch: 'goal done', style: 'flashcard' }
   }
-  await fillIntroduceGoals(state)
+  await fillGoals(state)
   return pickGestalt(state, lastShownId)
 }
 
@@ -41,7 +41,7 @@ export function usePracticeQueue() {
     state = await loadQueueState(topicIds, online.value)
     const pick = await nextGestalt(state)
     const gestalt = pick ? state.context.gestalts.get(pick.id) : undefined
-    const chosen = gestalt ? pickExercise(gestalt, state) : null
+    const chosen = gestalt && pick ? pickExercise(gestalt, state, pick.style) : null
 
     lastShownId = pick?.id ?? null
     emptyReason.value = chosen ? null : topicIds.length === 0 ? 'noTopics' : 'done'

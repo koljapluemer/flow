@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Ce n'est pas la manière avec laquelle nous faisons les choses, ici.
+translation: That is not how we do things here.
+vocab:
+- fra/ce
+- fra/n-est
+- fra/pas
+- fra/la
+- fra/manière
+- fra/avec
+- fra/laquelle
+- fra/nous
+- fra/faisons
+- fra/les
+- fra/choses
+- fra/ici
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

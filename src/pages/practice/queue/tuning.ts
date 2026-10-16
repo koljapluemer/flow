@@ -7,3 +7,5 @@ export const P_SPAWN_REPAIR = 0.5
 export const P_CHASE = 0.7
 // Share of a target's related gestalts that must be introduced and not due before the target is introduced.
 export const INTRODUCE_THRESHOLD = 0.5
+// Related gestalts of a challenge that are practiced during its goal, even if all are ready already.
+export const CHALLENGE_MIN_PRACTICED = 2

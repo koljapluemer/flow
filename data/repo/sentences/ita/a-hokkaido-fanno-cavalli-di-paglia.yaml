@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A Hokkaido fanno cavalli di paglia.
+translation: In Hokkaido, they make horses of straw.
+vocab:
+- ita/a-2
+- ita/hokkaido
+- ita/fanno
+- ita/cavalli
+- ita/di
+- ita/paglia
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: Zifre
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

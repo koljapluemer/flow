@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Quelle cuisson voudrais-tu pour ton bifteck ?
+translation: How would you like your steak?
+vocab:
+- fra/quelle-2
+- fra/cuisson
+- fra/voudrais
+- fra/tu
+- fra/pour
+- fra/ton
+- fra/bifteck
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

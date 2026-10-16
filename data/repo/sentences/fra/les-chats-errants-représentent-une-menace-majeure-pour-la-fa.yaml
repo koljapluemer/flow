@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Les chats errants représentent une menace majeure pour la faune sauvage.
+translation: Feral cats pose a major threat to wildlife.
+vocab:
+- fra/les-2
+- fra/chats
+- fra/errants
+- fra/représentent
+- fra/une
+- fra/menace
+- fra/majeure
+- fra/pour
+- fra/la
+- fra/faune
+- fra/sauvage
+credits:
+- author: lbdx
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: soliloquist
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

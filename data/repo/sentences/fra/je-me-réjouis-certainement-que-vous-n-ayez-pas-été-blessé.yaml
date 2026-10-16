@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je me réjouis certainement que vous n'ayez pas été blessé.
+translation: I sure am glad you weren't hurt.
+vocab:
+- fra/je-2
+- fra/me
+- fra/réjouis
+- fra/certainement
+- fra/que
+- fra/vous
+- fra/n-ayez
+- fra/pas
+- fra/été
+- fra/blessé
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

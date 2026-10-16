@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: C’est ainsi que même une seule lettre peut complètement changer le sens.
+translation: That's how even a single letter can completely change the meaning.
+vocab:
+- fra/c-est-2
+- fra/ainsi
+- fra/que
+- fra/même
+- fra/une
+- fra/seule
+- fra/lettre
+- fra/peut
+- fra/complètement
+- fra/changer
+- fra/le
+- fra/sens
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: Miktsoanit
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

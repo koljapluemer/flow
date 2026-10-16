@@ -4,10 +4,10 @@ import json
 from collections import Counter
 
 from jsonschema import Draft202012Validator
+from referencing import Registry, Resource
 
 from flowcms import repo
-
-MIN_EXAMPLES = 3
+from flowcms.languages import min_examples
 
 
 def lang_of(ref: str) -> str:
@@ -26,8 +26,18 @@ def check_index(pool: str) -> list[str]:
     )
 
 
+def schema_registry() -> Registry:
+    """All schemas by file name, so they can $ref each other (e.g. credit.schema.json)."""
+    resources = [
+        (path.name, Resource.from_contents(json.loads(path.read_text(encoding="utf-8"))))
+        for path in repo.SCHEMA_DIR.glob("*.schema.json")
+    ]
+    return Registry().with_resources(resources)
+
+
 def check_schema(pool: str, items: dict[str, dict]) -> list[str]:
-    validator = Draft202012Validator(json.loads(repo.schema_path(pool).read_text(encoding="utf-8")))
+    schema = json.loads(repo.schema_path(pool).read_text(encoding="utf-8"))
+    validator = Draft202012Validator(schema, registry=schema_registry())
     return [f"{pool}/{ref}: {error.message}" for ref, item in items.items() for error in validator.iter_errors(item)]
 
 
@@ -45,10 +55,19 @@ def check_topics(topics: dict, pools: dict) -> list[str]:
     return [
         f"topics/{topic_id}: unknown {pool[:-1]} {ref}"
         for topic_id, topic in topics.items()
-        for pool in ("sentences", "videos")
+        for pool in ("sets", "videos")
         for ref in topic.get(pool, [])
         if ref not in pools[pool]
     ]
+
+
+def check_sets(sets: dict, sentences: dict) -> list[str]:
+    errors = []
+    for set_id, item in sets.items():
+        refs = [entry.get("ref") for entry in item.get("sentences", [])]
+        errors += [f"sets/{set_id}: duplicate {ref}" for ref, count in Counter(refs).items() if count > 1]
+        errors += [f"sets/{set_id}: unknown sentence {ref}" for ref in refs if ref not in sentences]
+    return errors
 
 
 def check_videos(videos: dict, vocab: dict) -> list[str]:
@@ -72,7 +91,11 @@ def check_videos(videos: dict, vocab: dict) -> list[str]:
 
 def check_examples(sentences: dict, vocab: dict) -> list[str]:
     counts = Counter(vocab_ref for sentence in sentences.values() for vocab_ref in sentence.get("vocab", []))
-    return [f"vocab/{ref}: only {counts[ref]} of {MIN_EXAMPLES} sentences" for ref in vocab if counts[ref] < MIN_EXAMPLES]
+    return [
+        f"vocab/{ref}: only {counts[ref]} of {min_examples(lang_of(ref))} sentences"
+        for ref in vocab
+        if counts[ref] < min_examples(lang_of(ref))
+    ]
 
 
 def validate() -> list[str]:
@@ -88,6 +111,7 @@ def validate() -> list[str]:
     return (
         errors
         + check_topics(pools["topics"], pools)
+        + check_sets(pools["sets"], pools["sentences"])
         + check_videos(pools["videos"], pools["vocab"])
         + check_examples(pools["sentences"], pools["vocab"])
     )

@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: En quelques jours, les forces allemandes se sont déployées dans toute la Pologne.
+translation: Within days, German forces fanned out across Poland.
+vocab:
+- fra/en-2
+- fra/quelques
+- fra/jours
+- fra/les
+- fra/forces
+- fra/allemandes
+- fra/se
+- fra/sont
+- fra/déployées
+- fra/dans
+- fra/toute
+- fra/la
+- fra/pologne
+credits:
+- author: lbdx
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: AlanF_US
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

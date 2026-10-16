@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Est-ce que les mecs qui ne boivent pas d'alcool sont toujours des mecs ?
+translation: Are men who don't drink still men?
+vocab:
+- fra/est-ce
+- fra/que
+- fra/les
+- fra/mecs
+- fra/qui
+- fra/ne
+- fra/boivent
+- fra/pas
+- fra/d-alcool
+- fra/sont
+- fra/toujours
+- fra/des
+credits:
+- author: felix63
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: FeuDRenais2
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

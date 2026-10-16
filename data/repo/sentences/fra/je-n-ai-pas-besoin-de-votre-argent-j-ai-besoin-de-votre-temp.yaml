@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je n'ai pas besoin de votre argent. J'ai besoin de votre temps.
+translation: I don't need your money. I just need your time.
+vocab:
+- fra/je-2
+- fra/n-ai
+- fra/pas
+- fra/besoin
+- fra/de
+- fra/votre
+- fra/argent
+- fra/j-ai-2
+- fra/temps
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

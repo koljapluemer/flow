@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Tom non sapeva quale fosse il cognome di Mary.
+translation: Tom didn't know what Mary's last name was.
+vocab:
+- ita/fosse
+- ita/mary
+- ita/quale
+credits:
+- author: marco87
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Un figlio avrebbe rappresentato la continuità in un mondo in rapido cambiamento.
+translation: A son would represent continuity in a rapidly changing world.
+vocab:
+- ita/mondo
+- ita/figlio
+credits:
+- author: Nuel
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

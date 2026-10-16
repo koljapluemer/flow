@@ -2,7 +2,7 @@
 
 Already imported sentences are skipped, so reruns only process new lines. Afterwards, generated example
 sentences are added until every vocab item of the language has at least MIN_EXAMPLES sentences.
-All new sentences are added to the topic "Basic <Language>".
+All new sentences are added as flashcards to the set "Basic <Language>", which the topic of that name references.
 
 Usage: uv run misc_scripts/000_generate-sentence-vocab.py <lang>
 """
@@ -12,7 +12,7 @@ import sys
 
 from flowcms import repo
 from flowcms.languages import LANGUAGES, Language
-from flowcms.pools import Pools, add_examples, add_to_topic
+from flowcms.pools import Pools, add_examples, add_to_set, add_to_topic
 from flowcms.split_vocab import split_vocab
 
 LINE = re.compile(r'^"(?P<translation>.+?)":\s*"(?P<text>.+)"$')
@@ -47,7 +47,9 @@ def main(lang: str) -> None:
     refs = import_sentences(pools, language)
     refs += add_examples(pools, language)
     pools.save()
-    add_to_topic(f"basic-{language.name.lower()}", f"Basic {language.name}", {"sentences": refs})
+    set_id, title = f"basic-{language.name.lower()}", f"Basic {language.name}"
+    add_to_set(set_id, title, refs, "flashcard")
+    add_to_topic(set_id, title, {"sets": [set_id]})
     print(f"Added {len(pools.added['sentences'])} sentences and {len(pools.added['vocab'])} vocab items.")
 
 

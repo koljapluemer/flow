@@ -5,15 +5,17 @@
   | Kind          | Content                        | `relatedIds`          |
   | ------------- | ------------------------------ | --------------------- |
   | `vocab`       | a vocab item                   | none                  |
-  | `sentence`    | a sentence                     | all its vocab         |
+  | `sentence`    | a flashcard sentence           | all its vocab         |
+  | `challenge`   | a guess-once sentence          | all its vocab         |
   | `snippet`     | a clip of an immersion video   | its core vocab        |
   | `explanation` | a whole explanatory video      | none                  |
 
-  Sentences and snippets are **composite**: they build on their related gestalts. `topicIds` lists the topics a gestalt is in; gestalts outside the selected topics are paused.
+  Sentences, challenges and snippets are **composite**: they build on their related gestalts. `topicIds` lists the topics a gestalt is in; gestalts outside the selected topics are paused.
 - **Exercise**: one way to practice a gestalt, e.g. a vocab flashcard with translated examples. Id `<type>:<variant>:<content id>`. Exercises are derived from gestalts by exercise types (`exercise-types.md`) and are not stored.
-- **Introduced**: a gestalt is introduced once it was practiced the first time.
+- **Introduced**: a gestalt is introduced once it was practiced the first time. A challenge is introduced once shown, and is never due.
 - **Due**: an introduced gestalt that should be practiced again now.
-- **Cards**: vocab, sentence and snippet gestalts and their exercises are scheduled by FSRS. Each gets a card on its first review (`gestaltCards`, `exerciseCards`); having a card means introduced, the card's due date says when it is due.
+- **Cards**: vocab, sentence and snippet gestalts and their exercises are scheduled by FSRS. Each gets a card on its first review (`gestaltCards`, `exerciseCards`); having a card means introduced, the card's due date says when it is due. A gestalt card also keeps its last rating; Good and Easy count as remembered.
+- **Shown**: exercises without a grade (vocab intros, challenges) record their gestalts as shown (`shownGestalts`).
 - **Explanation progress**: explanations are not scheduled by FSRS but by the learner's answer (`explanationProgress`):
 
   | Answer             | Effect                                  |

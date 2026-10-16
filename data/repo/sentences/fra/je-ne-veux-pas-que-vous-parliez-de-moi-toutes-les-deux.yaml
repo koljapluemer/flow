@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je ne veux pas que vous parliez de moi toutes les deux.
+translation: I don't want you two talking about me.
+vocab:
+- fra/je-2
+- fra/ne
+- fra/veux
+- fra/pas
+- fra/que
+- fra/vous
+- fra/parliez
+- fra/de
+- fra/moi
+- fra/toutes
+- fra/les
+- fra/deux
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Non so se i padrini di mio figlio siano ancora vivi.
+translation: I don't know if my son's godparents are still alive.
+vocab:
+- ita/se
+- ita/figlio
+credits:
+- author: carlosalberto
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

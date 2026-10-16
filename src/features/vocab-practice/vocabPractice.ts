@@ -1,11 +1,10 @@
 import { State } from 'ts-fsrs'
 import type { GestaltCardRow, SentenceRow } from '@/db/db'
+import type { Example } from '@/dumb/example'
 import { pickRandomMany } from '@/dumb/pickRandom'
 import { makeExercise, type ExerciseContext, type ExerciseType } from '@/entities/exercise/exercise'
-import { gestaltId } from '@/entities/gestalt/gestalt'
+import { sentencesWithVocab } from '@/entities/sentence/sentence'
 import VocabPractice from './VocabPractice.vue'
-
-export type Example = { text: string; translation: string }
 
 export type VocabView = {
   word: string
@@ -29,23 +28,22 @@ function fitsVariant(variant: Variant, card: GestaltCardRow | undefined): boolea
 }
 
 function toExample(sentence: SentenceRow): Example {
-  return { text: sentence.text, translation: sentence.translation }
+  return { text: sentence.text, translation: sentence.translation, credits: sentence.credits }
 }
 
-// Examples are the selected sentences containing the vocab.
+// Examples are the example sentences (see `ExerciseContext`) containing the vocab.
 function examplesOf(vocabId: string, context: ExerciseContext): Example[] {
-  const sentences = [...context.sentences.values()].filter(
-    (sentence) => context.gestalts.has(gestaltId('sentence', sentence.id)) && sentence.vocabIds.includes(vocabId)
-  )
+  const sentences = sentencesWithVocab(vocabId, context.sentences, context.exampleSentenceIds)
   return pickRandomMany(sentences, EXAMPLE_COUNT).map(toExample)
 }
 
 export const vocabPractice: ExerciseType<VocabView> = {
   type: TYPE,
   gestaltKind: 'vocab',
+  style: 'flashcard',
   requiresOnline: false,
   variants: (gestalt) => (['translated', 'examples', 'bare'] as const).map((variant) => makeExercise(TYPE, variant, gestalt)),
-  fit: (exercise, card) => (fitsVariant(exercise.variant as Variant, card) ? 1 : 0),
+  fit: (exercise, { card }) => (fitsVariant(exercise.variant as Variant, card) ? 1 : 0),
   resolve: (exercise, context) => {
     const entry = context.vocab.get(exercise.contentId)
     const examples = examplesOf(exercise.contentId, context)

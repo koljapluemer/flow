@@ -1,0 +1,4 @@
+# yaml-language-server: $schema=../schema/topic.schema.json
+title: General French
+sets:
+- general-french

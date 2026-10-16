@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: 8 – 4 è una sottrazione.
+translation: 8 - 4 is subtraction.
+vocab:
+- ita/8
+- ita/4
+- ita/è
+- ita/una
+- ita/sottrazione
+credits:
+- author: rado
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: Miktsoanit
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

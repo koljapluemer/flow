@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je ne peux pas vous laisser aller là-dedans toute seule.
+translation: I can't let you go in there alone.
+vocab:
+- fra/je-2
+- fra/ne
+- fra/peux
+- fra/pas
+- fra/vous
+- fra/laisser
+- fra/aller
+- fra/là-dedans
+- fra/toute
+- fra/seule
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

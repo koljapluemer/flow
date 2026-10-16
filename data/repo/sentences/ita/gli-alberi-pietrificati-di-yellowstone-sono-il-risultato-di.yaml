@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Gli alberi pietrificati di Yellowstone sono il risultato di flussi di detriti vulcanici verificatisi circa cinquanta milioni di anni fa.
+translation: Petrified trees in Yellowstone are the result of volcanic debris flows that occurred about 50 million years ago.
+vocab:
+- ita/fa
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

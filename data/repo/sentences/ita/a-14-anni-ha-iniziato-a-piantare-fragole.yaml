@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A 14 anni, ha iniziato a piantare fragole.
+translation: When he was 14, he started to plant strawberries.
+vocab:
+- ita/a-2
+- ita/14
+- ita/anni
+- ita/ha
+- ita/iniziato
+- ita/a
+- ita/piantare
+- ita/fragole
+credits:
+- author: PazEr
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: pne
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

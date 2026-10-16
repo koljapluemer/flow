@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A Layla piacevano i suoi capelli naturali.
+translation: Layla loved her natural hair.
+vocab:
+- ita/a-2
+- ita/layla
+- ita/piacevano
+- ita/i
+- ita/suoi
+- ita/capelli
+- ita/naturali
+credits:
+- author: jacopofar
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: OsoHombre
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

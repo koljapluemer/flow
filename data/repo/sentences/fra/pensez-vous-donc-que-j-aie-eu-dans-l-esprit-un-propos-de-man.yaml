@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Pensez-vous donc que j'aie eu dans l'esprit un propos de manant?
+translation: Do you think I meant country matters?
+vocab:
+- fra/pensez-vous-2
+- fra/donc
+- fra/que
+- fra/j-aie
+- fra/eu
+- fra/dans
+- fra/l-esprit
+- fra/un
+- fra/propos
+- fra/de
+- fra/manant
+credits:
+- author: Scott
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

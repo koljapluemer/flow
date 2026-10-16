@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Jack ha un gatto e un pappagallo a casa.
+translation: Jack keeps a cat and a parrot at home.
+vocab:
+- ita/jack
+- ita/e
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

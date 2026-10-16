@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je ne savais pas que vous deux étiez meilleurs amis à présent.
+translation: I didn't know you two were besties now.
+vocab:
+- fra/je-2
+- fra/ne
+- fra/savais
+- fra/pas
+- fra/que
+- fra/vous
+- fra/deux
+- fra/étiez
+- fra/meilleurs
+- fra/amis
+- fra/à
+- fra/présent
+credits:
+- author: lbdx
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: ddnktr
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

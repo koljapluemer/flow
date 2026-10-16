@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Ce sont des questions auxquelles je ne peux pas répondre.
+translation: These are questions that I can't answer.
+vocab:
+- fra/ce
+- fra/sont
+- fra/des
+- fra/questions
+- fra/auxquelles
+- fra/je
+- fra/ne
+- fra/peux
+- fra/pas
+- fra/répondre
+credits:
+- author: Aiji
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

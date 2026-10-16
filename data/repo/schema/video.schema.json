@@ -36,6 +36,11 @@
           }
         }
       }
+    },
+    "credits": {
+      "description": "Attribution, required for third-party content",
+      "type": "array",
+      "items": { "$ref": "credit.schema.json" }
     }
   }
 }

@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Tom aveva sete e ha chiesto un po' d'acqua.
+translation: Tom was thirsty and asked for some water.
+vocab:
+- ita/po
+- ita/d-acqua
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

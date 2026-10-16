@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Mi scuso se ho ferito i suoi sentimenti.
+translation: I apologize if I hurt your feelings.
+vocab:
+- ita/suoi
+- ita/se
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

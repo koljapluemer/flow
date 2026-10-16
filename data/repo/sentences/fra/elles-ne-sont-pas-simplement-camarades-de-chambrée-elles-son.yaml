@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Elles ne sont pas simplement camarades de chambrée. Elles sont aussi amantes.
+translation: They're not just roommates. They're also lovers.
+vocab:
+- fra/elles-2
+- fra/ne
+- fra/sont
+- fra/pas
+- fra/simplement
+- fra/camarades
+- fra/de
+- fra/chambrée
+- fra/aussi
+- fra/amantes
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: Hybrid
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

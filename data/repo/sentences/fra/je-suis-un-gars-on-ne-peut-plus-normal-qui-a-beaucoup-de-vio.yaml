@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Je suis un gars on ne peut plus normal qui a beaucoup de violons d'Ingres, peut-être trop.
+translation: I'm a completely normal guy who has many hobbies, maybe too many.
+vocab:
+- fra/je-2
+- fra/suis
+- fra/un
+- fra/gars
+- fra/on
+- fra/ne
+- fra/peut
+- fra/plus
+- fra/normal
+- fra/qui
+- fra/a
+- fra/beaucoup
+- fra/de
+- fra/violons
+- fra/d-ingres
+- fra/peut-être
+- fra/trop
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: Eldad
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

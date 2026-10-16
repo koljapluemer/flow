@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: N'as-tu rien appris de tes erreurs ?
+translation: Have you learned nothing from your mistakes?
+vocab:
+- fra/n-as
+- fra/tu
+- fra/rien
+- fra/appris
+- fra/de
+- fra/tes
+- fra/erreurs
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: Hybrid
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

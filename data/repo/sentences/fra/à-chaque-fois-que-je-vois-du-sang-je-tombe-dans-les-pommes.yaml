@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: À chaque fois que je vois du sang, je tombe dans les pommes !
+translation: Any time I see blood, I faint!
+vocab:
+- fra/à-2
+- fra/chaque
+- fra/fois
+- fra/que
+- fra/je
+- fra/vois
+- fra/du
+- fra/sang
+- fra/tombe
+- fra/dans
+- fra/les
+- fra/pommes
+credits:
+- author: Aiji
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Jimmy è stato ferito in un incidente stradale.
+translation: Jimmy was hurt in a traffic accident.
+vocab:
+- ita/stato
+credits:
+- author: Pharamp
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: L'État ne devrait pas supprimer des droits civiques, il devrait les protéger !
+translation: The state shouldn't get rid of civil rights, it should protect them!
+vocab:
+- fra/l-état
+- fra/ne
+- fra/devrait
+- fra/pas
+- fra/supprimer
+- fra/des
+- fra/droits
+- fra/civiques
+- fra/il
+- fra/les
+- fra/protéger
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: niceguydave
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

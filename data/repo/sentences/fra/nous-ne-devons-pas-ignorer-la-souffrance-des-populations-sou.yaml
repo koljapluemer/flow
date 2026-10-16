@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Nous ne devons pas ignorer la souffrance des populations soumises à une mauvaise gestion.
+translation: We must not ignore populations suffering under misgovernment.
+vocab:
+- fra/nous-2
+- fra/ne
+- fra/devons
+- fra/pas
+- fra/ignorer
+- fra/la
+- fra/souffrance
+- fra/des
+- fra/populations
+- fra/soumises
+- fra/à
+- fra/une
+- fra/mauvaise
+- fra/gestion
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: blay_paul
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

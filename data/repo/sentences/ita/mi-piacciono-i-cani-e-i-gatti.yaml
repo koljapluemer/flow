@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Mi piacciono i cani e i gatti.
+translation: I like dogs and cats.
+vocab:
+- ita/e
+- ita/i
+- ita/cani
+- ita/gatti
+- ita/piacciono
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

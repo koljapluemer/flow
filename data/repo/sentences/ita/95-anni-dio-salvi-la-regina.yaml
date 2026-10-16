@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: 95 anni! Dio salvi la regina!
+translation: 95 years old! God Save the Queen!
+vocab:
+- ita/95
+- ita/anni
+- ita/dio
+- ita/salvi
+- ita/la
+- ita/regina
+credits:
+- author: carlosalberto
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

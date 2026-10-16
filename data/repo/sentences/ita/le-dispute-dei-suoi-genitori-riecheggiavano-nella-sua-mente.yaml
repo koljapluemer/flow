@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Le dispute dei suoi genitori riecheggiavano nella sua mente, facendolo piangere disperatamente.
+translation: His parents' disputes echoed in his mind, making him cry helplessly.
+vocab:
+- ita/nella
+- ita/suoi
+- ita/genitori
+credits:
+- author: Nuel
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

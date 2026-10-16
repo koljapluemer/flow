@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Un hypocondriaque imagine des maladies là où elles n'existent pas.
+translation: A hypochondriac imagines maladies where none exist.
+vocab:
+- fra/un-2
+- fra/hypocondriaque
+- fra/imagine
+- fra/des
+- fra/maladies
+- fra/là
+- fra/où
+- fra/elles
+- fra/n-existent
+- fra/pas
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: darinmex
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

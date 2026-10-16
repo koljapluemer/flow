@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Sono orgoglioso di mia madre.
+translation: I'm proud of my mother.
+vocab:
+- ita/madre-2
+credits:
+- author: WM3DAS
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

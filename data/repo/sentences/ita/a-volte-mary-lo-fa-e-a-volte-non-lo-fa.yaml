@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A volte Mary lo fa e a volte non lo fa.
+translation: Sometimes Mary does that and sometimes she doesn't.
+vocab:
+- ita/a-2
+- ita/volte
+- ita/mary
+- ita/lo
+- ita/fa
+- ita/e
+- ita/a
+- ita/non
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CF
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

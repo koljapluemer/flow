@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: A Fadil piaceva sciare.
+translation: Fadil liked skiing. / Fadil liked to ski.
+vocab:
+- ita/a-2
+- ita/fadil
+- ita/piaceva
+- ita/sciare
+credits:
+- author: dnnywld
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: gcaplan
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Gettò i suoi calzini sporchi e maleodoranti sul pavimento.
+translation: He threw his dirty, smelly socks on the floor.
+vocab:
+- ita/e
+- ita/sporchi
+- ita/sul
+- ita/pavimento
+credits:
+- author: Nuel
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

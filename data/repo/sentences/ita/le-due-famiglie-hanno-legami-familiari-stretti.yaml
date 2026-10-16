@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Le due famiglie hanno legami familiari stretti.
+translation: The two families have very close ties.
+vocab:
+- ita/due
+credits:
+- author: hitori37
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

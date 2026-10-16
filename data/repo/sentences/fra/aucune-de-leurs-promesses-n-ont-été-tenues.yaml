@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Aucune de leurs promesses n'ont été tenues.
+translation: None of their promises have been kept.
+vocab:
+- fra/aucune
+- fra/de
+- fra/leurs
+- fra/promesses
+- fra/n-ont
+- fra/été
+- fra/tenues
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: CK
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

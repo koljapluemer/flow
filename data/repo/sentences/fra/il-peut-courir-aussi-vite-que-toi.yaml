@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Il peut courir aussi vite que toi.
+translation: He can run as fast as you.
+vocab:
+- fra/il-2
+- fra/peut
+- fra/courir
+- fra/aussi
+- fra/vite
+- fra/que
+- fra/toi
+credits:
+- author: unknown
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
+- author: AOCinJAPAN
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

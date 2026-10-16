@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Probabilmente non sono occupata come Tom e Mary.
+translation: I'm probably not as busy as Tom and Mary are.
+vocab:
+- ita/e
+- ita/mary
+credits:
+- author: Guybrush88
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/

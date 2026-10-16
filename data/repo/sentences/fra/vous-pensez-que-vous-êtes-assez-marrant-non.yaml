@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../schema/sentence.schema.json
+text: Vous pensez que vous êtes assez marrant, non ?
+translation: You think you're pretty funny, don't you?
+vocab:
+- fra/vous-2
+- fra/pensez
+- fra/que
+- fra/vous
+- fra/êtes
+- fra/assez
+- fra/marrant
+- fra/non
+credits:
+- author: sacredceltic
+  source: Tatoeba
+  source_url: https://tatoeba.org
+  license: CC BY 2.0 FR
+  license_url: https://creativecommons.org/licenses/by/2.0/fr/
