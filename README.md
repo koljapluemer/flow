@@ -1,6 +1,6 @@
 # german-flow
 
-Spaced-repetition practice for sentences and vocab, grouped into topics. Content is static, built by the CMS (`cms/`) and served from `public/data/`. Progress is stored per user in Dexie. Details on the practice flow: `doc/practice.md`.
+Spaced-repetition practice for sentences and vocab, grouped into topics. Content is static, built by the CMS (`cms/`) and served from `public/data/`. Progress is stored per user in Dexie. How practice works: `doc/README.md`.
 
 ## Local development
 
@@ -18,7 +18,7 @@ Content moves through three stages:
    - `topics.yaml`, `sentences.yaml`, `vocab.yaml`, `videos.yaml`: flat lists of refs.
    - `topics/<id>.yaml`: title + sentence and video refs, in any languages.
    - `sentences/<lang>/<slug>.yaml`, `vocab/<lang>/<slug>.yaml`: one file per item; its ref is `<lang>/<slug>`.
-   - `videos/<lang>/<youtube id>.yaml`: title, YouTube id and snippets (start, end, text, translation, vocab, core vocab).
+   - `videos/<lang>/<platform id>.yaml`: title, platform (`youtube`, `tiktok`) and platform id, the flags `immersion` and `explanatory`, and for immersion videos snippets (start, end, text, translation, vocab, core vocab). See `doc/videos.md`.
    - `schema/`: JSON Schemas for each item type (editors pick them up via the header comment).
 3. `public/data/` — compact JSON rendered from `data/repo/`. Never edit by hand.
 
@@ -31,7 +31,7 @@ uv run misc_scripts/001_import-video.py ../data/in/videos/<name>.yaml   # YouTub
 uv run render.py                                         # validate data/repo → public/data
 ```
 
-`000_generate-sentence-vocab.py` skips sentences already in the repo and adds generated example sentences until every vocab item has at least 3 sentences. `001_import-video.py` downloads audio and subtitles, splits the audio at speaking pauses into 5–15s snippets, and has OpenAI translate each snippet and split it into vocab (marked core or not); it adds example sentences the same way. `render.py` fails with a list of problems if the repo is invalid (schema errors, unlisted or missing files, unknown refs, overlapping snippets, too few examples).
+`000_generate-sentence-vocab.py` skips sentences already in the repo and adds generated example sentences until every vocab item has at least 3 sentences. `001_import-video.py` downloads audio and subtitles, splits the audio at speaking pauses into 5–15s snippets, and has OpenAI translate each snippet and split it into vocab (marked core or not); it adds example sentences the same way. `render.py` fails with a list of problems if the repo is invalid (schema errors, unlisted or missing files, unknown refs, overlapping snippets, immersion videos without snippets, too few examples).
 
 ## Deployment (Netlify)
 

@@ -3,7 +3,9 @@
 topics.json:       [{"id", "title"}]
 topics/<id>.json:  {"v": [[ref, lemma, translation]],
                     "s": [[ref, text, translation, [vocab index]]],
-                    "y": [[ref, youtube id, [[start, end, text, translation, [vocab index], [core vocab index]]]]]}
+                    "y": [[ref, title, platform, platform id, explanatory]],
+                    "n": [[video ref, [[start, end, text, translation, [vocab index], [core vocab index]]]]]}
+                   Snippets ("n") are only rendered for immersion videos.
 
 Usage: uv run render.py
 """
@@ -38,10 +40,11 @@ def render_snippet(snippet: dict, index: dict[str, int]) -> list:
 def render_topic(topic: dict, sentences: dict, vocab: dict, videos: dict) -> dict:
     topic_sentences = {ref: sentences[ref] for ref in topic.get("sentences", [])}
     topic_videos = {ref: videos[ref] for ref in topic.get("videos", [])}
+    immersion_videos = {ref: video for ref, video in topic_videos.items() if video["immersion"]}
     vocab_refs = list(
         dict.fromkeys(
             [ref for sentence in topic_sentences.values() for ref in sentence["vocab"]]
-            + [ref for video in topic_videos.values() for snippet in video["snippets"] for ref in snippet["vocab"]]
+            + [ref for video in immersion_videos.values() for snippet in video["snippets"] for ref in snippet["vocab"]]
         )
     )
     index = {ref: position for position, ref in enumerate(vocab_refs)}
@@ -52,8 +55,12 @@ def render_topic(topic: dict, sentences: dict, vocab: dict, videos: dict) -> dic
             for ref, sentence in topic_sentences.items()
         ],
         "y": [
-            [ref, video["youtube"], [render_snippet(snippet, index) for snippet in video["snippets"]]]
+            [ref, video["title"], video["platform"], video["platform_id"], video["explanatory"]]
             for ref, video in topic_videos.items()
+        ],
+        "n": [
+            [ref, [render_snippet(snippet, index) for snippet in video["snippets"]]]
+            for ref, video in immersion_videos.items()
         ],
     }
 

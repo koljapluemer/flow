@@ -1,7 +1,6 @@
-// Knobs of the practice queue, see doc/practice.md.
+// Knobs of the practice queue, see doc/algorithm-details.md.
+// Goals chased at once; free slots are filled with introduce goals right away.
 export const MAX_GOALS = 2
-// Chance per step to spawn an introduce goal while a goal slot is free.
-export const P_SPAWN_INTRODUCE = 0.3
 // Chance to spawn a repair goal when a composite gestalt is rated Again/Hard.
 export const P_SPAWN_REPAIR = 0.5
 // Chance per step to chase a goal instead of picking a random due gestalt.

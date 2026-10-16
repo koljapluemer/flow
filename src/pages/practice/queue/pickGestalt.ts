@@ -21,7 +21,7 @@ function chase(state: QueueState, lastShownId: string | null): GestaltPick | nul
 // to chasing when nothing is due. Never picks the gestalt shown last.
 export function pickGestalt(state: QueueState, lastShownId: string | null): GestaltPick | null {
   const dueIds = [...state.context.gestalts.keys()].filter(
-    (id) => id !== lastShownId && isDue(state.gestaltCards.get(id), state.now)
+    (id) => id !== lastShownId && isDue(state, id)
   )
   const wantsChase = Math.random() < P_CHASE
   const due = pickRandom(dueIds)

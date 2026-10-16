@@ -1,0 +1,6 @@
+# yaml-language-server: $schema=../../schema/video.schema.json
+title: Ma yenfaʿsh tekallem ummak kida
+platform: tiktok
+platform_id: '7495810055649004802'
+immersion: false
+explanatory: true

@@ -1,8 +1,8 @@
 import type { GoalRow } from '@/db/db'
 import { logger } from '@/dumb/log'
 import { deleteGoals, getGoals, putGoal } from '@/entities/goal/goal'
-import { relatedOf, type QueueState } from '../queueState'
-import { MAX_GOALS, P_SPAWN_INTRODUCE, P_SPAWN_REPAIR } from '../tuning'
+import { isIntroduced, relatedOf, type QueueState } from '../queueState'
+import { MAX_GOALS, P_SPAWN_REPAIR } from '../tuning'
 import { introduceProgress, introduceWanted, isIntroduceDone, pickIntroduceTarget } from './introduceGoal'
 import { repairWanted } from './repairGoal'
 
@@ -15,7 +15,7 @@ export function wantedGestalts(goal: GoalRow, state: QueueState): string[] {
 function isGoalDone(goal: GoalRow, state: QueueState): boolean {
   if (!state.context.gestalts.has(goal.target)) return true
   if (goal.kind === 'repair') return repairWanted(goal, state).length === 0
-  return state.gestaltCards.has(goal.target) || isIntroduceDone(goal, state)
+  return isIntroduced(state, goal.target) || isIntroduceDone(goal, state)
 }
 
 function logProgress(goal: GoalRow, state: QueueState): void {
@@ -38,18 +38,19 @@ export async function settleGoals(state: QueueState): Promise<string[]> {
   state.goals = state.goals.filter((goal) => !done.includes(goal))
   return done
     .filter((goal) => goal.kind === 'introduce' && state.context.gestalts.has(goal.target))
-    .filter((goal) => !state.gestaltCards.has(goal.target))
+    .filter((goal) => !isIntroduced(state, goal.target))
     .map((goal) => goal.target)
 }
 
-// Spawns an introduce goal by chance, or always when `force` is set.
-export async function maybeSpawnIntroduceGoal(state: QueueState, force: boolean): Promise<void> {
-  if (state.goals.length >= MAX_GOALS || (!force && Math.random() >= P_SPAWN_INTRODUCE)) return
-  const target = pickIntroduceTarget(state)
-  if (!target) return
-  const goal = await putGoal('introduce', target, state.now)
-  state.goals.push(goal)
-  log('%s: spawned%s', goal.id, force ? ' (nothing to pick)' : '')
+// Spawns introduce goals until all goal slots are taken or nothing is left to introduce.
+export async function fillIntroduceGoals(state: QueueState): Promise<void> {
+  while (state.goals.length < MAX_GOALS) {
+    const target = pickIntroduceTarget(state)
+    if (!target) return
+    const goal = await putGoal('introduce', target, state.now)
+    state.goals.push(goal)
+    log('%s: spawned', goal.id)
+  }
 }
 
 // Called after the given gestalts were rated Again/Hard.

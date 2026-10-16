@@ -13,7 +13,7 @@
       "items": { "type": "string", "pattern": "^[a-z]{3}/[^/]+$" }
     },
     "videos": {
-      "description": "Video refs (<lang>/<youtube id>), in any languages",
+      "description": "Video refs (<lang>/<platform id>), in any languages",
       "type": "array",
       "uniqueItems": true,
       "items": { "type": "string", "pattern": "^[a-z]{3}/[^/]+$" }

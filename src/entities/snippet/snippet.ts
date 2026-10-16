@@ -9,15 +9,14 @@ type SnippetTuple = [
   vocabIndexes: number[],
   coreIndexes: number[]
 ]
-export type VideoTuple = [id: string, youtubeId: string, snippets: SnippetTuple[]]
+export type VideoSnippetsTuple = [videoId: string, snippets: SnippetTuple[]]
 
-export function decodeVideos(tuples: VideoTuple[], vocabIds: string[]): SnippetRow[] {
-  return tuples.flatMap(([videoId, youtubeId, snippets]) =>
+export function decodeSnippets(tuples: VideoSnippetsTuple[], vocabIds: string[]): SnippetRow[] {
+  return tuples.flatMap(([videoId, snippets]) =>
     snippets.map(([start, end, text, translation, vocabIndexes, coreIndexes], index) => ({
       id: `${videoId}#${index}`,
       videoId,
       index,
-      youtubeId,
       start,
       end,
       text,

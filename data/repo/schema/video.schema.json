@@ -3,14 +3,16 @@
   "title": "Video",
   "type": "object",
   "additionalProperties": false,
-  "required": ["title", "youtube", "snippets"],
+  "required": ["title", "platform", "platform_id", "immersion", "explanatory"],
   "properties": {
     "title": { "type": "string", "minLength": 1 },
-    "youtube": { "description": "YouTube video id", "type": "string", "minLength": 1 },
+    "platform": { "enum": ["youtube", "tiktok"] },
+    "platform_id": { "description": "Video id on the platform", "type": "string", "minLength": 1 },
+    "immersion": { "description": "Practiced snippet by snippet", "type": "boolean" },
+    "explanatory": { "description": "Explains something about the language, watched as a whole", "type": "boolean" },
     "snippets": {
-      "description": "Clips in video order; a snippet's ref is <video ref>#<index>",
+      "description": "Clips in video order, needed if immersion; a snippet's ref is <video ref>#<index>",
       "type": "array",
-      "minItems": 1,
       "items": {
         "type": "object",
         "additionalProperties": false,

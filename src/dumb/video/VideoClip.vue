@@ -1,47 +1,41 @@
 <script setup lang="ts">
 import { onBeforeUnmount, onMounted, ref, useTemplateRef } from 'vue'
 import { RotateCcw } from 'lucide-vue-next'
-import { loadYoutubeApi, type YoutubePlayer } from './youtubeApi'
+import { videoPlatforms, type VideoPlatform } from './videoPlatforms'
+import type { VideoPlayer } from './videoPlayer'
 
-// Plays one clip of a YouTube video, from `start` to `end` (seconds).
-const props = defineProps<{ videoId: string; start: number; end: number }>()
+// Plays a video from `start` to `end` (seconds), by default the whole video.
+const props = withDefaults(defineProps<{ platform: VideoPlatform; videoId: string; start?: number; end?: number }>(), {
+  start: 0,
+  end: Infinity
+})
 
 const POLL_MS = 100
 
 const target = useTemplateRef<HTMLElement>('target')
 const error = ref('')
-let player: YoutubePlayer | null = null
+let player: VideoPlayer | null = null
 let playing = false
 let poll: ReturnType<typeof setInterval> | undefined
 
 function play(): void {
-  player?.seekTo(props.start, true)
-  player?.playVideo()
+  player?.seekTo(props.start)
+  player?.play()
   playing = true
 }
 
-// The API's own end time is imprecise, so the clip is paused here.
+// The players' own end times are imprecise, so the clip is paused here.
 function pauseAtEnd(): void {
-  if (!player || !playing || player.getCurrentTime() < props.end) return
-  player.pauseVideo()
+  if (!player || !playing || player.currentTime() < props.end) return
+  player.pause()
   playing = false
 }
 
 onMounted(async () => {
   try {
-    const api = await loadYoutubeApi()
     if (!target.value) return
-    player = new api.Player(target.value, {
-      host: 'https://www.youtube-nocookie.com',
-      videoId: props.videoId,
-      width: '100%',
-      height: '100%',
-      playerVars: { start: Math.floor(props.start), playsinline: 1, rel: 0 },
-      events: {
-        onReady: play,
-        onError: (event) => (error.value = `Video unavailable (${event.data}).`)
-      }
-    })
+    const events = { onReady: play, onError: (message: string) => (error.value = message) }
+    player = await videoPlatforms[props.platform].createPlayer(target.value, props.videoId, events)
     poll = setInterval(pauseAtEnd, POLL_MS)
   } catch (caught) {
     error.value = caught instanceof Error ? caught.message : String(caught)
@@ -62,8 +56,11 @@ onBeforeUnmount(() => {
   >
     {{ error }}
   </div>
-  <div class="aspect-video w-full">
-    <div ref="target" />
+  <div :class="videoPlatforms[platform].frameClass">
+    <div
+      ref="target"
+      class="size-full"
+    />
   </div>
   <button
     type="button"

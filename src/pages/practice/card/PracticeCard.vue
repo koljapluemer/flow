@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import type { Grade } from 'ts-fsrs'
+import type { ExerciseResult } from '@/entities/exercise/exercise'
 import type { CurrentExercise } from '../queue/usePracticeQueue'
 
 defineProps<{ current: CurrentExercise }>()
-const emit = defineEmits<{ done: [rating: Grade] }>()
+const emit = defineEmits<{ done: [result: ExerciseResult] }>()
 </script>
 
 <template>

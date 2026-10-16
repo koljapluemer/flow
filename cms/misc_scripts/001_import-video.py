@@ -64,7 +64,14 @@ def main(config_path: Path) -> None:
 
     snippets = split_snippets(audio, subtitles, folder)
     analyses = analyze(language, [snippet["text"] for snippet in snippets], list(pools.lemma_refs))
-    video = {"title": info["title"], "youtube": video_id, "snippets": build_snippets(pools, snippets, analyses)}
+    video = {
+        "title": info["title"],
+        "platform": "youtube",
+        "platform_id": video_id,
+        "immersion": True,
+        "explanatory": False,
+        "snippets": build_snippets(pools, snippets, analyses),
+    }
     pools.put("videos", ref, video)
     sentence_refs = add_examples(pools, language)
     pools.save()

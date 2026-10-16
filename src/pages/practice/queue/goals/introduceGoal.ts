@@ -1,7 +1,7 @@
 import type { GestaltCardRow, GestaltRow, GoalRow, SnippetRow } from '@/db/db'
 import { pickRandom } from '@/dumb/pickRandom'
 import { gestaltId } from '@/entities/gestalt/gestalt'
-import { relatedOf, type QueueState } from '../queueState'
+import { isIntroduced, relatedOf, type QueueState } from '../queueState'
 import { INTRODUCE_THRESHOLD } from '../tuning'
 
 // Introduce goal: practice the target's related gestalts until enough of them
@@ -30,19 +30,19 @@ function firstUnseenSnippets(state: QueueState): Set<string> {
   const firstByVideo = new Map<string, SnippetRow>()
   for (const gestalt of state.context.gestalts.values()) {
     const snippet = state.context.snippets.get(gestalt.contentId)
-    if (gestalt.kind !== 'snippet' || !snippet || state.gestaltCards.has(gestalt.id)) continue
+    if (gestalt.kind !== 'snippet' || !snippet || isIntroduced(state, gestalt.id)) continue
     const first = firstByVideo.get(snippet.videoId)
     if (!first || snippet.index < first.index) firstByVideo.set(snippet.videoId, snippet)
   }
   return new Set([...firstByVideo.values()].map((snippet) => gestaltId('snippet', snippet.id)))
 }
 
-// Composite gestalts that are not introduced and not yet targeted.
+// Composite gestalts and explanations that are not introduced and not yet targeted.
 function introduceCandidates(state: QueueState): GestaltRow[] {
   const targeted = new Set(state.goals.map((goal) => goal.target))
   const firstSnippets = firstUnseenSnippets(state)
   return [...state.context.gestalts.values()]
-    .filter((gestalt) => gestalt.kind !== 'vocab' && !state.gestaltCards.has(gestalt.id) && !targeted.has(gestalt.id))
+    .filter((gestalt) => gestalt.kind !== 'vocab' && !isIntroduced(state, gestalt.id) && !targeted.has(gestalt.id))
     .filter((gestalt) => gestalt.kind !== 'snippet' || firstSnippets.has(gestalt.id))
 }
 

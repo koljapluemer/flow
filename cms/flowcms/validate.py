@@ -54,6 +54,8 @@ def check_topics(topics: dict, pools: dict) -> list[str]:
 def check_videos(videos: dict, vocab: dict) -> list[str]:
     errors = []
     for ref, video in videos.items():
+        if video.get("immersion") and not video.get("snippets"):
+            errors.append(f"videos/{ref}: immersion video without snippets")
         previous_end = 0.0
         for index, snippet in enumerate(video.get("snippets", [])):
             where = f"videos/{ref}#{index}"

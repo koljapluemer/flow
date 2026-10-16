@@ -1,6 +1,9 @@
 # yaml-language-server: $schema=../../schema/video.schema.json
 title: العلاقات.
-youtube: ZoYMAQgRMUw
+platform: youtube
+platform_id: ZoYMAQgRMUw
+immersion: true
+explanatory: false
 snippets:
 - start: 0.438
   end: 9.628
